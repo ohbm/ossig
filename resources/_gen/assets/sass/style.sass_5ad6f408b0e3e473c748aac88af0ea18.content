@@ -2761,8 +2761,7 @@ a.box:active {
   position: relative; }
   .image img {
     display: block;
-    height: auto;
-    width: 100%; }
+    height: auto; }
     .image img.is-rounded {
       border-radius: 290486px; }
   .image.is-square img, .image.is-1by1 img, .image.is-5by4 img, .image.is-4by3 img, .image.is-3by2 img, .image.is-5by3 img, .image.is-16by9 img, .image.is-2by1 img, .image.is-3by1 img, .image.is-4by5 img, .image.is-3by4 img, .image.is-2by3 img, .image.is-3by5 img, .image.is-9by16 img, .image.is-1by2 img, .image.is-1by3 img {
@@ -6713,7 +6712,7 @@ General Keyframes animations
     transform: scale(0.95, 1.05); } }
 
 /* ==========================================================================
-Sidebar Styles 
+Sidebar Styles
 ========================================================================== */
 .menu-icon-wrapper {
   position: relative;
