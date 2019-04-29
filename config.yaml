@@ -1,4 +1,5 @@
-baseURL: http://something-fresh.org/
+# baseURL:
+disableKinds: ["taxonomy", "taxonomyTerm"]
 languageCode: en-us
 title: Hugo Fresh Theme
 theme: hugo-fresh
@@ -19,7 +20,7 @@ params:
     # Button text
     buttontext: Learn more
     # Where the main hero button links to
-    buttonlink: "#section2"
+    buttonlink: "#"
     # Hero image (from /images/___)
     image: illustrations/undraw_scrum_board.svg
   # Customizable navbar. For a dropdown, add a "sublinks" list.
