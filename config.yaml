@@ -1,0 +1,59 @@
+baseURL: http://something-fresh.org/
+languageCode: en-us
+title: Hugo Fresh Theme
+theme: hugo-fresh
+
+params:
+  navbarlogo:
+  # Logo (from /images/logos/___)
+   image: logos/ossig_logo.svg
+   link: /
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: The OHBM Open Science Special Interest Group
+    # Hero subtitle (optional)
+    subtitle: Dedicated to promoting and supporting open science within our community
+    # Button text
+    buttontext: Learn more
+    # Where the main hero button links to
+    buttonlink: "#section2"
+    # Hero image (from /images/___)
+    image: illustrations/undraw_scrum_board.svg
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Hackathon
+    url: https://ohbm.github.io/hackathon2019/
+  - title: Open Science Room
+    url: https://github.com/ohbm/OpenScienceRoom2019
+  - title: Bylaws
+    url: /
+  - title: Elections
+    url: /
+  section2:
+    title: Open science is an umbrella.
+    subtitle: We're here to help grow the community supporting it.
+    features:
+    - title: Open data
+      text: Sharing neuroimaging data isn't easy, but we can make it easier. We're interested in understanding how OHBM members share data, where they encounter difficulties, and what kinds of new infrastruce and ethics can make next-generation data-sharing possible.
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: mouse-globe
+    - title: Open code
+      text: Analysis code is often a second-class citizen in neuroimaging research, but we can change that. We help to teach scientists best-practices in software development -- and how those practices can result in real-world gains in research quality and output.
+      icon: laptop-cloud
+    - title: Open publishing
+      text: Papers shouldn't hide behind paywalls. We want to help create solutions to enable new, open-acess platforms and to facilitate free information.
+      icon: doc-sync
+  footer:
+    # Logo (from /images/logos/___)
+    logo: ossig_logo.svg
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/lucperkins/github-fresh
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://twitter.com/lucperkins
+      icon: twitter
+    bulmalogo: false
