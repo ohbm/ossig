@@ -1,7 +1,7 @@
 # baseURL:
 disableKinds: ["taxonomy", "taxonomyTerm"]
 languageCode: en-us
-title: Hugo Fresh Theme
+title: OSSIG
 theme: hugo-fresh
 
 params:
