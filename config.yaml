@@ -29,10 +29,8 @@ params:
     url: https://ohbm.github.io/hackathon2019/
   - title: Open Science Room
     url: https://github.com/ohbm/OpenScienceRoom2019
-  - title: Bylaws
-    url: /
   - title: Elections
-    url: /
+    url: https://docs.google.com/document/d/1fe6KUfjnOy7BWdvqaiH7Mazppn46KcvjMMG06zKC7-Q/edit?usp=sharing
   section2:
     title: Open science is an umbrella.
     subtitle: We're here to help grow the community supporting it.
