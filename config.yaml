@@ -1,7 +1,7 @@
 # baseURL:
 disableKinds: ["taxonomy", "taxonomyTerm"]
 languageCode: en-us
-title: OSSIG
+title: OHBM Open Science SIG
 theme: hugo-fresh
 
 params:
@@ -52,9 +52,9 @@ params:
     logo: ossig_logo.svg
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/lucperkins/github-fresh
+    - link: https://github.com/OHBM
       # Icons are from Font Awesome
       icon: github
-    - link: https://twitter.com/lucperkins
+    - link: https://twitter.com/ohbm
       icon: twitter
     bulmalogo: false
