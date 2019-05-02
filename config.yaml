@@ -40,7 +40,7 @@ params:
       # Icon (from /images/illustrations/icons/___.svg)
       icon: mouse-globe
     - title: Open code
-      text: Analysis code is often a second-class citizen in neuroimaging research, but we can change that. We help to teach scientists best-practices in software development -- and how those practices can result in real-world gains in research quality and output.
+      text: Analysis code is often a second-class citizen in neuroimaging research, but we can change that. We help to teach scientists best-practices in software development—and how those practices can result in real-world gains in research quality and output.
       icon: laptop-cloud
     - title: Open publishing
       text: Papers shouldn't hide behind paywalls. We want to help create solutions to enable new, open-acess platforms and to facilitate free information.
