@@ -20,7 +20,7 @@ params:
     # Button text
     buttontext: Learn more
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "#openumbrella"
     # Hero image (from /images/___)
     image: illustrations/undraw_scrum_board.svg
   # Customizable navbar. For a dropdown, add a "sublinks" list.
@@ -34,13 +34,14 @@ params:
   section2:
     title: Open science is an umbrella.
     subtitle: We're here to help grow the community supporting it.
+    id: openumbrella
     features:
     - title: Open data
       text: Sharing neuroimaging data isn't easy, but we can make it easier. We're interested in understanding how OHBM members share data, where they encounter difficulties, and what kinds of new infrastruce and ethics can make next-generation data-sharing possible.
       # Icon (from /images/illustrations/icons/___.svg)
       icon: mouse-globe
     - title: Open code
-      text: Analysis code is often a second-class citizen in neuroimaging research, but we can change that. We help to teach scientists best-practices in software development -- and how those practices can result in real-world gains in research quality and output.
+      text: Analysis code is often a second-class citizen in neuroimaging research, but we can change that. We help to teach scientists best-practices in software development—and how those practices can result in real-world gains in research quality and output.
       icon: laptop-cloud
     - title: Open publishing
       text: Papers shouldn't hide behind paywalls. We want to help create solutions to enable new, open-acess platforms and to facilitate free information.
