@@ -2,7 +2,8 @@
 {{- $title    := index $section2 "title" }}
 {{- $subtitle := index $section2 "subtitle" }}
 {{- $features := index $section2 "features" }}
-<section class="section is-medium" id="scrolltome">
+{{- $id       := index $section2 "id" }}
+<section class="section is-medium" id="{{ $id }}">
   <div class="container">
     <div class="columns">
       <div class="column is-centered-tablet-portrait">
