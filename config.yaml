@@ -27,7 +27,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Hackathon
-    url: https://ohbm.github.io/hackathon2019/
+    url: https://github.com/ohbm/hackathon2020
   - title: Open Science Room
     url: https://github.com/ohbm/OpenScienceRoom2019
   - title: Election Bylaws
@@ -56,7 +56,7 @@ params:
     subtitle: It is coming... Finally.
     image: illustrations/landing_hackathon_2020.jpg
     buttonText: More info here
-    buttonLink: hackathon_2020_savethedate/
+    buttonLink: https://github.com/ohbm/hackathon2020
 
   footer:
     # Logo (from /images/logos/___)
