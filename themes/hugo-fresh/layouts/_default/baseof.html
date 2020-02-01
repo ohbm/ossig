@@ -41,6 +41,10 @@
     {{ partial "section5.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.team }}
+    {{ partial "team.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.footer }}
     {{ partial "footer.html" . }}
     {{ end }}
