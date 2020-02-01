@@ -5,7 +5,7 @@
 {{- $fontFace     := replace .Site.Params.font.name " " "+" }}
 {{- $fontSizes    := delimit .Site.Params.font.sizes "," }}
 {{- $fontUrl      := printf "https://fonts.googleapis.com/css?family=%s:%s" $fontFace $fontSizes }}
-<link rel="icon" type="image/png" href="{{ "images/favicon.png" | absURL }}" />
+<link rel="icon" type="image/png" href="{{ "images/icon-160.png" | absURL }}" />
 <link href="{{ $fontUrl }}" rel="stylesheet">
 {{- if $inServerMode }}
 {{- $css := resources.Get $sass | toCSS $cssOpts }}
