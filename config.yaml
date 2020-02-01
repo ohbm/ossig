@@ -51,7 +51,7 @@ params:
       text: Papers shouldn't hide behind paywalls. We want to help create solutions to enable new, open-acess platforms and to facilitate free information.
       icon: doc-sync
 
-  section3:
+  hackathon:
     title: Save the date
     subtitle: It is coming... Finally.
     image: illustrations/landing_hackathon_2020.jpg

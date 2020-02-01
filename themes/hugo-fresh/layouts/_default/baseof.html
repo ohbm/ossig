@@ -25,6 +25,10 @@
     {{ partial "section2.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.hackathon }}
+    {{ partial "hackathon.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.section3 }}
     {{ partial "section3.html" . }}
     {{ end }}
