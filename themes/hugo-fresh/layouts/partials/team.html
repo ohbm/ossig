@@ -1,0 +1,55 @@
+{{- $team := .Site.Params.team }}
+{{- $title    := index $team "title" }}
+{{- $subtitle := index $team "subtitle" }}
+{{- $members := index $team "members" }}
+{{- $id       := index $team "id" }}
+<section class="section is-medium" id="{{ $id }}">
+
+  <div class="container">
+
+    <div class="title-wrapper has-text-centered mb-60">
+      <h1 class="title section-title">{{ $title }}</h1>
+      <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
+    </div>
+
+    <div class="tile is-ancestor">
+
+      <div class="tile is-vertical is-parent">
+
+        {{- range $members }}
+
+          <div class="tile is-child box">
+            <article class="media icon-box">
+
+              <figure class="media-left">
+                  <img src="{{ printf "/images/illustrations/faces/2020/%s.jpg" .image | relURL}}" width="175" style="border-radius:50%;">
+              </figure>
+
+              <div class="media-content">
+                <p class="title mt-30">{{ .name }}</p>
+                <p class="subtitle mt-30">{{ .role }}</p>
+
+                <div class="has-text-justified mt-10">
+                  <p> Affiliation: {{ .affiliation }} </p>
+                </div>
+
+                <div class="has-text-justified mt-20">
+                  <a href="{{ .twitter }}">
+                  <span class="icon is-large"><i class="fa fa-twitter fa-2x" style="color:#38A1F3"></i></span> </a>
+                </div>
+
+
+              </div>
+
+            </article>
+          </div>
+
+        {{- end }}
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
