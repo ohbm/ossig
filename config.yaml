@@ -43,7 +43,7 @@ params:
     buttonLink: https://github.com/ohbm/hackathon2020/blob/master/README.md
 
   team:
-    title: Our awesome team
+    title: Our team
     subtitle: The people behind the OSSIG
     id: OSSIG_team
     # images (from /images/faces/2020/___.jpg)
