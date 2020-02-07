@@ -40,7 +40,7 @@ params:
     subtitle: It is coming... Finally.
     image: illustrations/landing_hackathon_2020.jpg
     buttonText: More info here
-    buttonLink: https://github.com/ohbm/hackathon2020
+    buttonLink: https://github.com/ohbm/hackathon2020/blob/master/README.md
 
   team:
     title: Our awesome team
