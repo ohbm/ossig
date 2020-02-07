@@ -32,8 +32,10 @@ params:
     url: https://github.com/ohbm/OpenScienceRoom2019
   - title: Election Bylaws
     url: https://docs.google.com/document/d/176tTI7eLIxZkvTL8vhnM7maoCJFhLVaAgwywDnWfONo/edit?usp=sharing
-  - title: Join the OSSIG
-    url: https://docs.google.com/forms/d/e/1FAIpQLSehJ6T9LHRhwJwyvUXJ3R9mVw6OUztdei63YJofUtL2DO35ng/viewform?usp=sf_link
+  - title: Our Team
+    url: "#OSSIG_team"
+  # - title: Join the OSSIG
+  #   url: https://docs.google.com/forms/d/e/1FAIpQLSehJ6T9LHRhwJwyvUXJ3R9mVw6OUztdei63YJofUtL2DO35ng/viewform?usp=sf_link
 
   hackathon:
     title: Save the date
