@@ -1,4 +1,4 @@
-# baseURL:
+# baseURL: "https://ossig.netlify.com/"
 disableKinds: ["taxonomy", "taxonomyTerm"]
 languageCode: en-us
 title: OHBM Open Science SIG
@@ -27,7 +27,7 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Our Team
-    url: "#OSSIG_team"
+    url: "/#OSSIG_team"
   - title: Hackathon
     url: "hackathon"
   - title: Open Science Room
