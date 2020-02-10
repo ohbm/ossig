@@ -32,6 +32,8 @@ params:
     url: "/hackathon"
   - title: Open Science Room
     url: https://github.com/ohbm/OpenScienceRoom2019
+  - title: Sponsors
+    url: "/sponsors"
   # - title: Election Bylaws
   #   url: https://docs.google.com/document/d/176tTI7eLIxZkvTL8vhnM7maoCJFhLVaAgwywDnWfONo/edit?usp=sharing
   # - title: Join the OSSIG
@@ -132,6 +134,30 @@ params:
       image: tom_nichols
       affiliation: University of Oxford, Nuffield Department of Population Health
       twitter: https://twitter.com/ten_photos
+
+  sponsors:
+    title: Our sponsors
+    subtitle: We are grateful for the generous support of our sponsors
+    titleopp: Sponsorship opportinities
+    subtitleopp: Interested in supporting us? Please see our sponsorship opportinities below!
+    sponsors:
+    # - name: Open science champions
+    #   oursponsors: 
+    #     - name: 
+    # - name: Hackathon champions
+    #   oursponsors: 
+    #     - name: 
+    - name: Open Science Room supporter
+      oursponsors: 
+        - name: "Openneuro"
+          image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/OpenNeuro_Logo.png/500px-OpenNeuro_Logo.png
+    - name: Hackathon supporter
+      oursponsors: 
+        - name: "INCF"
+          image: https://www.incf.org/sites/default/files/INCF_logo_with_tagline.png
+    # - name: Sponsors
+    #   oursponsors: 
+    #     - name: 
 
   section2:
     title: Open science is an umbrella.
