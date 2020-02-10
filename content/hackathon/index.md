@@ -1,5 +1,6 @@
 ---
-title: "OHBM hackathon 2020 - Save the date"
+title: "OHBM hackathon 2020"
+subtitle: "June 23-25, 2020. Save the date!"
 date: 2020-01-26T21:55:26+01:00
 draft: false
 sidebar: false # true or false to display the sidebar
