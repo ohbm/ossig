@@ -26,21 +26,21 @@
               <div class="media-content">
                 <p class="title mt-30">{{ .name }}</p>
                 {{- range .oursponsors }}
-                  
+
                   <figure style="float:left; padding:10px">
                     {{ if .image }}
-                      <img src="{{ .image | relURL}}" style="height:100px">
+                      <a href="{{ .url }}"><img src="{{ .image | relURL}}" style="height:100px"></a> 
                     {{ else }}
-                      {{ .name }}
+
                     {{ end }}
                   </figure>
-                  
+
                 {{- end }}
 
               </div>
 
             </article>
-          </div> 
+          </div>
 
         {{- end }}
 
@@ -61,7 +61,7 @@
 
       <div class="tile is-vertical is-parent">
 
-        
+
 
       </div>
 
