@@ -138,8 +138,8 @@ params:
   sponsors:
     title: Our sponsors
     subtitle: We are grateful for the generous support of our sponsors
-    titleopp: Sponsorship opportinities
-    subtitleopp: Interested in supporting us? Please see our sponsorship opportinities below!
+    titleopp: Sponsorship opportunities
+    subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
     # - name: Open science champions
     #   oursponsors: 
