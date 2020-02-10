@@ -29,7 +29,7 @@ params:
   - title: Our Team
     url: "/#OSSIG_team"
   - title: Hackathon
-    url: "hackathon"
+    url: "/hackathon"
   - title: Open Science Room
     url: https://github.com/ohbm/OpenScienceRoom2019
   # - title: Election Bylaws
