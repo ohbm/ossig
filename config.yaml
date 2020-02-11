@@ -185,6 +185,6 @@ params:
     - link: https://github.com/OHBM
       # Icons are from Font Awesome
       icon: github
-    - link: https://twitter.com/ohbm
+    - link: https://twitter.com/ohbmopen
       icon: twitter
     bulmalogo: false
