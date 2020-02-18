@@ -8,7 +8,7 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-The OHBM Open Science SIG is very happy to announce that the 8th Annual OHBM Brainhack will be held **June 23-25 at Phi Centre in Montreal**. 
+The OHBM Open Science SIG is very happy to announce that the 8th Annual OHBM Brainhack will be held **June 23-25 at Phi Centre in Montreal**.
 
 ![](landing_hackathon_2020.jpg)
 
@@ -21,7 +21,7 @@ For this years’s hackathon, we want to create an atmosphere where people who h
 
 ## Applications are now open for the OHBM Hackathon Travel Awards
 
-The Open Science Special Interest Group is pleased to offer 20 travel awards that will include free registration at the hackathon plus $500 USD that will go towards covering part of the expenses incurred to attend the hackathon. Submit your application no later than March 8th: http://ossig.netlify.com/awards. 
+The Open Science Special Interest Group is pleased to offer 20 travel awards that will include free registration at the hackathon plus $500 USD that will go towards covering part of the expenses incurred to attend the hackathon. Submit your application no later than March 15th: http://ossig.netlify.com/awards. 
 
 ## Registration for the OHBM Brainhack will open in the middle of March
 Soon after OHBM abstract acceptances are sent out, registration for the OHBM Brainhack will open. In the past two years the hackathon was fully booked, and we therefore recommend to register early. Seats will be allocated on a first come first serve basis. In an effort to increase diversity at the event, we will reserve part of the seats to attendees who attend a hackathon for the first time or who come from traditionally under-represented groups in science or in past hackathons.
