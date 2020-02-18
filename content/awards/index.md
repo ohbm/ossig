@@ -8,7 +8,7 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-![](../hackathon/landing_hackathon_2020.jpg)
+![](../hackathon/landing_hackathon_2020_low.jpg)
 
 **The Open Science Special Interest Group is pleased to offer 20 travel awards that will include free registration at the hackathon plus $500 USD that will go towards covering part of the expenses incurred to attend the hackathon.**
 

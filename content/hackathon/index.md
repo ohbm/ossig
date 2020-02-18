@@ -10,7 +10,7 @@ include_footer: true
 
 The OHBM Open Science SIG is very happy to announce that the 8th Annual OHBM Brainhack will be held **June 23-25 at Phi Centre in Montreal**.
 
-![](landing_hackathon_2020.jpg)
+![](landing_hackathon_2020_low.jpg)
 
 
 ## What is a hackathon?
