@@ -149,16 +149,20 @@ params:
     # - name: Hackathon champions
     #   oursponsors:
     #     - name:
+    - name: Hackathon supporters
+      oursponsors:
+        - name: "INCF"
+          image: /images/logos/incf_logo.png
+          url: https://www.incf.org/
+        - name: "Child Mind Institute"
+          url: https://childmind.org/
+        - name: "Ludmer Centre"
+          url: http://ludmercentre.ca/
     - name: Open Science Room supporter
       oursponsors:
         - name: "Openneuro"
-          image: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/OpenNeuro_Logo.png/500px-OpenNeuro_Logo.png
+          image: /images/logos/openneuro_logo.png
           url: https://openneuro.org/
-    - name: Hackathon supporter
-      oursponsors:
-        - name: "INCF"
-          image: https://www.incf.org/sites/default/files/INCF_logo_with_tagline.png
-          url: https://www.incf.org/
     # - name: Sponsors
     #   oursponsors:
     #     - name:
