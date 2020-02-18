@@ -28,11 +28,13 @@
                 {{- range .oursponsors }}
 
                   <figure style="float:left; padding:10px">
+                    <a href="{{ .url }}">
                     {{ if .image }}
-                      <a href="{{ .url }}"><img src="{{ .image | relURL}}" style="height:100px"></a> 
+                      <img src="{{ .image | relURL}}" style="height:100px">
                     {{ else }}
-
+                      {{ .name }}
                     {{ end }}
+                    </a> 
                   </figure>
 
                 {{- end }}
