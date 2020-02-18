@@ -1,0 +1,54 @@
+{{- $hackathon   := .Site.Params.hackathon }}
+{{- $title      := index $hackathon "title" }}
+{{- $subtitle   := index $hackathon "subtitle" }}
+{{- $image      := index $hackathon "image" }}
+{{- $buttonText := index $hackathon "buttontext" }}
+{{- $buttonLink := index $hackathon "buttonlink" }}
+{{- $id         := index $hackathon "id" }}
+
+<section class="section section-feature-white is-medium"  id="{{ $id }}">
+
+<div class="container">
+
+    <div class="title-wrapper has-text-centered">
+      <h2 class="title is-2">{{ $title }}</h2>
+      <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
+    </div>
+
+    <div class="columns mt-20">
+
+      <div class="column is-10 is-offset-1">
+        <div class="has-text-centered">
+          <img class="pushed-image-mt" src="{{ printf "/images/%s" $image | relURL }}">
+        </div>
+      </div>
+
+    </div>
+
+    <article class="media icon-box">
+      <div class="media-content mt-20">
+        <div class="content">
+          <p>
+            <span class="icon-box-title">A hackathon? For who?</span>
+
+            <span class="icon-box-text">
+              At the OHBM hackathon members of the community gather to work collaboratively on common projects.
+              <br> Hackathons differ from typical academic conference in that because attendees can actively take part in the program and co-learn from each other will be actively trying to create something rather than passively attend.
+              Although many hackathon projects might involve coding, it is not a requirement and many projects can be done without coding skills.
+              <br> The event also features a TrainTrack in which tutorials on open science practices are provided.
+            </span>
+
+          </p>
+        </div>
+      </div>
+    </article>
+
+    <p class="has-text-centered mt-20">
+      <a class="button cta is-large rounded secondary-btn raised" href="{{ $buttonLink }}">
+        {{ $buttonText }}
+      </a>
+    </p>
+
+  </div>
+
+</section>

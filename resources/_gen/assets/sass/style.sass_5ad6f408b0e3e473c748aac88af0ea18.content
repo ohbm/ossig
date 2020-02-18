@@ -246,8 +246,7 @@ html {
   overflow-x: hidden;
   overflow-y: scroll;
   text-rendering: optimizeLegibility;
-  text-size-adjust: 100%;
-  scroll-behavior: smooth;}
+  text-size-adjust: 100%; }
 
 article,
 aside,
@@ -6377,7 +6376,7 @@ Section Styles
   padding: 60px 0; }
 
 img.pushed-image {
-  margin-top: -29vh; }
+  margin-top: 15vh; }
 
 .media.icon-box {
   border-top: none !important; }
@@ -6396,8 +6395,8 @@ img.pushed-image {
 Hero styles
 ========================================================================== */
 .hero-body {
-  padding-top: 6rem;
-  padding-bottom: 6rem; }
+  padding-top: 50px;
+  padding-bottom: 50px; }
   .hero-body .title, .hero-body .subtitle {
     font-family: 'Open Sans', sans-serif; }
   .hero-body .title.is-bold {
@@ -6406,7 +6405,7 @@ Hero styles
     color: #999; }
 
 .hero-foot img.partner-logo {
-  height: 70px; }
+  height: 50px; }
 
 /* ==========================================================================
 Fresh Footer
@@ -6714,7 +6713,7 @@ General Keyframes animations
     transform: scale(0.95, 1.05); } }
 
 /* ==========================================================================
-Sidebar Styles
+Sidebar Styles 
 ========================================================================== */
 .menu-icon-wrapper {
   position: relative;
@@ -7119,5 +7118,17 @@ body #backtotop a {
 :-moz-placeholder {
   /* Firefox 18- */
   color: #cecece; }
+
+/* ==========================================================================
+Main SCSS file / local
+========================================================================== */
+/* ==========================================================================
+Section Styles
+========================================================================== */
+img.pushed-image-mt {
+  margin-top: 1vh; }
+
+.media-left {
+  min-width: 25%; }
 
 /*# sourceMappingURL=style.css.map */

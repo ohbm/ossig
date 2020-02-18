@@ -17,6 +17,10 @@
     {{ partial "hero.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.hackathon }}
+    {{ partial "hackathon.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.section1 }}
     {{ partial "section1.html" . }}
     {{ end }}
@@ -37,6 +41,10 @@
     {{ partial "section5.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.team }}
+    {{ partial "team.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.footer }}
     {{ partial "footer.html" . }}
     {{ end }}
@@ -47,7 +55,7 @@
     {{ if .Site.Params.sidebar }}
     {{ partial "sidebar.html" . }}
     {{ end }}
-    
+
     {{ end }}
 
     {{ partial "javascript.html" . }}
