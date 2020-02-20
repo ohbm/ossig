@@ -2,6 +2,7 @@
 {{- $title    := index $sponsors "title" }}
 {{- $subtitle := index $sponsors "subtitle" }}
 {{- $titleopp    := index $sponsors "titleopp" }}
+{{- $tiersimage  := index $sponsors "tiersimage" }}
 {{- $subtitleopp := index $sponsors "subtitleopp" }}
 {{- $looking       := index $sponsors "looking" }}
 {{- $sponsors       := index $sponsors "sponsors" }}
@@ -62,9 +63,7 @@
     <div class="tile is-ancestor">
 
       <div class="tile is-vertical is-parent">
-
-
-
+          <img src="{{ $tiersimage | relURL}}">
       </div>
 
     </div>

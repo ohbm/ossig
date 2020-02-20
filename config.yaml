@@ -141,6 +141,7 @@ params:
     title: Our sponsors
     subtitle: We are grateful for the generous support of our sponsors
     titleopp: Sponsorship opportunities
+    tiersimage: /images/illustrations/ossig_sponsorship_tiers.png
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
     # - name: Open science champions
