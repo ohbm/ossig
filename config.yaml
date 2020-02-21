@@ -161,10 +161,10 @@ params:
         - name: "Ludmer Centre"
           image: /images/logos/ludmer_logo.png
           url: http://ludmercentre.ca/
-        - name: "Courtois NeuroMod"
-          image: /images/logos/cneuromod_logo.svg
-          url: https://www.cneuromod.ca/
-          height: 5em
+        # - name: "Courtois NeuroMod"
+        #   image: /images/logos/cneuromod_logo.svg
+        #   url: https://www.cneuromod.ca/
+        #   height: 5em
     - name: Open Science Room supporter
       oursponsors:
         - name: "Openneuro"
