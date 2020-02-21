@@ -28,10 +28,14 @@
                 <p class="title mt-30">{{ .name }}</p>
                 {{- range .oursponsors }}
 
-                  <figure style="float:left; padding:10px">
+                  <figure style="float:left; padding:5px;">
                     <a href="{{ .url }}">
                     {{ if .image }}
-                      <img src="{{ .image | relURL}}" style="height:100px">
+                        {{ if .height }}
+                      <img src="{{ .image | relURL}}" style="height: .height; padding-top:15px;">
+                        {{ else }}
+                      <img src="{{ .image | relURL}}" style="height:8em; padding-top:15px;">
+                        {{ end }}
                     {{ else }}
                       {{ .name }}
                     {{ end }}
