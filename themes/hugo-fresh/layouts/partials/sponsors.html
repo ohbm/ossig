@@ -2,6 +2,7 @@
 {{- $title    := index $sponsors "title" }}
 {{- $subtitle := index $sponsors "subtitle" }}
 {{- $titleopp    := index $sponsors "titleopp" }}
+{{- $tiersimage  := index $sponsors "tiersimage" }}
 {{- $subtitleopp := index $sponsors "subtitleopp" }}
 {{- $looking       := index $sponsors "looking" }}
 {{- $sponsors       := index $sponsors "sponsors" }}
@@ -27,10 +28,14 @@
                 <p class="title mt-30">{{ .name }}</p>
                 {{- range .oursponsors }}
 
-                  <figure style="float:left; padding:10px">
+                  <figure style="float:left; padding:5px;">
                     <a href="{{ .url }}">
                     {{ if .image }}
-                      <img src="{{ .image | relURL}}" style="height:100px">
+                        {{ if .height }}
+                      <img src="{{ .image | relURL}}" style="height: .height; padding-top:15px;">
+                        {{ else }}
+                      <img src="{{ .image | relURL}}" style="height:8em; padding-top:15px;">
+                        {{ end }}
                     {{ else }}
                       {{ .name }}
                     {{ end }}
@@ -62,9 +67,7 @@
     <div class="tile is-ancestor">
 
       <div class="tile is-vertical is-parent">
-
-
-
+          <img src="{{ $tiersimage | relURL}}">
       </div>
 
     </div>
