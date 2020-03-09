@@ -103,12 +103,12 @@ params:
 
       # OSR
     - name: Cassandra Gould van Praag
-      role: Open Science Room Organizer
+      role: Open Science Room Co-Chair
       image: cass_gvp
       affiliation: University of Oxford, Department of Psychiatry
       twitter: https://twitter.com/cassgvp
     - name: Stephan Heunis
-      role: Open Science Room Organizer
+      role: Open Science Room Co-Chair
       image: stephan_heunis
       affiliation: Eindhoven University of Technology, Department of Electrical Engineering
       twitter: https://twitter.com/fmrwhy
