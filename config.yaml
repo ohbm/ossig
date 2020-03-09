@@ -159,8 +159,11 @@ params:
           # image: /images/logos/child-mind-institute_logo.png
           url: https://childmind.org/
         - name: "Ludmer Centre"
-          # image: /images/logos/ludmer_logo.png
+          image: /images/logos/ludmer_logo.png
           url: http://ludmercentre.ca/
+        - name: "Quebec Bio-Imaging Network"
+          image: /images/logos/QBIN_logo.png 
+          url: https://www.rbiq-qbin.qc.ca/Accueil
         # - name: "Courtois NeuroMod"
         #   image: /images/logos/cneuromod_logo.svg
         #   url: https://www.cneuromod.ca/
