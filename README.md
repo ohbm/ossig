@@ -40,3 +40,8 @@ include_footer: true
 here write the actual content of your page using markdown.
 
 ```
+
+## Deploying
+The OS-SIG website is currently hosted on [netlify](https://www.netlify.com/) under the account of Camille Maumet. 
+
+Note: We have disabled the auto-publish option that automatically publishes online the updated website each time a new commit is pushed to the `master` branch. We did this because, for some unknown reasons, the deploys sometimes fails to properly create all the secondary pages (more specifically: there is no error but when clicking on the "Hackathon" link the page never loads). We have noticed that by re-running the deploy manually (sometimes more than once) the problem eventually disappears. With the auto-publish disabled, we can manually check that the latest deploys worked fine before manually publishing. 
