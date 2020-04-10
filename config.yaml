@@ -30,7 +30,7 @@ params:
     url: "/#OSSIG_team"
   - title: Hackathon
     url: "/hackathon"
-  - title: Travel awards
+  - title: Awards
     url: "/awards"
   - title: Open Science Room
     url: "/osr"
