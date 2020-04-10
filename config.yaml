@@ -30,10 +30,10 @@ params:
     url: "/#OSSIG_team"
   - title: Hackathon
     url: "/hackathon"
-  - title: Travel awards
+  - title: Awards
     url: "/awards"
   - title: Open Science Room
-    url: https://github.com/ohbm/OpenScienceRoom2019
+    url: "/osr"
   - title: Sponsors
     url: "/sponsors"
   # - title: Election Bylaws

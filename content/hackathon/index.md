@@ -1,6 +1,6 @@
 ---
-title: "OHBM hackathon 2020"
-subtitle: "June 23-25, 2020. Save the date!"
+title: "OHBM Brainhack 2020"
+subtitle: "A virtual hackathon!"
 date: 2020-01-26T21:55:26+01:00
 draft: false
 sidebar: false # true or false to display the sidebar
@@ -8,23 +8,16 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-The OHBM Open Science SIG is very happy to announce that the 8th Annual OHBM Brainhack will be held **June 23-25 at Phi Centre in Montreal**.
+**Update: Like the OHBM meeting, we have decided to run all of the OS-SIG 2020 events virtually.** We are planning for the OHBM Brainhack to take place online in the days before the OHBM meeting and are working hard to build an exciting online experience that will maintain active participation. 
 
-![](landing_hackathon_2020.jpg)
+We are now seeking volunteers from the community to help us run our events, please fill in [this form](https://forms.gle/14qkXPYB5265ZvfPA) to join us! 
 
 
 ## What is a hackathon?
 
-At the OHBM hackathon members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials are provided. Hackathons differ from typical academic conference in that because attendees can actively take part in the program and co-learn from each other will be actively trying to create something rather than passively attend. Although many hackathon projects might involve coding, it is not a requirement and many projects can be done without coding skills.
+At the OHBM Brainhack members of the community gather to work collaboratively on common projects. The event also features a TrainTrack in which tutorials are provided. Hackathons differ from typical academic conference in that because attendees can actively take part in the program and co-learn from each other will be actively trying to create something rather than passively attend. Although many hackathon projects might involve coding, it is not a requirement and many projects can be done without coding skills.
 
 For this years’s hackathon, we want to create an atmosphere where people who have never attended such event before can feel welcome. We want to make sure that attendees not only have the opportunity to learn new open-science skills in the traintrack that will help them in their future work but that they also get the chance to directly practice some of those skills by joining and collaborate on a hackathon project.
-
-## Applications are now open for the OHBM Hackathon Travel Awards
-
-The Open Science Special Interest Group is pleased to offer 20 travel awards that will include free registration at the hackathon plus $500 USD that will go towards covering part of the expenses incurred to attend the hackathon. Submit your application no later than March 15th: http://ossig.netlify.com/awards. 
-
-## Registration for the OHBM Brainhack will open in the middle of March
-Soon after OHBM abstract acceptances are sent out, registration for the OHBM Brainhack will open. In the past two years the hackathon was fully booked, and we therefore recommend to register early. Seats will be allocated on a first come first serve basis. In an effort to increase diversity at the event, we will reserve part of the seats to attendees who attend a hackathon for the first time or who come from traditionally under-represented groups in science or in past hackathons.
 
 ## Please contribute your favorite TrainTrack session!
 Are there specific topics that you would like to see covered in the Hackathon training sessions? Please let us know using [this form](https://forms.gle/LbngA8xVDYj3Ep9W7).
