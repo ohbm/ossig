@@ -138,10 +138,10 @@ params:
       twitter: https://twitter.com/ten_photos
 
   sponsors:
-    title: Our sponsors
-    subtitle: We are grateful for the generous support of our sponsors
+    # title: Our sponsors
+    # subtitle: We are grateful for the generous support of our sponsors
     titleopp: Sponsorship opportunities
-    tiersimage: /images/illustrations/ossig_sponsorship_tiers.png
+    tiersimage: /images/illustrations/ossig_sponsorship_tiers.jpg
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
     # - name: Open science champions
@@ -150,26 +150,26 @@ params:
     # - name: Hackathon champions
     #   oursponsors:
     #     - name:
-    - name: Hackathon supporters
-      oursponsors:
-        - name: "INCF"
-          image: /images/logos/incf_logo.png
-          url: https://www.incf.org/
-        - name: "Child Mind Institute"
-          # image: /images/logos/child-mind-institute_logo.png
-          url: https://childmind.org/
-        - name: "Ludmer Centre"
-          # image: /images/logos/ludmer_logo.png
-          url: http://ludmercentre.ca/
-        # - name: "Courtois NeuroMod"
-        #   image: /images/logos/cneuromod_logo.svg
-        #   url: https://www.cneuromod.ca/
-        #   height: 5em
-    - name: Open Science Room supporter
-      oursponsors:
-        - name: "Openneuro"
-          image: /images/logos/openneuro_logo.png
-          url: https://openneuro.org/
+    # - name: Hackathon supporters
+    #   oursponsors:
+    #     - name: "INCF"
+    #       image: /images/logos/incf_logo.png
+    #       url: https://www.incf.org/
+    #     - name: "Child Mind Institute"
+    #       # image: /images/logos/child-mind-institute_logo.png
+    #       url: https://childmind.org/
+    #     - name: "Ludmer Centre"
+    #       # image: /images/logos/ludmer_logo.png
+    #       url: http://ludmercentre.ca/
+    #     # - name: "Courtois NeuroMod"
+    #     #   image: /images/logos/cneuromod_logo.svg
+    #     #   url: https://www.cneuromod.ca/
+    #     #   height: 5em
+    # - name: Open Science Room supporter
+    #   oursponsors:
+    #     - name: "Openneuro"
+    #       image: /images/logos/openneuro_logo.png
+    #       url: https://openneuro.org/
     # - name: Sponsors
     #   oursponsors:
     #     - name:
