@@ -1,5 +1,5 @@
 ---
-title: "Open Science Room 2020"
+title: "Open Science Room"
 subtitle: "An online experience!"
 date: 2020-01-26T21:55:26+01:00
 draft: false
@@ -8,6 +8,9 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-**Update: Like the OHBM meeting, we have decided to run all of the OS-SIG 2020 events virtually.** We are planning for the Open Science Room (OSR) to run online in parallel to the main meeting and are working hard to build an exciting online experience that will maintain active participation. 
+All OS-SIG events 2020 will run virtually. **Visit [the Open Science Room 2020 website](https://ohbm.github.io/osr2020/) for more information** on our event, including call for talks, volunteers and speakers mini-grants!
 
-We are now seeking volunteers from the community to help us run our events, please fill in [this form](https://forms.gle/14qkXPYB5265ZvfPA) to join us! 
+
+
+
+ 
