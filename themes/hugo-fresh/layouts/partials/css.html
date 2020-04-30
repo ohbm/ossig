@@ -4,9 +4,9 @@
 {{- $cssOpts      := cond ($inServerMode) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") }}
 {{- $fontFace     := replace .Site.Params.font.name " " "+" }}
 {{- $fontSizes    := delimit .Site.Params.font.sizes "," }}
-{{- $fontUrl      := printf "https://fonts.googleapis.com/css?family=%s:%s" $fontFace $fontSizes }}
+<!-- {{- $fontUrl      := printf "https://fonts.googleapis.com/css?family=%s:%s" $fontFace $fontSizes }} -->
 <link rel="icon" type="image/png" href="{{ "images/icon-160.png" | absURL }}" />
-<link href="{{ $fontUrl }}" rel="stylesheet">
+<!-- <link href="{{ $fontUrl }}" rel="stylesheet"> -->
 {{- if $inServerMode }}
 {{- $css := resources.Get $sass | toCSS $cssOpts }}
 <link rel="stylesheet" type="text/css" href="{{ $css.RelPermalink }}">
