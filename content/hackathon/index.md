@@ -1,5 +1,5 @@
 ---
-title: "OHBM hackathon 2020"
+title: "OHBM Brainhack 2020"
 subtitle: "A virtual hackathon!"
 date: 2020-01-26T21:55:26+01:00
 draft: false
@@ -8,22 +8,22 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-**Update: Like the OHBM meeting, we have decided to run all of the OS-SIG 2020 events virtually.**
+All OS-SIG events 2020 will run virtually. **The OHBM Brainhack -- the Hackathon organized by the OS-SIG -- will happen on June 16-18**. 
 
-The OHBM Hackathon will happen on June 16-18. The hackathon will be available globally through 3 hubs:
+The event will be available globally through 3 hubs:
 -   The Americas
 -   Europe, Middle East & Africa
--   Asia & Pacific Oceania
+-   Asia and Pacific
 
-We are planning to have 6 hours of common content in each hub and then people will be encouraged to continue hacking in the 9am-5pm range of their timezone.
+To accomodate different timezones, the schedule will include 6 hours of common content within hubs and attendees will have the opportunity to participate in asynchroneous activities during the rest of their working day.
 
-We will open soon registration for ~500 attendees (to have a bit less than 200 people per hub at max).
+**Registration will open soon for a total of 500 attendees across the three hubs. Full registration will be 25 USD.** 
 
-We will be teaming up with the [Brainhack global](http://www.brainhack.org/global2019/) team to coordinate everything and we are all working very hard to make this a great event.
+Reduced registration will be available for those who work and reside in countries ranking low middle (5 USD) or low (0 USD) on The [World Bank's country income classification list](https://www.humanbrainmapping.org/files/2020/List%20of%20Economies.pdf). In addition, those who cannot support the cost of the hackathon will also be able to apply for reduced registration.
 
-We are seeking volunteers from the community to help us run our events, please fill in [this form](https://forms.gle/14qkXPYB5265ZvfPA) to join us!
+The OHBM Brainhack is organized and run by the OS-SIG with support from many volunteers in the OHBM community. We are in particular grateful for the help of the [Brainhack Global team](http://www.brainhack.org/global2019/). 
 
-More updates are coming soon.
+More updates coming soon...
 
 ## What is a hackathon?
 
