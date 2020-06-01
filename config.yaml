@@ -161,9 +161,12 @@ params:
         - name: "CONP"
           image: /images/logos/conp_logo.png
           url: https://conp.ca/
+    - name: Hackathon supporters
+      oursponsors:
+        - name: "WIN"
+          image: /images/logos/logo_WIN_clear.png
+          url: https://www.win.ox.ac.uk/
 
-    # - name: Hackathon supporters
-    #   oursponsors:
     #     - name: "Child Mind Institute"
     #       # image: /images/logos/child-mind-institute_logo.png
     #       url: https://childmind.org/
