@@ -175,9 +175,11 @@ params:
     #       url: http://ludmercentre.ca/
     # - name: Open Science Room supporter
     #   oursponsors:
-    # - name: Sponsors
-    #   oursponsors:
-    #     - name:
+    - name: Sponsors
+      oursponsors:
+        - name: "OHBM Australian chapter"
+          image: "/images/logos/OHBM_australian_chapter.png"
+          url: "https://ohbmaustralia.wordpress.com/"
 
   section2:
     title: Open science is an umbrella.
