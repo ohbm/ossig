@@ -30,10 +30,10 @@ params:
     url: "/#OSSIG_team"
   - title: Hackathon
     url: "/hackathon"
-  - title: Travel awards
+  - title: Awards
     url: "/awards"
   - title: Open Science Room
-    url: https://github.com/ohbm/OpenScienceRoom2019
+    url: "/osr"
   - title: Sponsors
     url: "/sponsors"
   # - title: Election Bylaws
@@ -64,7 +64,7 @@ params:
     - name: Ana Van Gulick
       role: Secretary
       image: ana_van_gulick
-      affiliation: Carnegie Mellon University, University Libraries, Department of Psychology
+      affiliation: Figshare; Carnegie Mellon University, University Libraries and Department of Psychology
       twitter: https://twitter.com/anavangulick
     - name: Eugene Duff
       role: Treasurer
@@ -141,41 +141,55 @@ params:
     title: Our sponsors
     subtitle: We are grateful for the generous support of our sponsors
     titleopp: Sponsorship opportunities
-    tiersimage: /images/illustrations/ossig_sponsorship_tiers.png
+    tiersimage: /images/illustrations/ossig_sponsorship_tiers.jpg
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
-    # - name: Open science champions
-    #   oursponsors:
-    #     - name:
-    # - name: Hackathon champions
-    #   oursponsors:
-    #     - name:
-    - name: Hackathon supporters
+    - name: Open science champions
+      oursponsors:
+        - name: "Openneuro"
+          image: /images/logos/openneuro_logo.png
+          url: https://openneuro.org/
+    - name: Hackathon champions
       oursponsors:
         - name: "INCF"
           image: /images/logos/incf_logo.png
           url: https://www.incf.org/
-        - name: "Child Mind Institute"
-          # image: /images/logos/child-mind-institute_logo.png
-          url: https://childmind.org/
-        - name: "Ludmer Centre"
-          image: /images/logos/ludmer_logo.png
-          url: http://ludmercentre.ca/
-        - name: "Quebec Bio-Imaging Network"
-          image: /images/logos/QBIN_logo.png 
-          url: https://www.rbiq-qbin.qc.ca/Accueil
         # - name: "Courtois NeuroMod"
         #   image: /images/logos/cneuromod_logo.svg
         #   url: https://www.cneuromod.ca/
         #   height: 5em
     - name: Open Science Room supporter
+        - name: "Courtois NeuroMod"
+          image: /images/logos/cneuromod_logo.svg
+          url: https://www.cneuromod.ca/
+          height: 5em
+        - name: "CONP"
+          image: /images/logos/conp_logo.png
+          url: https://conp.ca/
+    - name: Hackathon supporters
       oursponsors:
-        - name: "Openneuro"
-          image: /images/logos/openneuro_logo.png
-          url: https://openneuro.org/
-    # - name: Sponsors
+        - name: "WIN"
+          image: /images/logos/logo_WIN_clear.png
+          url: https://www.win.ox.ac.uk/
+        - name: "UNIQUE"
+          image: /images/logos/Unique_logo.png
+          url: http://unique.quebec
+        - name: "Quebec Bio-Imaging Network"
+          image: /images/logos/QBIN_logo.png 
+          url: https://www.rbiq-qbin.qc.ca/Accueil
+    #     - name: "Child Mind Institute"
+    #       # image: /images/logos/child-mind-institute_logo.png
+    #       url: https://childmind.org/
+    #     - name: "Ludmer Centre"
+    #       # image: /images/logos/ludmer_logo.png
+    #       url: http://ludmercentre.ca/
+    # - name: Open Science Room supporter
     #   oursponsors:
-    #     - name:
+    - name: Sponsors
+      oursponsors:
+        - name: "OHBM Australian chapter"
+          image: "/images/logos/OHBM_australian_chapter.png"
+          url: "https://ohbmaustralia.wordpress.com/"
 
   section2:
     title: Open science is an umbrella.
