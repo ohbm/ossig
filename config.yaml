@@ -166,7 +166,9 @@ params:
         - name: "WIN"
           image: /images/logos/logo_WIN_clear.png
           url: https://www.win.ox.ac.uk/
-
+        - name: "UNIQUE"
+          image: /images/logos/logo_Unique.png
+          url: http://unique.quebec
     #     - name: "Child Mind Institute"
     #       # image: /images/logos/child-mind-institute_logo.png
     #       url: https://childmind.org/
