@@ -169,14 +169,9 @@ params:
         - name: "UNIQUE"
           image: /images/logos/Unique_logo.png
           url: http://unique.quebec
-    #     - name: "Child Mind Institute"
-    #       # image: /images/logos/child-mind-institute_logo.png
-    #       url: https://childmind.org/
-    #     - name: "Ludmer Centre"
-    #       # image: /images/logos/ludmer_logo.png
-    #       url: http://ludmercentre.ca/
-    # - name: Open Science Room supporter
-    #   oursponsors:
+        - name: "Quebec Bio-Imaging Network"
+          image: /images/logos/QBIN_logo.png 
+          url: https://www.rbiq-qbin.qc.ca/Accueil
     - name: Sponsors
       oursponsors:
         - name: "OHBM Australian chapter"
