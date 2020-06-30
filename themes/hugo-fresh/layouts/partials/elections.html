@@ -1,0 +1,42 @@
+{{- $elections := .Site.Params.elections }}
+{{- $title    := index $elections "title" }}
+{{- $subtitle := index $elections "subtitle" }}
+{{- $features := index $elections "features" }}
+{{- $id       := index $elections "id" }}
+<section class="section is-medium" id="{{ $id }}">
+  <div class="container">
+    <div class="columns">
+      <div class="column is-centered-tablet-portrait">
+        <h1 class="title section-title">{{ $title }}</h1>
+        <h3 class="subtitle is-5 is-muted">{{ $subtitle }}</h3>
+        <div class="divider"></div>
+      </div>
+      <div class="column is-7 mt-30">
+        {{- range $features }}
+        <article class="media icon-box">
+          <figure class="media-left">
+            <p class="image">
+              <img src="{{ printf "/images/illustrations/icons/%s.svg" .icon | relURL }}">
+            </p>
+          </figure>
+          <div class="media-content mt-30">
+            <div class="content">
+              <p>
+                <span class="icon-box-title">{{ .title }}</span>
+
+                <span class="icon-box-text">{{ .text }}</span>
+              </p>
+
+              <p class="has-text-centered mt-20">
+                <a class="button cta is-large rounded secondary-btn raised" href="{{ .buttonLink }}">
+                  {{ .buttonText }}
+                </a>
+              </p>
+            </div>
+          </div>
+        </article>
+        {{- end }}
+      </div>
+    </div>
+  </div>
+</section>
