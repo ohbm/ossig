@@ -51,7 +51,7 @@ Take the lead on coordinating the Hackathon for next year! Apply in pairs of two
 Work together with the OS SIG and OHBM community to maximize inclusivity and eliminate exclusionary barriers in open-science and OHBM.
 
 - Number of positions: 1
-- Duration: ??? year
+- Duration: 1 year
 
 ### Chair Elect, Secretary Elect, and Treasurer Elect 
 
