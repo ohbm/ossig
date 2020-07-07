@@ -1,6 +1,6 @@
 ---
 title: "OHBM OSSIR 2021 Committee"
-subtitle: "Make a difference: join the OS SIG!"
+subtitle: "Make a difference: join the OS SIG Committee!"
 date: 2020-06-30
 draft: false
 sidebar: false # true or false to display the sidebar
@@ -10,7 +10,7 @@ include_footer: true
 
 # Make a difference: join the OS SIG Committee!
 
-We are excited to announce this year's Nominations for the OHBM open-science Special Interest Group (OS SIG) committee for OHBM 2021!
+We are excited to announce this year's nominations for the OHBM open-science Special Interest Group (OS SIG) committee for OHBM 2021!
 
 Please self-nominate yourself [HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0xITDMxUktDT0RCUjJMVlc1OTVSRTlTRS4u!)
 
