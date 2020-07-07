@@ -201,7 +201,7 @@ params:
     subtitle: We are excited to announce this year's Nominations for OHBM 2021!
     id: openumbrella
     features:
-      - title: Insert here motivational text why you should join the OSSIG
+      - title: Join the 2020-2021 OSSIG Committee!
         buttonLink: /elections
         buttonText: More information
         icon: laptop-cloud
