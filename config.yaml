@@ -28,7 +28,7 @@ params:
   navbar:
     - title: Our Team
       url: "/#OSSIG_team"
-    - title: Join the OSSIG
+    - title: Join the OSSIG Committee
       url: "/elections"
     - title: Hackathon
       url: "/hackathon"
