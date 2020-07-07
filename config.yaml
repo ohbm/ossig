@@ -206,13 +206,13 @@ params:
         buttonText: More information
         icon: laptop-cloud
       - title: Please self-nominate!
-        text: Insert here motivational text why you should join the OSSIG
+        text: If you are excited by open science, have enjoyed and benefitted from Hackathon and/or Open Science Room activity in your local hubs and globally, or have ideas about how we can improve on OHBM's open science activities in the future, please consider joining us! By self-nominating for a role as an Open Science SIG officer, you can join our passionate and enthusiastic team and help push for more reproducibility, transparency, and openness in science, as well as inclusivity and openness in our community. Early career researchers, BIPOC, LGBTQ+, and people from outside North America and Europe are especially encouraged to apply!
         buttonLink: https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0xITDMxUktDT0RCUjJMVlc1OTVSRTlTRS4u
         buttonText: Self-nominate
         icon: mouse-globe
       - title: By-laws
-        text: Here are the rules
-        buttonLink: https://docs.google.com/document/d/1_tfGJMtcwebVM06Z2AzNZ70JT1ID2S48fGCIqJwDyg0/edit?usp=sharing
+        text: Here are the rules.
+        buttonLink: https://github.com/62442katieb/ossig/raw/master/content/elections/OHBM%20Open%20Science%20SIG%202020%20Renewal%20Bylaws.pdf
         buttonText: By-Laws
         icon: doc-sync
 
