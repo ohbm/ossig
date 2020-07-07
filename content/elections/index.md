@@ -18,7 +18,7 @@ The open-science movement is one of the best things happening in neuroscience. H
 
 If open-science excites you and you want to help push its frontiers, please consider applying for a position in the OS SIG! 
 
-Early career researchers (Link to SIG), BIPOC, LGBTQ+ (Link to SIG), and people from outside Europe and North America especially encouraged to apply! 
+[Early career researchers](https://www.ohbmtrainees.com/), BIPOC, LGBTQ+, and people from outside Europe and North America especially encouraged to apply! 
 
 All OS_SIG members have reduced or no-cost registration for OHBM 2021!
 
