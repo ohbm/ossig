@@ -197,7 +197,7 @@ params:
         icon: doc-sync
 
   elections:
-    title: Join the OSSIG
+    title: Join the OSSIG Committee
     subtitle: We are excited to announce this year's Nominations for OHBM 2021!
     id: openumbrella
     features:
