@@ -20,7 +20,7 @@ If open-science excites you and you want to help push its frontiers, please cons
 
 [Early career researchers](https://www.ohbmtrainees.com/), BIPOC, LGBTQ+, and people from outside Europe and North America especially encouraged to apply! 
 
-All OS_SIG members have reduced or no-cost registration for OHBM 2021!
+All OS SIG members have reduced or no-cost registration for OHBM 2021!
 
 We have MANY opportunities to get involved with open-science and OHBM if you think nominating yourself for a position in the OS SIG is more time than you’d like to commit, please reach out to us about volunteering!
 
