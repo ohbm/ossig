@@ -6,12 +6,12 @@ theme: hugo-fresh
 
 params:
   navbarlogo:
-  # Logo (from /images/logos/___)
-   image: logos/ossig_logo.svg
-   link: /
+    # Logo (from /images/logos/___)
+    image: logos/ossig_logo.svg
+    link: /
   font:
     name: "Open Sans"
-    sizes: [400,600]
+    sizes: [400, 600]
   hero:
     # Main hero title
     title: The OHBM Open Science Special Interest Group
@@ -26,20 +26,22 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-  - title: Our Team
-    url: "/#OSSIG_team"
-  - title: Hackathon
-    url: "/hackathon"
-  - title: Awards
-    url: "/awards"
-  - title: Open Science Room
-    url: "/osr"
-  - title: Sponsors
-    url: "/sponsors"
-  # - title: Election Bylaws
-  #   url: https://docs.google.com/document/d/176tTI7eLIxZkvTL8vhnM7maoCJFhLVaAgwywDnWfONo/edit?usp=sharing
+    - title: Our Team
+      url: "/#OSSIG_team"
+    - title: Join the OSSIG Committee
+      url: "/elections"
+    - title: Hackathon
+      url: "/hackathon"
+    - title: Awards
+      url: "/awards"
+    - title: Open Science Room
+      url: "/osr"
+    - title: Sponsors
+      url: "/sponsors"
+  # - title: Bylaws
+  #   url: https://docs.google.com/document/d/1_tfGJMtcwebVM06Z2AzNZ70JT1ID2S48fGCIqJwDyg0/edit?usp=sharing
   # - title: Join the OSSIG
-  #   url: https://docs.google.com/forms/d/e/1FAIpQLSehJ6T9LHRhwJwyvUXJ3R9mVw6OUztdei63YJofUtL2DO35ng/viewform?usp=sf_link
+  #   url: https://bit.ly/OHBMOSSIG2021Nominations
 
   hackathon:
     title: Save the date
@@ -56,86 +58,86 @@ params:
     # images (from /images/faces/2020/___.jpg)
     members:
       # chair, secretary, treasurer
-    - name: Camille Maumet
-      role: Chair
-      image: camille_maumet
-      affiliation: Inria, Univ Rennes, CNRS, Inserm
-      twitter: https://twitter.com/cmaumet
-    - name: Ana Van Gulick
-      role: Secretary
-      image: ana_van_gulick
-      affiliation: Figshare; Carnegie Mellon University, University Libraries and Department of Psychology
-      twitter: https://twitter.com/anavangulick
-    - name: Eugene Duff
-      role: Treasurer
-      image: eugene_duff
-      affiliation: University of Oxford, Department of Pediatrics
-      twitter: https://twitter.com/EugenePDuff
+      - name: Camille Maumet
+        role: Chair
+        image: camille_maumet
+        affiliation: Inria, Univ Rennes, CNRS, Inserm
+        twitter: https://twitter.com/cmaumet
+      - name: Ana Van Gulick
+        role: Secretary
+        image: ana_van_gulick
+        affiliation: Figshare; Carnegie Mellon University, University Libraries and Department of Psychology
+        twitter: https://twitter.com/anavangulick
+      - name: Eugene Duff
+        role: Treasurer
+        image: eugene_duff
+        affiliation: University of Oxford, Department of Pediatrics
+        twitter: https://twitter.com/EugenePDuff
 
-      # elect chair, secretary, treasurer
-    - name: Aki Nikolaidis
-      role: Chair Elect
-      image: aki_nikolaidis
-      affiliation: Child Mind Institute
-      twitter: https://twitter.com/AkiNikolaidis
-    - name: Katie Bottenhorn
-      role: Secretary Elect
-      image: katie_bottenhorn
-      affiliation: Florida International University, Department of Psychology
-      twitter: https://twitter.com/62442katieb
-    - name: Tristan Glatard
-      role: Treasurer Elect
-      image: tristan_glatard
-      affiliation: Concordia University, Department of Computer Science and Software Engineering
-      twitter: https://twitter.com/TristanGlatard
+        # elect chair, secretary, treasurer
+      - name: Aki Nikolaidis
+        role: Chair Elect
+        image: aki_nikolaidis
+        affiliation: Child Mind Institute
+        twitter: https://twitter.com/AkiNikolaidis
+      - name: Katie Bottenhorn
+        role: Secretary Elect
+        image: katie_bottenhorn
+        affiliation: Florida International University, Department of Psychology
+        twitter: https://twitter.com/62442katieb
+      - name: Tristan Glatard
+        role: Treasurer Elect
+        image: tristan_glatard
+        affiliation: Concordia University, Department of Computer Science and Software Engineering
+        twitter: https://twitter.com/TristanGlatard
 
-      # hackathon
-    - name: Rémi Gau
-      role: Hackathon co-chair
-      image: remi_gau
-      affiliation: Institute of Psychology, Université Catholique de Louvain
-      twitter: https://twitter.com/RemiGau
-    - name: Liza Levitis
-      role: Hackathon co-chair
-      image: liza_levitis
-      affiliation: Montreal Neurological Institute, McGill University
-      twitter: https://www.twitter.com/LevitisLiza
+        # hackathon
+      - name: Rémi Gau
+        role: Hackathon co-chair
+        image: remi_gau
+        affiliation: Institute of Psychology, Université Catholique de Louvain
+        twitter: https://twitter.com/RemiGau
+      - name: Liza Levitis
+        role: Hackathon co-chair
+        image: liza_levitis
+        affiliation: Montreal Neurological Institute, McGill University
+        twitter: https://www.twitter.com/LevitisLiza
 
-      # OSR
-    - name: Cassandra Gould van Praag
-      role: Open Science Room Co-Chair
-      image: cass_gvp
-      affiliation: University of Oxford, Department of Psychiatry
-      twitter: https://twitter.com/cassgvp
-    - name: Stephan Heunis
-      role: Open Science Room Co-Chair
-      image: stephan_heunis
-      affiliation: Eindhoven University of Technology, Department of Electrical Engineering
-      twitter: https://twitter.com/fmrwhy
+        # OSR
+      - name: Cassandra Gould van Praag
+        role: Open Science Room Co-Chair
+        image: cass_gvp
+        affiliation: University of Oxford, Department of Psychiatry
+        twitter: https://twitter.com/cassgvp
+      - name: Stephan Heunis
+        role: Open Science Room Co-Chair
+        image: stephan_heunis
+        affiliation: Eindhoven University of Technology, Department of Electrical Engineering
+        twitter: https://twitter.com/fmrwhy
 
-      # past chair, secretary, treasurer
-    - name: Kirstie Whitaker
-      role: Past Chair
-      image: kirstie_whitaker
-      affiliation: Alan Turing Institute and University of Cambridge
-      twitter: https://twitter.com/kirstie_j
-    - name: Elizabeth DuPre
-      role: Past Secretary
-      image: elisabeth_dupre
-      affiliation: Montreal Neurological Institute, McGill University
-      twitter: https://twitter.com/emdupre_
-    - name: Greg Kiar
-      role: Past Treasurer
-      image: greg_kiar
-      affiliation: Montreal Neurological Institute, McGill University
-      twitter: https://twitter.com/g_kiar
+        # past chair, secretary, treasurer
+      - name: Kirstie Whitaker
+        role: Past Chair
+        image: kirstie_whitaker
+        affiliation: Alan Turing Institute and University of Cambridge
+        twitter: https://twitter.com/kirstie_j
+      - name: Elizabeth DuPre
+        role: Past Secretary
+        image: elisabeth_dupre
+        affiliation: Montreal Neurological Institute, McGill University
+        twitter: https://twitter.com/emdupre_
+      - name: Greg Kiar
+        role: Past Treasurer
+        image: greg_kiar
+        affiliation: Montreal Neurological Institute, McGill University
+        twitter: https://twitter.com/g_kiar
 
-      # liaison
-    - name: Thomas Nichols
-      role: Council Liaison
-      image: tom_nichols
-      affiliation: University of Oxford, Nuffield Department of Population Health
-      twitter: https://twitter.com/ten_photos
+        # liaison
+      - name: Thomas Nichols
+        role: Council Liaison
+        image: tom_nichols
+        affiliation: University of Oxford, Nuffield Department of Population Health
+        twitter: https://twitter.com/ten_photos
 
   sponsors:
     title: Our sponsors
@@ -144,64 +146,84 @@ params:
     tiersimage: /images/illustrations/ossig_sponsorship_tiers.jpg
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
-    - name: Open science champions
-      oursponsors:
-        - name: "Openneuro"
-          image: /images/logos/openneuro_logo.png
-          url: https://openneuro.org/
-    - name: Hackathon champions
-      oursponsors:
-        - name: "INCF"
-          image: /images/logos/incf_logo.png
-          url: https://www.incf.org/
-        - name: "Courtois NeuroMod"
-          image: /images/logos/cneuromod_logo.svg
-          url: https://www.cneuromod.ca/
-          height: 5em
-        - name: "CONP"
-          image: /images/logos/conp_logo.png
-          url: https://conp.ca/
-    - name: Hackathon supporters
-      oursponsors:
-        - name: "WIN"
-          image: /images/logos/logo_WIN_clear.png
-          url: https://www.win.ox.ac.uk/
-        - name: "UNIQUE"
-          image: /images/logos/Unique_logo.png
-          url: http://unique.quebec
-        - name: "Quebec Bio-Imaging Network"
-          image: /images/logos/QBIN_logo.png 
-          url: https://www.rbiq-qbin.qc.ca/Accueil
-    - name: Sponsors
-      oursponsors:
-        - name: "OHBM Australian chapter"
-          image: "/images/logos/OHBM_australian_chapter.png"
-          url: "https://ohbmaustralia.wordpress.com/"
+      - name: Open science champions
+        oursponsors:
+          - name: "Openneuro"
+            image: /images/logos/openneuro_logo.png
+            url: https://openneuro.org/
+      - name: Hackathon champions
+        oursponsors:
+          - name: "INCF"
+            image: /images/logos/incf_logo.png
+            url: https://www.incf.org/
+          - name: "Courtois NeuroMod"
+            image: /images/logos/cneuromod_logo.svg
+            url: https://www.cneuromod.ca/
+            height: 5em
+          - name: "CONP"
+            image: /images/logos/conp_logo.png
+            url: https://conp.ca/
+      - name: Hackathon supporters
+        oursponsors:
+          - name: "WIN"
+            image: /images/logos/logo_WIN_clear.png
+            url: https://www.win.ox.ac.uk/
+          - name: "UNIQUE"
+            image: /images/logos/Unique_logo.png
+            url: http://unique.quebec
+          - name: "Quebec Bio-Imaging Network"
+            image: /images/logos/QBIN_logo.png
+            url: https://www.rbiq-qbin.qc.ca/Accueil
+      - name: Sponsors
+        oursponsors:
+          - name: "OHBM Australian chapter"
+            image: "/images/logos/OHBM_australian_chapter.png"
+            url: "https://ohbmaustralia.wordpress.com/"
 
   section2:
     title: Open science is an umbrella.
     subtitle: We're here to help grow the community supporting it.
     id: openumbrella
     features:
-    - title: Open data
-      text: Sharing neuroimaging data isn't easy, but we can make it easier. We're interested in understanding how OHBM members share data, where they encounter difficulties, and what kinds of new infrastruce and ethics can make next-generation data-sharing possible.
-      # Icon (from /images/illustrations/icons/___.svg)
-      icon: mouse-globe
-    - title: Open code
-      text: Analysis code is often a second-class citizen in neuroimaging research, but we can change that. We help to teach scientists best-practices in software development—and how those practices can result in real-world gains in research quality and output.
-      icon: laptop-cloud
-    - title: Open publishing
-      text: Papers shouldn't hide behind paywalls. We want to help create solutions to enable new, open-acess platforms and to facilitate free information.
-      icon: doc-sync
+      - title: Open data
+        text: Sharing neuroimaging data isn't easy, but we can make it easier. We're interested in understanding how OHBM members share data, where they encounter difficulties, and what kinds of new infrastruce and ethics can make next-generation data-sharing possible.
+        # Icon (from /images/illustrations/icons/___.svg)
+        icon: mouse-globe
+      - title: Open code
+        text: Analysis code is often a second-class citizen in neuroimaging research, but we can change that. We help to teach scientists best-practices in software development—and how those practices can result in real-world gains in research quality and output.
+        icon: laptop-cloud
+      - title: Open publishing
+        text: Papers shouldn't hide behind paywalls. We want to help create solutions to enable new, open-acess platforms and to facilitate free information.
+        icon: doc-sync
+
+  elections:
+    title: Join the OSSIG Committee
+    subtitle: We are excited to announce this year's Nominations for OHBM 2021!
+    id: openumbrella
+    features:
+      - title: Join the 2020-2021 OSSIG Committee!
+        buttonLink: /elections
+        buttonText: More information
+        icon: laptop-cloud
+      - title: Please self-nominate!
+        text: If you are excited by open science, have enjoyed and benefitted from Hackathon and/or Open Science Room activity in your local hubs and globally, or have ideas about how we can improve on OHBM's open science activities in the future, please consider joining us! By self-nominating for a role as an Open Science SIG officer, you can join our passionate and enthusiastic team and help push for more reproducibility, transparency, and openness in science, as well as inclusivity and openness in our community. Early career researchers, BIPOC, LGBTQ+, and people from outside North America and Europe are especially encouraged to apply!
+        buttonLink: https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0xITDMxUktDT0RCUjJMVlc1OTVSRTlTRS4u
+        buttonText: Self-nominate
+        icon: mouse-globe
+      - title: By-laws
+        text: Here are the rules.
+        buttonLink: https://github.com/62442katieb/ossig/raw/master/content/elections/OHBM%20Open%20Science%20SIG%202020%20Renewal%20Bylaws.pdf
+        buttonText: By-Laws
+        icon: doc-sync
 
   footer:
     # Logo (from /images/logos/___)
     logo: ossig_logo.svg
     # Social media links (GitHub, Twitter, etc.). All are optional.
     socialmedia:
-    - link: https://github.com/OHBM
-      # Icons are from Font Awesome
-      icon: github
-    - link: https://twitter.com/ohbmopen
-      icon: twitter
+      - link: https://github.com/OHBM
+        # Icons are from Font Awesome
+        icon: github
+      - link: https://twitter.com/ohbmopen
+        icon: twitter
     bulmalogo: false
