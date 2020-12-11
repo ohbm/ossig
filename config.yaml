@@ -196,20 +196,6 @@ params:
         text: Papers shouldn't hide behind paywalls. We want to help create solutions to enable new, open-acess platforms and to facilitate free information.
         icon: doc-sync
 
-  elections:
-    title: Join the OSSIG Committee
-    subtitle: Nominations are currently closed, but will re-open summer 2021
-    id: openumbrella
-    features:
-      - title: Nominations for the 2022 OSSIG will open in June 2021!
-        buttonLink: /elections
-        buttonText: More information
-        icon: laptop-cloud
-      - title: By-laws
-        text: Here are the rules.
-        buttonLink: https://github.com/62442katieb/ossig/raw/master/content/elections/OHBM%20Open%20Science%20SIG%202020%20Renewal%20Bylaws.pdf
-        buttonText: By-Laws
-        icon: doc-sync
 
   footer:
     # Logo (from /images/logos/___)
