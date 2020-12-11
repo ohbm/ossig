@@ -58,11 +58,11 @@ params:
     # images (from /images/faces/2020/___.jpg)
     members:
       # chair, secretary, treasurer
-      - name: Camille Maumet
+      - name: Aki Nikolaidis
         role: Chair
-        image: camille_maumet
-        affiliation: Inria, Univ Rennes, CNRS, Inserm
-        twitter: https://twitter.com/cmaumet
+        image: aki_nikolaidis
+        affiliation: Child Mind Institute
+        twitter: https://twitter.com/AkiNikolaidis
       - name: Ana Van Gulick
         role: Secretary
         image: ana_van_gulick
