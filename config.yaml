@@ -114,6 +114,19 @@ params:
         image: gabriel_gonzalez_escamilla
         affiliation: University Medical Center of the Johannes Gutember University Mainz
         twitter: https://twitter.com/NeuroGabriel
+        
+        # Volunteer Coordinator
+      - name: Sofie Valk
+        role: Volunteer Coordinator
+        image: sofie_valk
+        affiliation: Max Planck for Human Cognitive and Brain Sciences; FZ Jülich 
+        twitter: https://twitter.com/sofievalk
+      
+      - name: Melvin Selim Atay
+        role: Inclusivity Officer
+        image: melvin_selim_atay
+        affiliation: Middle East Technical University, Department of Neuroscience and Neurotechnology 
+        twitter: https://twitter.com/i_am_mel_dev
 
         # past chair, secretary, treasurer
       - name: Camille Maumet
