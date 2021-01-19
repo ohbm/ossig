@@ -1,5 +1,5 @@
 ---
-title: "OHBM OSSIR 2021 Committee"
+title: "OHBM OSSIG 2022 Committee"
 subtitle: "Make a difference: join the OS SIG Committee!"
 date: 2020-06-30
 draft: false
@@ -10,9 +10,7 @@ include_footer: true
 
 # Make a difference: join the OS SIG Committee!
 
-We are excited to announce this year's nominations for the OHBM open-science Special Interest Group (OS SIG) committee for OHBM 2021!
-
-Please self-nominate yourself [HERE](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0xITDMxUktDT0RCUjJMVlc1OTVSRTlTRS4u!)
+Nominations for the OHBM Open Science Special Interest Group (OS SIG) committee for OHBM 2022 will open in June 2021. Stay tuned!
 
 The open-science movement is one of the best things happening in neuroscience. Hackathons, open-science room, new tools and methods, reproducibility and reliability, open access and inclusivity: the OS SIG is the place where it’s all happening!
 
@@ -61,5 +59,3 @@ These are 3 year positions:
 - first year is *in training*, 
 - second year you take the main role, 
 - third year you step into an advisory role. 
-
-More details in the [nomination form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0xITDMxUktDT0RCUjJMVlc1OTVSRTlTRS4u)

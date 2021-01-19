@@ -62,86 +62,99 @@ params:
         role: Chair
         image: aki_nikolaidis
         affiliation: Child Mind Institute
-        twitter: https://twitter.com/AkiNikolaidis
-      - name: Ana Van Gulick
-        role: Secretary
-        image: ana_van_gulick
-        affiliation: Figshare; Carnegie Mellon University, University Libraries and Department of Psychology
-        twitter: https://twitter.com/anavangulick
-      - name: Eugene Duff
-        role: Treasurer
-        image: eugene_duff
-        affiliation: University of Oxford, Department of Pediatrics
-        twitter: https://twitter.com/EugenePDuff
-
-        # elect chair, secretary, treasurer
-      - name: Aki Nikolaidis
-        role: Chair Elect
-        image: aki_nikolaidis
-        affiliation: Child Mind Institute
-        twitter: https://twitter.com/AkiNikolaidis
+        twitter: https://twitter.com/akinikolaidis
       - name: Katie Bottenhorn
-        role: Secretary Elect
+        role: Secretary
         image: katie_bottenhorn
         affiliation: Florida International University, Department of Psychology
         twitter: https://twitter.com/62442katieb
       - name: Tristan Glatard
-        role: Treasurer Elect
+        role: Treasurer
         image: tristan_glatard
         affiliation: Concordia University, Department of Computer Science and Software Engineering
         twitter: https://twitter.com/TristanGlatard
 
+        # elect chair, secretary, treasurer
+      - name: Janine Bijsterbosch
+        role: Chair Elect
+        image: janine_bijsterbosch
+        affiliation: Washington University in St Louis, Department of Radiology (Medical School)
+        twitter: https://twitter.com/PersonomicsLab
+      - name: Johanna Bayer
+        role: Secretary Elect
+        image: johanna_bayer
+        affiliation: The University of Melbourne, Faculty for Medicine, Dentistry and Health Sciences
+        twitter: https://twitter.com/likeajumprope
+      - name: Benjamin De Leener
+        role: Treasurer Elect
+        image: benjamin_de_leener
+        affiliation: Polytechnique Montreal, Department of Computer Engineering and Software Engineering
+        twitter: https://twitter.com/bendeleener
+
         # hackathon
-      - name: Rémi Gau
+      - name: Tibor Auer
         role: Hackathon co-chair
-        image: remi_gau
-        affiliation: Institute of Psychology, Université Catholique de Louvain
-        twitter: https://twitter.com/RemiGau
-      - name: Liza Levitis
+        image: tibor_auer
+        affiliation: Univeristy of Surrey, School of Psychology
+        twitter: https://twitter.com/TiborAuer
+      - name: Matteo Mancini
         role: Hackathon co-chair
-        image: liza_levitis
-        affiliation: Montreal Neurological Institute, McGill University
-        twitter: https://www.twitter.com/LevitisLiza
+        image: matteo_mancini
+        affiliation: University of Sussex, Department of Neuroscience, Brighton and Sussex Medical School
+        twitter: https://www.twitter.com/ingmatman
 
         # OSR
-      - name: Cassandra Gould van Praag
+      - name: Eva Alonso Ortiz
         role: Open Science Room Co-Chair
-        image: cass_gvp
-        affiliation: University of Oxford, Department of Psychiatry
-        twitter: https://twitter.com/cassgvp
-      - name: Stephan Heunis
+        image: eva_alonso_ortiz
+        affiliation: Polytechnique Montreal, Department of Electrical Engineering
+        twitter: https://twitter.com/EvaAlonsoOrtiz
+      - name: Gabriel Gonzalez-Escamilla
         role: Open Science Room Co-Chair
-        image: stephan_heunis
-        affiliation: Eindhoven University of Technology, Department of Electrical Engineering
-        twitter: https://twitter.com/fmrwhy
+        image: gabriel_gonzalez_escamilla
+        affiliation: University Medical Center of the Johannes Gutember University Mainz
+        twitter: https://twitter.com/NeuroGabriel
+        
+        # Volunteer Coordinator
+      - name: Sofie Valk
+        role: Volunteer Coordinator
+        image: sofie_valk
+        affiliation: Max Planck for Human Cognitive and Brain Sciences; FZ Jülich 
+        twitter: https://twitter.com/sofievalk
+      
+      - name: Melvin Selim Atay
+        role: Inclusivity Officer
+        image: melvin_selim_atay
+        affiliation: Middle East Technical University, Department of Neuroscience and Neurotechnology 
+        twitter: https://twitter.com/i_am_mel_dev
 
         # past chair, secretary, treasurer
-      - name: Kirstie Whitaker
+      - name: Camille Maumet
         role: Past Chair
-        image: kirstie_whitaker
-        affiliation: Alan Turing Institute and University of Cambridge
-        twitter: https://twitter.com/kirstie_j
-      - name: Elizabeth DuPre
+        image: camille_maumet
+        affiliation: Inria, Univ Rennes, CNRS, Inserm
+        twitter: https://twitter.com/cmaumet
+      - name: Ana Van Gulick
         role: Past Secretary
-        image: elisabeth_dupre
-        affiliation: Montreal Neurological Institute, McGill University
-        twitter: https://twitter.com/emdupre_
-      - name: Greg Kiar
+        image: ana_van_gulick
+        affiliation: Figshare; Carnegie Mellon University, University Libraries and Department of Psychology
+        twitter: https://twitter.com/anavangulick
+      - name: Eugene Duff
         role: Past Treasurer
-        image: greg_kiar
-        affiliation: Montreal Neurological Institute, McGill University
-        twitter: https://twitter.com/g_kiar
+        image: eugene_duff
+        affiliation: University of Oxford, Department of Pediatrics
+        twitter: https://twitter.com/EugenePDuff
 
         # liaison
-      - name: Thomas Nichols
+      - name: Pierre Bellec
         role: Council Liaison
-        image: tom_nichols
-        affiliation: University of Oxford, Nuffield Department of Population Health
-        twitter: https://twitter.com/ten_photos
+        image: pierre_bellec
+        affiliation: University of Montreal, CRIUGM, Montreal, Canada
+        twitter: https://twitter.com/pierre_bellec
 
   sponsors:
     title: Our sponsors
-    subtitle: We are grateful for the generous support of our sponsors
+    subtitle: We are grateful for the generous support of our 2020 sponsors
     titleopp: Sponsorship opportunities
     tiersimage: /images/illustrations/ossig_sponsorship_tiers.jpg
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
@@ -196,25 +209,6 @@ params:
         text: Papers shouldn't hide behind paywalls. We want to help create solutions to enable new, open-acess platforms and to facilitate free information.
         icon: doc-sync
 
-  elections:
-    title: Join the OSSIG Committee
-    subtitle: We are excited to announce this year's Nominations for OHBM 2021!
-    id: openumbrella
-    features:
-      - title: Join the 2020-2021 OSSIG Committee!
-        buttonLink: /elections
-        buttonText: More information
-        icon: laptop-cloud
-      - title: Please self-nominate!
-        text: If you are excited by open science, have enjoyed and benefitted from Hackathon and/or Open Science Room activity in your local hubs and globally, or have ideas about how we can improve on OHBM's open science activities in the future, please consider joining us! By self-nominating for a role as an Open Science SIG officer, you can join our passionate and enthusiastic team and help push for more reproducibility, transparency, and openness in science, as well as inclusivity and openness in our community. Early career researchers, BIPOC, LGBTQ+, and people from outside North America and Europe are especially encouraged to apply!
-        buttonLink: https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0xITDMxUktDT0RCUjJMVlc1OTVSRTlTRS4u
-        buttonText: Self-nominate
-        icon: mouse-globe
-      - title: By-laws
-        text: Here are the rules.
-        buttonLink: https://github.com/62442katieb/ossig/raw/master/content/elections/OHBM%20Open%20Science%20SIG%202020%20Renewal%20Bylaws.pdf
-        buttonText: By-Laws
-        icon: doc-sync
 
   footer:
     # Logo (from /images/logos/___)
