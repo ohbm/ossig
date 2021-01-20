@@ -31,13 +31,15 @@ params:
     - title: Join the OSSIG Committee
       url: "/elections"
     - title: Hackathon
-      url: "/hackathon"
+      url: "https://ohbm.github.io/hackathon"
     - title: Awards
       url: "/awards"
     - title: Open Science Room
-      url: "/osr"
+      url: "https://ohbm.github.io/OpenScienceRoom"
     - title: Sponsors
       url: "/sponsors"
+    - title: Past members
+      url: "/pastmembers"
   # - title: Bylaws
   #   url: https://docs.google.com/document/d/1_tfGJMtcwebVM06Z2AzNZ70JT1ID2S48fGCIqJwDyg0/edit?usp=sharing
   # - title: Join the OSSIG
@@ -55,7 +57,8 @@ params:
     title: Our team
     subtitle: The people behind the OSSIG
     id: OSSIG_team
-    # images (from /images/faces/2020/___.jpg)
+    year: 2021
+    # images (from /images/faces/$year/___.jpg)
     members:
       # chair, secretary, treasurer
       - name: Aki Nikolaidis
