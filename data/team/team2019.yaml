@@ -2,3 +2,76 @@
     subtitle: The people behind the OSSIG
     id: OSSIG_team
     year: 2019
+    # images (from /images/faces/2019/___.jpg)
+    members:
+      # chair, secretary, treasurer
+      - name: Kirstie Whitaker
+        role: Chair
+        image: kirstie_whitaker
+        affiliation: Alan Turing Institute and University of Cambridge
+        twitter: https://twitter.com/kirstie_j
+      - name: Elizabeth DuPre
+        role: Secretary
+        image: elisabeth_dupre
+        affiliation: Montréal Neurological Institute, McGill University
+        twitter: https://twitter.com/emdupre_
+      - name: Greg Kiar
+        role: Treasurer
+        image: greg_kiar
+        affiliation: Montréal Neurological Institute, McGill University
+        twitter: https://twitter.com/g_kiar
+
+        # elect chair, secretary, treasurer
+      - name: Camille Maumet
+        role: Chair Elect
+        image: camille_maumet
+        affiliation: Inria, Univ Rennes, CNRS, Inserm
+        twitter: https://twitter.com/cmaumet
+      - name: Ana Van Gulick
+        role: Secretary Elect
+        image: ana_van_gulick
+        affiliation: Figshare; Carnegie Mellon University, University Libraries and Department of Psychology
+        twitter: https://twitter.com/anavangulick
+      - name: Eugene Duff
+        role: Treasurer Elect
+        image: eugene_duff
+        affiliation: University of Oxford, Department of Pediatrics
+        twitter: https://twitter.com/EugenePDuff
+
+        # hackathon
+      - name: Katja Heuer
+        role: Hackathon Co-Chair
+        image: 
+        affiliation: Max Planck Institute for Human Cognitive and Brain Sciences
+        twitter: https://twitter.com/katjaqheuer
+      - name: Roberto Toro
+        role: Hackathon Co-Chair
+        image: 
+        affiliation: Institut Pasteur
+        twitter: https://twitter.com/r3rt0
+
+        # OSR
+      - name: Tim van Mourik
+        role: Open Science Room Chair
+        image: 
+        affiliation: Donders Institute for Brain, Cognition and Behaviour
+        twitter: https://twitter.com/tim_van_mourik
+
+        # past chair, secretary, treasurer
+      - name: Chris Gorgolewski
+        role: Past Chair
+        image: 
+        affiliation:  Stanford Department of Psychology
+        twitter: https://twitter.com/chrisgorgo
+      - name: Matteo Visconti di Oleggio Castello
+        role: Past Secretary
+        image: 
+        affiliation: Dartmouth College
+        twitter: https://twitter.com/matteovdoc
+
+        # liaison
+      - name: Cameron Craddock
+        role: Council Liaison
+        image: 
+        affiliation: University of Texas at Austin
+        twitter: https://twitter.com/RCCraddock

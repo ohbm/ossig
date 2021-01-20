@@ -96,12 +96,12 @@ params:
 
         # hackathon
       - name: Tibor Auer
-        role: Hackathon co-chair
+        role: Hackathon Co-Chair
         image: tibor_auer
         affiliation: Univeristy of Surrey, School of Psychology
         twitter: https://twitter.com/TiborAuer
       - name: Matteo Mancini
-        role: Hackathon co-chair
+        role: Hackathon Co-Chair
         image: matteo_mancini
         affiliation: University of Sussex, Department of Neuroscience, Brighton and Sussex Medical School
         twitter: https://www.twitter.com/ingmatman

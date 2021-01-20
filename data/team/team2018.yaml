@@ -1,0 +1,66 @@
+    title: Our team in 2018
+    subtitle: The people behind the OSSIG
+    id: OSSIG_team
+    year: 2018
+    # images (from /images/faces/2018/___.jpg)
+    members:
+      # chair, secretary, treasurer
+      - name: Chris Gorgolewski
+        role: Chair
+        image: 
+        affiliation:  Stanford Department of Psychology
+        twitter: https://twitter.com/chrisgorgo
+      - name: Matteo Visconti di Oleggio Castello
+        role: Secretary
+        image: 
+        affiliation: Dartmouth College
+        twitter: https://twitter.com/matteovdoc
+
+        # elect chair, secretary, treasurer
+      - name: Kirstie Whitaker
+        role: Chair Elect
+        image: kirstie_whitaker
+        affiliation: Alan Turing Institute and University of Cambridge
+        twitter: https://twitter.com/kirstie_j
+      - name: Elizabeth DuPre
+        role: Secretary Elect
+        image: elisabeth_dupre
+        affiliation: Montréal Neurological Institute, McGill University
+        twitter: https://twitter.com/emdupre_
+
+        # hackathon
+      - name: Anisha Keshavan
+        role: Hackathon Co-Chair
+        image: 
+        affiliation: University of Washington
+        twitter: https://twitter.com/akeshavan_
+      - name: Greg Kiar
+        role: Hackathon Co-Chair
+        image: greg_kiar
+        affiliation: Montréal Neurological Institute, McGill University
+        twitter: https://twitter.com/g_kiar
+
+        # OSR
+      - name: Felix Hoffstaedter
+        role: Open Science Room Chair
+        image: 
+        affiliation: Research Centre Jülich
+        twitter: https://twitter.com/felix_bnb
+
+        # past chair, secretary, treasurer
+      - name: Pierre Bellec
+        role: Past Chair
+        image: 
+        affiliation: CRIUGM, Psychology, University of Montreal
+        twitter: https://twitter.com/pierre_bellec
+      - name: Daniel Margulies
+        role: Past Secretary
+        image: 
+        affiliation: Centre national de la recherche scientifique (CNRS)
+        twitter: https://twitter.com/danielmargulies
+
+        # liaison
+      - name: Jean-Baptiste Poline
+        role: Council Liaison
+        image: 
+        affiliation: Montréal Neurological Institute, McGill University

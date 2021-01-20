@@ -1,0 +1,36 @@
+    title: Our team in 2016
+    subtitle: The people behind the OSSIG
+    id: OSSIG_team
+    year: 2016
+    # images (from /images/faces/2016/___.jpg)
+    members:
+      # chair, secretary, treasurer
+      - name: Cameron Craddock
+        role: Chair & Open Science Room Co-Chair
+        image: 
+        affiliation: University of Texas at Austin
+        twitter: https://twitter.com/RCCraddock
+      - name: Nolan Nichols
+        role: Secretary
+        image: 
+        affiliation: Maze Therapeutics
+        twitter: 
+
+        # hackathon
+      - name: Pierre Bellec
+        role: Hackathon Co-Chair
+        image: 
+        affiliation: CRIUGM, Psychology, University of Montreal
+        twitter: https://twitter.com/pierre_bellec
+      - name: Clara Moreau
+        role: Hackathon Co-Chair
+        image:
+        affiliation: Pasteur Institute
+        twitter: https://twitter.com/claramoreau9
+
+        # OSR
+      - name: Daniel Margulies
+        role: Open Science Room Co-Chair
+        image: 
+        affiliation: Centre national de la recherche scientifique (CNRS)
+        twitter: https://twitter.com/danielmargulies
