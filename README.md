@@ -41,6 +41,11 @@ here write the actual content of your page using markdown.
 
 ```
 
+### Members and past members
+
+Currently, the details about current team members (names, affiliations, etc.) are included directly in the `config.yaml`. Data about past members are instead organized in the folder `data/team` and are rendered through the markdown files in the folder `content/pastmembers`. *An important thing to keep in mind*: each of these markdown files retrieve the respective data through the parameter `team_year`, that should contain the exact name of the related file in the `data/team` folder.
+
+
 ## Deploying
 The OS-SIG website is currently hosted on [netlify](https://www.netlify.com/) under the account of Camille Maumet. 
 
