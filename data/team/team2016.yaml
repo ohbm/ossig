@@ -6,31 +6,31 @@
     members:
       # chair, secretary, treasurer
       - name: Cameron Craddock
-        role: Chair & Open Science Room Co-Chair
-        image: 
+        role: Chair & Open Science Room Co-Organizer
+        image: cameron_craddock
         affiliation: University of Texas at Austin
         twitter: https://twitter.com/RCCraddock
       - name: Nolan Nichols
         role: Secretary
-        image: 
+        image: nolan_nichols
         affiliation: Maze Therapeutics
         twitter: 
 
         # hackathon
       - name: Pierre Bellec
-        role: Hackathon Co-Chair
-        image: 
+        role: Hackathon Co-Organizer
+        image: pierre_bellec
         affiliation: CRIUGM, Psychology, University of Montreal
         twitter: https://twitter.com/pierre_bellec
       - name: Clara Moreau
-        role: Hackathon Co-Chair
-        image:
+        role: Hackathon Co-Organizer
+        image: clara_moreau
         affiliation: Pasteur Institute
         twitter: https://twitter.com/claramoreau9
 
         # OSR
       - name: Daniel Margulies
-        role: Open Science Room Co-Chair
-        image: 
+        role: Open Science Room Co-Organizer
+        image: daniel_margulies
         affiliation: Centre national de la recherche scientifique (CNRS)
         twitter: https://twitter.com/danielmargulies

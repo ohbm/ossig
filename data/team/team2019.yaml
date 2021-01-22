@@ -41,37 +41,37 @@
         # hackathon
       - name: Katja Heuer
         role: Hackathon Co-Chair
-        image: 
+        image: katja_heuer
         affiliation: Max Planck Institute for Human Cognitive and Brain Sciences
         twitter: https://twitter.com/katjaqheuer
       - name: Roberto Toro
         role: Hackathon Co-Chair
-        image: 
+        image: roberto_toro
         affiliation: Institut Pasteur
         twitter: https://twitter.com/r3rt0
 
         # OSR
       - name: Tim van Mourik
         role: Open Science Room Chair
-        image: 
+        image: tim_van_mourik
         affiliation: Donders Institute for Brain, Cognition and Behaviour
         twitter: https://twitter.com/tim_van_mourik
 
         # past chair, secretary, treasurer
       - name: Chris Gorgolewski
         role: Past Chair
-        image: 
+        image: chris_gorgolewski
         affiliation:  Stanford Department of Psychology
         twitter: https://twitter.com/chrisgorgo
       - name: Matteo Visconti di Oleggio Castello
         role: Past Secretary
-        image: 
+        image: matteo_voc
         affiliation: Dartmouth College
         twitter: https://twitter.com/matteovdoc
 
         # liaison
       - name: Cameron Craddock
         role: Council Liaison
-        image: 
+        image: cameron_craddock
         affiliation: University of Texas at Austin
         twitter: https://twitter.com/RCCraddock

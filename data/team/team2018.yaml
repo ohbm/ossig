@@ -7,12 +7,12 @@
       # chair, secretary, treasurer
       - name: Chris Gorgolewski
         role: Chair
-        image: 
+        image: chris_gorgolewski
         affiliation:  Stanford Department of Psychology
         twitter: https://twitter.com/chrisgorgo
       - name: Matteo Visconti di Oleggio Castello
         role: Secretary
-        image: 
+        image: matteo_voc
         affiliation: Dartmouth College
         twitter: https://twitter.com/matteovdoc
 
@@ -31,7 +31,7 @@
         # hackathon
       - name: Anisha Keshavan
         role: Hackathon Co-Chair
-        image: 
+        image: anisha_keshavan
         affiliation: University of Washington
         twitter: https://twitter.com/akeshavan_
       - name: Greg Kiar
@@ -43,24 +43,24 @@
         # OSR
       - name: Felix Hoffstaedter
         role: Open Science Room Chair
-        image: 
+        image: felix_hoffstaedter
         affiliation: Research Centre Jülich
         twitter: https://twitter.com/felix_bnb
 
         # past chair, secretary, treasurer
       - name: Pierre Bellec
         role: Past Chair
-        image: 
+        image: pierre_bellec
         affiliation: CRIUGM, Psychology, University of Montreal
         twitter: https://twitter.com/pierre_bellec
       - name: Daniel Margulies
         role: Past Secretary
-        image: 
+        image: daniel_margulies
         affiliation: Centre national de la recherche scientifique (CNRS)
         twitter: https://twitter.com/danielmargulies
 
         # liaison
       - name: Jean-Baptiste Poline
         role: Council Liaison
-        image: 
+        image: jb_poline
         affiliation: Montréal Neurological Institute, McGill University

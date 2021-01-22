@@ -35,11 +35,12 @@
                 <div class="has-text-justified mt-10">
                   <p> Affiliation: {{ .affiliation }} </p>
                 </div>
-
+                {{ if .twitter }}
                 <div class="has-text-justified mt-20">
                   <a href="{{ .twitter }}">
                   <span class="icon is-large"><i class="fa fa-twitter fa-2x" style="color:#38A1F3"></i></span> </a>
                 </div>
+                {{ end }}
 
 
               </div>
