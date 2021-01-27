@@ -83,3 +83,13 @@ img.pushed-image {
         }
     }
 }
+
+.year-link {
+        color: $muted-grey;
+        &.is-secondary {
+            &:hover {
+                color: $secondary !important;
+            }
+        }
+}
+

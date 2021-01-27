@@ -42,6 +42,7 @@
     {{ end }}
 
     {{ if .Site.Params.team }}
+    {{ .Scratch.Set "team" .Site.Params.team }}
     {{ partial "team.html" . }}
     {{ end }}
 
