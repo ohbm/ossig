@@ -4,6 +4,9 @@
 
     {{ if .Params.sponsordisp }}
       {{ partial "sponsors.html" . }}
+    {{ else if .Params.team }}
+      {{ .Scratch.Set "team" (index .Site.Data.team $.Params.team_year) }}
+      {{ partial "team.html" . }}
     {{ else }}
     <div class="title-wrapper has-text-centered mb-60">
       <h1 class="title section-title">{{ .Params.title }}</h1>

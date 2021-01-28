@@ -1,0 +1,5 @@
+<span>Previous years:</span>
+{{$section := .Section}}
+{{ range where .Site.RegularPages "Section" $section }}
+<span><a class="year-link is-secondary" href="../{{ .Params.team_year }}">{{ int (.Params.team_year | strings.TrimLeft "team") }}</a></span>
+{{ end }}
