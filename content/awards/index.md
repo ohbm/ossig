@@ -17,7 +17,7 @@ The only formal duty for the Open Science SIG Fellows will be the teaching assis
 We plan to  cover the following general macro-topics: 
 * version control & code testing;
 * reproducible workflows;
-* machine learning & dataviz;
+* machine learning & data visualization;
 * community building.
 
 The Fellows will guide the participants through these topics. For coding sessions, we strongly suggest to use the pair-programming paradigm pioneered at NeuroMatch Academy, helping them when they get stuck and encouraging discussions. In practical terms, these efforts will consist of two main components: 
@@ -32,4 +32,4 @@ The application form will ask for:
 * The macro-topic(s) you are most familiar with, and potential ideas for micro-topics;
 * The potential time slots that would be suitable for you during the OHBM Hackathon.
 
-**The application deadline is the 26th of February.** [Click here to go to the application form.]()
+**The application deadline is the 26th of February.** [Click here to go to the application form.](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0dISEg2RUE3SDBZM1JNSUMwMFQ4RDBSVi4u)
