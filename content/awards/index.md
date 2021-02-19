@@ -32,4 +32,4 @@ The application form will ask for:
 * The macro-topic(s) you are most familiar with, and potential ideas for micro-topics;
 * The potential time slots that would be suitable for you during the OHBM Hackathon.
 
-**The application deadline is the 26th of February.** [Click here to go to the application form.](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0dISEg2RUE3SDBZM1JNSUMwMFQ4RDBSVi4u)
+**The application deadline is the 5th of March.** [Click here to go to the application form.](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAAC9pqdJUN0dISEg2RUE3SDBZM1JNSUMwMFQ4RDBSVi4u)
