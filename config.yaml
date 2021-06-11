@@ -157,44 +157,53 @@ params:
 
   sponsors:
     title: Our sponsors
-    subtitle: We are grateful for the generous support of our 2020 sponsors
+    subtitle: We are grateful for the generous support of our 2021 sponsors
     titleopp: Sponsorship opportunities
     tiersimage: /images/illustrations/ossig_sponsorship_tiers.jpg
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
-      - name: Open science champions
+      - name: 2021 Open Science Champions
         oursponsors:
           - name: "Openneuro"
             image: /images/logos/openneuro_logo.png
             url: https://openneuro.org/
-      - name: Hackathon champions
+      - name: 2021 Hackathon Champions
         oursponsors:
-          - name: "INCF"
-            image: /images/logos/incf_logo.png
-            url: https://www.incf.org/
           - name: "Courtois NeuroMod"
             image: /images/logos/cneuromod_logo.svg
             url: https://www.cneuromod.ca/
             height: 5em
-          - name: "CONP"
-            image: /images/logos/conp_logo.png
-            url: https://conp.ca/
-      - name: Hackathon supporters
+      - name: Open science supporters
         oursponsors:
-          - name: "WIN"
-            image: /images/logos/logo_WIN_clear.png
-            url: https://www.win.ox.ac.uk/
-          - name: "UNIQUE"
-            image: /images/logos/Unique_logo.png
-            url: http://unique.quebec
           - name: "Quebec Bio-Imaging Network"
             image: /images/logos/QBIN_logo.png
             url: https://www.rbiq-qbin.qc.ca/Accueil
+            height: 5em
+          - name: "MathWorks"
+            image: /images/logos/mathworks_logo.png
+            url: https://www.mathworks.com/
+            height: 5em
+      - name: Hackathon supporters
+        oursponsors:
+          - name: "CONP"
+            image: /images/logos/conp_logo.png
+            url: https://conp.ca/
+            height: 5em
+          - name: "Wellcome Centre for Integrative Neuroimaging"
+            image: /images/logos/logo_WIN_clear.png
+            url: https://www.win.ox.ac.uk/
+            height: 5em
       - name: Sponsors
         oursponsors:
-          - name: "OHBM Australian chapter"
-            image: "/images/logos/OHBM_australian_chapter.png"
-            url: "https://ohbmaustralia.wordpress.com/"
+          - name: "QMENTA"
+            image: /images/logos/qmenta_logo.png
+            url: https://www.qmenta.com/
+            height: 5em
+          - name: "Brainhack Marburg"
+            image: /images/logos/bhmarburg_logo.png
+            url: https://brainhack-marburg.github.io/
+            height: 5em
+         
 
   section2:
     title: Open science is an umbrella.
