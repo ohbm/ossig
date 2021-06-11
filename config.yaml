@@ -162,18 +162,18 @@ params:
     tiersimage: /images/illustrations/ossig_sponsorship_tiers.jpg
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
-      - name: 2021 Open Science Champions
+      - name: Open Science Champions
         oursponsors:
           - name: "Openneuro"
             image: /images/logos/openneuro_logo.png
             url: https://openneuro.org/
-      - name: 2021 Hackathon Champions
+      - name: Hackathon Champions
         oursponsors:
           - name: "Courtois NeuroMod"
             image: /images/logos/cneuromod_logo.svg
             url: https://www.cneuromod.ca/
             height: 5em
-      - name: Open science supporters
+      - name: Open Science Supporters
         oursponsors:
           - name: "Quebec Bio-Imaging Network"
             image: /images/logos/QBIN_logo.png
@@ -183,7 +183,7 @@ params:
             image: /images/logos/mathworks_logo.png
             url: https://www.mathworks.com/
             height: 5em
-      - name: Hackathon supporters
+      - name: Hackathon Supporters
         oursponsors:
           - name: "CONP"
             image: /images/logos/conp_logo.png
