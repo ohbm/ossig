@@ -162,48 +162,49 @@ params:
     tiersimage: /images/illustrations/ossig_sponsorship_tiers.jpg
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
-      - name: Open Science Champions
+      - name: Open Science Champion
         oursponsors:
           - name: "Openneuro"
             image: /images/logos/openneuro_logo.png
+            height: 16em
             url: https://openneuro.org/
-      - name: Hackathon Champions
+      - name: Hackathon Champion
         oursponsors:
           - name: "Courtois NeuroMod"
+            height: 6em
             image: /images/logos/cneuromod_logo.svg
             url: https://www.cneuromod.ca/
-            height: 5em
+
       - name: Open Science Supporters
         oursponsors:
           - name: "Quebec Bio-Imaging Network"
             image: /images/logos/QBIN_logo.png
             url: https://www.rbiq-qbin.qc.ca/Accueil
-            height: 5em
+            height: 7em
           - name: "MathWorks"
             image: /images/logos/mathworks_logo.png
             url: https://www.mathworks.com/
-            height: 5em
+            height: 7em
       - name: Hackathon Supporters
         oursponsors:
           - name: "CONP"
             image: /images/logos/conp_logo.png
             url: https://conp.ca/
-            height: 5em
+            height: 8em
           - name: "Wellcome Centre for Integrative Neuroimaging"
             image: /images/logos/logo_WIN_clear.png
             url: https://www.win.ox.ac.uk/
-            height: 5em
+            height: 8em
       - name: Sponsors
         oursponsors:
           - name: "QMENTA"
             image: /images/logos/qmenta_logo.png
             url: https://www.qmenta.com/
-            height: 5em
+            height: 8em
           - name: "Brainhack Marburg"
             image: /images/logos/bhmarburg_logo.png
             url: https://brainhack-marburg.github.io/
-            height: 5em
-         
+            height: 8em
 
   section2:
     title: Open science is an umbrella.

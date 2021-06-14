@@ -28,13 +28,21 @@
                 <p class="title mt-30">{{ .name }}</p>
                 {{- range .oursponsors }}
 
-                  <figure style="float:left; padding:5px;">
+                  <figure style="float:left; padding:25px;">
                     <a href="{{ .url }}">
                     {{ if .image }}
-                        {{ if .height }}
-                      <img src="{{ .image | relURL}}" style="height: .height; padding-top:15px;">
+                        {{ if and .height .width }}
+                        <img src="{{ .image | relURL}}" style="height: {{.height}}; width: {{.width}}; padding-top:15px;">
                         {{ else }}
-                      <img src="{{ .image | relURL}}" style="height:8em; padding-top:15px;">
+                          {{ if .height }}
+                          <img src="{{ .image | relURL}}" style="height: {{.height}}; padding-top:15px;">
+                          {{ else }}
+                            {{ if .width }}
+                            <img src="{{ .image | relURL}}" style="width: {{.width}}; padding-top:15px;">
+                            {{else}}
+                              <img src="{{ .image | relURL}}" style="height:8em; padding-top:15px;">
+                            {{ end }}
+                        {{ end }}
                         {{ end }}
                     {{ else }}
                       {{ .name }}
