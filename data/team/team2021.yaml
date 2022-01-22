@@ -1,0 +1,100 @@
+title: Our team 2021
+    subtitle: The people behind the OSSIG
+    id: OSSIG_team
+    year: 2021
+    # images (from /images/faces/$year/___.jpg)
+    members:
+      # chair, secretary, treasurer
+      - name: Aki Nikolaidis
+        role: Chair
+        image: aki_nikolaidis
+        affiliation: Child Mind Institute
+        twitter: https://twitter.com/akinikolaidis
+      - name: Katie Bottenhorn
+        role: Secretary
+        image: katie_bottenhorn
+        affiliation: Florida International University, Department of Psychology
+        twitter: https://twitter.com/62442katieb
+      - name: Tristan Glatard
+        role: Treasurer
+        image: tristan_glatard
+        affiliation: Concordia University, Department of Computer Science and Software Engineering
+        twitter: https://twitter.com/TristanGlatard
+
+        # elect chair, secretary, treasurer
+      - name: Janine Bijsterbosch
+        role: Chair Elect
+        image: janine_bijsterbosch
+        affiliation: Washington University in St Louis, Department of Radiology (Medical School)
+        twitter: https://twitter.com/PersonomicsLab
+      - name: Johanna Bayer
+        role: Secretary Elect
+        image: johanna_bayer
+        affiliation: The University of Melbourne, Faculty for Medicine, Dentistry and Health Sciences
+        twitter: https://twitter.com/likeajumprope
+      - name: Benjamin De Leener
+        role: Treasurer Elect
+        image: benjamin_de_leener
+        affiliation: Polytechnique Montreal, Department of Computer Engineering and Software Engineering
+        twitter: https://twitter.com/bendeleener
+
+        # hackathon
+      - name: Tibor Auer
+        role: Hackathon Co-Chair
+        image: tibor_auer
+        affiliation: Univeristy of Surrey, School of Psychology
+        twitter: https://twitter.com/TiborAuer
+      - name: Matteo Mancini
+        role: Hackathon Co-Chair
+        image: matteo_mancini
+        affiliation: University of Sussex, Department of Neuroscience, Brighton and Sussex Medical School
+        twitter: https://www.twitter.com/ingmatman
+
+        # OSR
+      - name: Eva Alonso Ortiz
+        role: Open Science Room Co-Chair
+        image: eva_alonso_ortiz
+        affiliation: Polytechnique Montreal, Department of Electrical Engineering
+        twitter: https://twitter.com/EvaAlonsoOrtiz
+      - name: Gabriel Gonzalez-Escamilla
+        role: Open Science Room Co-Chair
+        image: gabriel_gonzalez_escamilla
+        affiliation: University Medical Center of the Johannes Gutenberg University Mainz, Department of Neurology
+        twitter: https://twitter.com/NeuroGabriel
+        
+        # Volunteer Coordinator
+      - name: Sofie Valk
+        role: Volunteer Coordinator
+        image: sofie_valk
+        affiliation: Max Planck for Human Cognitive and Brain Sciences; FZ Jülich 
+        twitter: https://twitter.com/sofievalk
+      
+      - name: Melvin Selim Atay
+        role: Inclusivity Officer
+        image: melvin_selim_atay
+        affiliation: Middle East Technical University, Department of Neuroscience and Neurotechnology 
+        twitter: https://twitter.com/i_am_mel_dev
+
+        # past chair, secretary, treasurer
+      - name: Camille Maumet
+        role: Past Chair
+        image: camille_maumet
+        affiliation: Inria, Univ Rennes, CNRS, Inserm
+        twitter: https://twitter.com/cmaumet
+      - name: Ana Van Gulick
+        role: Past Secretary
+        image: ana_van_gulick
+        affiliation: Figshare; Carnegie Mellon University, University Libraries and Department of Psychology
+        twitter: https://twitter.com/anavangulick
+      - name: Eugene Duff
+        role: Past Treasurer
+        image: eugene_duff
+        affiliation: University of Oxford, Department of Pediatrics
+        twitter: https://twitter.com/EugenePDuff
+
+        # liaison
+      - name: Pierre Bellec
+        role: Council Liaison
+        image: pierre_bellec
+        affiliation: University of Montreal, CRIUGM, Montreal, Canada
+        twitter: https://twitter.com/pierre_bellec
