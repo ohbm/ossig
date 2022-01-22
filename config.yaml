@@ -57,56 +57,82 @@ params:
     title: Our team
     subtitle: The people behind the OSSIG
     id: OSSIG_team
-    year: 2021
-    # images (from /images/faces/$year/___.jpg)
+    year: 2022
+    # images (from /images/faces/2022/___.jpg)
     members:
       # chair, secretary, treasurer
-      - name: Aki Nikolaidis
-        role: Chair
-        image: aki_nikolaidis
-        affiliation: Child Mind Institute
-        twitter: https://twitter.com/akinikolaidis
-      - name: Katie Bottenhorn
-        role: Secretary
-        image: katie_bottenhorn
-        affiliation: Florida International University, Department of Psychology
-        twitter: https://twitter.com/62442katieb
-      - name: Tristan Glatard
-        role: Treasurer
-        image: tristan_glatard
-        affiliation: Concordia University, Department of Computer Science and Software Engineering
-        twitter: https://twitter.com/TristanGlatard
-
-        # elect chair, secretary, treasurer
       - name: Janine Bijsterbosch
-        role: Chair Elect
+        role: Chair
         image: janine_bijsterbosch
-        affiliation: Washington University in St Louis, Department of Radiology (Medical School)
+        affiliation: Department of Radiology, Washington University Medical School, Washington University in St Louis, USA
         twitter: https://twitter.com/PersonomicsLab
       - name: Johanna Bayer
-        role: Secretary Elect
+        role: Secretary
         image: johanna_bayer
-        affiliation: The University of Melbourne, Faculty for Medicine, Dentistry and Health Sciences
+        affiliation: The University of Melbourne; Orygen, Melbourne
         twitter: https://twitter.com/likeajumprope
       - name: Benjamin De Leener
+        role: Treasurer
+        image: benjamin_deleener
+        affiliation: Polytechnique Montréal, Department of Computer Engineering and Software Engineering, TransMedTech Institute, CHU Sainte-Justine
+        twitter: https://twitter.com/BenDeLeener
+
+        # elect chair, secretary, treasurer
+      - name: Koen Haak
+        role: Chair Elect
+        image: koen_haak
+        affiliation: Donders Institute for Brain Cognition and Behaviour, Radboud University Medical Center, Nijmegen, The Netherlands
+        twitter: https://twitter.com/KVHaak
+      - name: Andrea Gondova
+        role: Secretary Elect
+        image: andrea_gondova
+        affiliation: Université de Paris, NeuroDiderot INSERM; UNIACT Neurospin CEA; Paris, France
+        twitter: https://twitter.com/reaGondova
+      - name: Linden Parkes
         role: Treasurer Elect
-        image: benjamin_de_leener
-        affiliation: Polytechnique Montreal, Department of Computer Engineering and Software Engineering
-        twitter: https://twitter.com/bendeleener
+        image: linden_parkes
+        affiliation: University of Pennsylvania
+        twitter: https://twitter.com/LindenParkes
 
         # hackathon
-      - name: Tibor Auer
-        role: Hackathon Co-Chair
-        image: tibor_auer
-        affiliation: Univeristy of Surrey, School of Psychology
-        twitter: https://twitter.com/TiborAuer
-      - name: Matteo Mancini
-        role: Hackathon Co-Chair
-        image: matteo_mancini
-        affiliation: University of Sussex, Department of Neuroscience, Brighton and Sussex Medical School
-        twitter: https://www.twitter.com/ingmatman
+      - name: Hao-Ting Wang
+        role: Hackathon Chair
+        image: haoting_wang
+        affiliation: Centre de recherche de l'institut Universitaire de gériatrie de Montréal 
+        twitter: https://twitter.com/HaoTingW713
+      - name: Stefano Moia
+        role: Hackathon Deputy Chair
+        image: stefano_moia
+        affiliation: Ecole Polytechnique Federale de Lausanne
+        twitter: https://www.twitter.com/SteMoia
 
         # OSR
+      - name: Roza G. Bayrak
+        role: Open Science Room Chair
+        image: roza_gbayrak
+        affiliation: Vanderbilt University, Department of Computer Science
+        twitter: https://twitter.com/redgreenblues
+      - name: Naomi L. Gaggi
+        role: Open Science Room Deputy Chair
+        image: naomi_lgaggi
+        affiliation: City University of New York (CUNY) Graduate Center & CUNY School of Medicine at City College
+        twitter: https://twitter.com/NaomiGaggi
+        
+         # elect OSR Chair
+      - name: Subapriya Suppiah
+        role: Open Science Room Chair Elect
+        image: subapriya_suppiah
+        affiliation: Universiti Putra Malaysia
+        twitter: https://twitter.com/SubapriyaSuppi1
+        
+         # inclusivity officer
+      - name: Stephanie Noble
+        role: Inclusivity Officer
+        image: stephanie_noble
+        affiliation: Department of Radiology & Biomedical Imaging, Yale University
+        twitter: https://twitter.com/sNeuroble
+
+        # past chairs
       - name: Eva Alonso Ortiz
         role: Open Science Room Co-Chair
         image: eva_alonso_ortiz
@@ -118,42 +144,12 @@ params:
         affiliation: University Medical Center of the Johannes Gutenberg University Mainz, Department of Neurology
         twitter: https://twitter.com/NeuroGabriel
         
-        # Volunteer Coordinator
-      - name: Sofie Valk
-        role: Volunteer Coordinator
-        image: sofie_valk
-        affiliation: Max Planck for Human Cognitive and Brain Sciences; FZ Jülich 
-        twitter: https://twitter.com/sofievalk
-      
-      - name: Melvin Selim Atay
-        role: Inclusivity Officer
-        image: melvin_selim_atay
-        affiliation: Middle East Technical University, Department of Neuroscience and Neurotechnology 
-        twitter: https://twitter.com/i_am_mel_dev
-
-        # past chair, secretary, treasurer
-      - name: Camille Maumet
-        role: Past Chair
-        image: camille_maumet
-        affiliation: Inria, Univ Rennes, CNRS, Inserm
-        twitter: https://twitter.com/cmaumet
-      - name: Ana Van Gulick
-        role: Past Secretary
-        image: ana_van_gulick
-        affiliation: Figshare; Carnegie Mellon University, University Libraries and Department of Psychology
-        twitter: https://twitter.com/anavangulick
-      - name: Eugene Duff
-        role: Past Treasurer
-        image: eugene_duff
-        affiliation: University of Oxford, Department of Pediatrics
-        twitter: https://twitter.com/EugenePDuff
-
-        # liaison
-      - name: Pierre Bellec
-        role: Council Liaison
-        image: pierre_bellec
-        affiliation: University of Montreal, CRIUGM, Montreal, Canada
-        twitter: https://twitter.com/pierre_bellec
+#         # Volunteer Coordinator
+#       - name: Sofie Valk
+#         role: Volunteer Coordinator
+#         image: sofie_valk
+#         affiliation: Max Planck for Human Cognitive and Brain Sciences; FZ Jülich 
+#         twitter: https://twitter.com/sofievalk
 
   sponsors:
     title: Our sponsors
