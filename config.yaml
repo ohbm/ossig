@@ -32,8 +32,8 @@ params:
       url: "/elections"
     - title: Hackathon
       url: "https://ohbm.github.io/hackathon"
-    - title: Call for fellows
-      url: "/awards"
+    #- title: Call for fellows
+    #  url: "/awards"
     - title: Open Science Room
       url: "https://ohbm.github.io/osr2022"
     - title: Sponsors
