@@ -73,7 +73,7 @@ params:
         twitter: https://twitter.com/likeajumprope
       - name: Benjamin De Leener
         role: Treasurer
-        image: benjamin_deleener
+        image: benjamin_de_leener
         affiliation: Polytechnique Montréal, Department of Computer Engineering and Software Engineering, TransMedTech Institute, CHU Sainte-Justine
         twitter: https://twitter.com/BenDeLeener
 
@@ -85,7 +85,7 @@ params:
         twitter: https://twitter.com/KVHaak
       - name: Andrea Gondova
         role: Secretary Elect
-        image: andrea_gondova
+        image: gondova_andrea
         affiliation: Université de Paris, NeuroDiderot INSERM; UNIACT Neurospin CEA; Paris, France
         twitter: https://twitter.com/reaGondova
       - name: Linden Parkes
