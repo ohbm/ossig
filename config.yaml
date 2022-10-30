@@ -54,7 +54,7 @@ params:
     buttonLink: https://github.com/ohbm/hackathon2020/blob/master/README.md
 
   team:
-    title: Our team
+    title: Our team 2023
     subtitle: The people behind the OSSIG
     id: OSSIG_team
     year: 2023
@@ -169,7 +169,7 @@ params:
 
   sponsors:
     title: Our sponsors
-    subtitle: We are grateful for the generous support of our 2022 sponsors
+    subtitle: We are grateful for the generous support of our 2022 sponsors.
     titleopp: Sponsorship opportunities
     tiersimage: /images/illustrations/ossig_sponsorpship_tiers2023.jpg
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!

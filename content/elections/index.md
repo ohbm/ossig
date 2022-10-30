@@ -28,7 +28,7 @@ If you’re interested in taking your open-science skills to the next level, con
 
 ## Available positions
 
-We have many positions available: [more info here](https://drive.google.com/file/d/1K28OMP8lEyjiZF46_nFAtSt4TkrzzyXd/view?usp=sharing)
+We have many positions available: [find more info >>here<<](https://drive.google.com/file/d/1K28OMP8lEyjiZF46_nFAtSt4TkrzzyXd/view?usp=sharing)
 ### Open-science Room Chair Elect
 
 Take the lead on coordinating the open-science room for OHBM 2024. Apply in pairs of two. Work with the OS SIG to create an inclusive space for all OHBM members! 
