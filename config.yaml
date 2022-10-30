@@ -63,29 +63,29 @@ params:
       # chair, secretary, treasurer
       - name: Koen Haak
         role: Chair
-        image: koen_haak
+        image: koen_haak1
         affiliation: Donders Institute for Brain Cognition and Behaviour, Radboud University Medical Center, Nijmegen, The Netherlands
         twitter: https://twitter.com/KVHaak
       - name: Andrea Gondova
         role: Secretary
-        image: gondova_andrea
+        image: gondova_andrea1
         affiliation:  Université de Paris Cité, NeuroDiderot INSERM; UNIACT Neurospin CEA; Paris, France
         twitter: https://twitter.com/reaGondova
       - name: Linden Parkes
         role: Treasurer
-        image: linden_parkes
+        image: linden_parkes1
         affiliation: University of Pennsylvania
         twitter: https://twitter.com/LindenParkes
 
       # hackathon
       - name: Yu-Fang Yang
         role: Hackathon Co-Chair
-        image: yufang_yang
+        image: yufang_yang1
         affiliation: Division of Experimental Psychology and Neuropsychology, Department of Education and Psychology, Freie Universität Berlin
         twitter: https://twitter.com/ufangyang
       - name: Anibal Sólon Heinsfeld
         role: Hackathon Co-Chair
-        image: anibal_solon
+        image: anibal_solon1
         affiliation: 
         twitter: 
 
@@ -93,77 +93,77 @@ params:
       # OSR
       - name: Subapriya Suppiah
         role: Open Science Room Co-Chair
-        image: subapriya_suppiah
+        image: subapriya_suppiah1
         affiliation: Universiti Putra Malaysia
         twitter: https://twitter.com/SubapriyaSuppi1
       - name: Selma Lugtmeijer
         role: Open Science Room Co-Chair
-        image: selma_lugtmeijer
+        image: selma_lugtmeijer1
         affiliation: Brock University, Department of Psychology, Canada
         twitter: https://twitter.com/LugtmeijerSelma
 
       # Hybridization
       - name: Junhao Wen (Hao)
         role: Hybridization Chair
-        image: junhao_wen
+        image: junhao_wen1
         affiliation: University of Pennsylvania
         twitter: https://twitter.com/JunhaoWen
 
       # inclusivity officer
       - name: Fernando A. Barrios
         role: Inclusivity Officer
-        image: fernando_barrios
+        image: fernando_barrios1
         affiliation: Universidad Nacional Autónoma de México, Instituto de Neurobiología, Mexico
         twitter: 
       - name: Kangjoo Lee
         role: Inclusivity Officer
-        image: kangjoo_lee
+        image: kangjoo_lee1
         affiliation: Yale University, Department of Psychiatry, USA
         twitter: https://twitter.com/Kangjoo_Lee_ 
 
       # Community Liason Officers
       - name: Nur Shahidatul Nabila binti Ibrahim
         role: Community Liason Officer
-        image: nur_nabila
+        image: nur_nabila1
         affiliation: Universiti Putra Malaysia
         twitter: 
       - name: Almudena Ramírez Haro
         role: Community Liason Officer
-        image: almudena_ramirez_haro
+        image: almudena_ramirez_haro1
         affiliation: 
         twitter:
 
       # elect chair, secretary, treasurer
       - name: Cassandra Gould van Praag
         role: Chair Elect
-        image: cass_gould_van_praag
+        image: cass_gould_van_praag1
         affiliation: Wellcome Centre for Integrative Neuroimaging, Univeristy of Oxford, UK
         twitter: https://twitter.com/caassgvp
       - name: Nils Muhlert
         role: Secretary Elect
-        image: nils_muhlert
+        image: nils_muhlert1
         affiliation: University of Manchester
         twitter: https://twitter.com/nilsmuhlert
       - name: Yi-Ju Lee (Jean)
         role: Treasurer Elect
-        image: yiju_lee
+        image: yiju_lee1
         affiliation: Institute of Statistical Science, Academia Sinica, Taipei, Taiwan
         twitter: https://twitter.com/jean890203
 
       # elect brainhack/OSR
       - name: Qing Wang (Vincent)
         role: Hackathon Co-Chair Elect
-        image: qing_wang
+        image: qing_wang1
         affiliation: Shanghai Mental Health Center, Shanghai Jiao Tong University Medical School, China
         twitter: https://twitter.com/QingWan99752335
       - name: Sina Mansour
         role: Hackathon Co-Chair Elect
-        image: sina_mansour
+        image: sina_mansour1
         affiliation: Department of Psychiatry, The University of Melbourne
         twitter: 
       - name: Xiangzhen Kong
         role: Open Science Room Co-Chair Elect
-        image: xiangzhen_kong
+        image: xiangzhen_kong1
         affiliation: Department of Psychology and Behavioral Sciences, Zhejiang University
         twitter: https://twitter.com/xiangzhenkong
 
