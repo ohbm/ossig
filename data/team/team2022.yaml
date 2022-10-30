@@ -1,0 +1,108 @@
+    title: Our team 2022
+    subtitle: The people behind the OSSIG
+    id: OSSIG_team
+    year: 2022
+    # images (from /images/faces/$year/___.jpg)
+    members:
+      # chair, secretary, treasurer
+      - name: Janine Bijsterbosch
+        role: Chair
+        image: janine_bijsterbosch
+        affiliation: Department of Radiology, Washington University Medical School, Washington University in St Louis, USA
+        twitter: https://twitter.com/PersonomicsLab
+      - name: Johanna Bayer
+        role: Secretary
+        image: johanna_bayer
+        affiliation: The University of Melbourne; Orygen, Melbourne
+        twitter: https://twitter.com/likeajumprope
+      - name: Benjamin De Leener
+        role: Treasurer
+        image: benjamin_de_leener
+        affiliation: Polytechnique Montréal, Department of Computer Engineering and Software Engineering, TransMedTech Institute, CHU Sainte-Justine
+        twitter: https://twitter.com/BenDeLeener
+
+        # elect chair, secretary, treasurer
+      - name: Koen Haak
+        role: Chair Elect
+        image: koen_haak
+        affiliation: Donders Institute for Brain Cognition and Behaviour, Radboud University Medical Center, Nijmegen, The Netherlands
+        twitter: https://twitter.com/KVHaak
+      - name: Andrea Gondova
+        role: Secretary Elect
+        image: gondova_andrea
+        affiliation: Université de Paris Cité, Neurospin CEA
+        twitter: https://twitter.com/reaGondova
+      - name: Linden Parkes
+        role: Treasurer Elect
+        image: linden_parkes
+        affiliation: University of Pennsylvania
+        twitter: https://twitter.com/LindenParkes
+
+
+        # hackathon
+      - name:  Hao-Ting Wang
+        role: Hackathon Chair
+        image: haoting_wang
+        affiliation: Centre de recherche de l'institut Universitaire de gériatrie de Montréal
+        twitter: https://twitter.com/HaoTingW713
+      - name:  Stefano Moia
+        role: Hackathon Deputy Chair
+        image: stefano_moia
+        affiliation: Ecole Polytechnique Federale de Lausanne
+        twitter: https://www.twitter.com/SteMoia
+
+        # OSR
+      - name: Roza G. Bayrak
+        role: Open Science Room Chair
+        image: roza_gbayrak
+        affiliation: Vanderbilt University, Department of Computer Science
+        twitter: https://twitter.com/redgreenblues
+      - name: Naomi L. Gaggi
+        role: Open Science Room Deputy Chair
+        image: naomi_lgaggi
+        affiliation: City University of New York (CUNY) Graduate Center & CUNY School of Medicine at City College
+        twitter: https://twitter.com/NaomiGaggiS
+        
+        # Inclusivity Officer
+      - name: Stephanie Noble
+        role: Inclusivity Officer
+        image: steph_noble
+        affiliation: Department of Radiology & Biomedical Imaging, Yale University 
+        twitter: https://twitter.com/sNeuroble
+      
+        # Community Liaison
+      - name: Subapriya Suppiah
+        role: Community Liason Officer & Open Science Room Chair Elect
+        image: subapriya_suppiah
+        affiliation: Universiti Putra Malaysia
+        twitter: https://twitter.com/SubapriyaSuppi1
+      - name: Valentina Borghesani
+        role: Community Liason Officer
+        image: valentina_borghesani
+        affiliation: Centre de recherche de l’Institut universitaire de Gériatrie de Montréal, Montréal, QC
+        twitter: https://twitter.com/vborghesani
+
+        # past chair, secretary, treasurer
+      - name: Aki Nikolaidis
+        role: Past Chair
+        image: aki_nikolaidis
+        affiliation: Child Mind Institute
+        twitter: https://twitter.com/akinikolaidis
+      - name: Katie Bottenhorn
+        role: Past Secretary
+        image: katie_bottenhorn
+        affiliation: Florida International University, Department of Psychology
+        twitter: https://twitter.com/62442katieb
+      - name: Tristan Glatard
+        role: Past Treasurer
+        image: tristan_glatard
+        affiliation: Concordia University, Department of Computer Science and Software Engineering
+        twitter: https://twitter.com/TristanGlatard
+
+
+        # liaison
+      - name: Alex Fornito
+        role: Council Liaison
+        image: alex_fornito
+        affiliation: 
+        twitter: 
