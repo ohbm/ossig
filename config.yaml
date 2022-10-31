@@ -26,7 +26,7 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-    - title: Our Team
+    - title: Our Team 2023
       url: "/#OSSIG_team"
     - title: Join the OSSIG Committee
       url: "/elections"
@@ -54,94 +54,124 @@ params:
     buttonLink: https://github.com/ohbm/hackathon2020/blob/master/README.md
 
   team:
-    title: Our team
+    title: Our team 2023
     subtitle: The people behind the OSSIG
     id: OSSIG_team
-    year: 2022
-    # images (from /images/faces/2022/___.jpg)
+    year: 2023
+    # images (from /images/faces/2023/___.jpg)
     members:
       # chair, secretary, treasurer
-      - name: Janine Bijsterbosch
-        role: Chair
-        image: janine_bijsterbosch
-        affiliation: Department of Radiology, Washington University Medical School, Washington University in St Louis, USA
-        twitter: https://twitter.com/PersonomicsLab
-      - name: Johanna Bayer
-        role: Secretary
-        image: johanna_bayer
-        affiliation: The University of Melbourne; Orygen, Melbourne
-        twitter: https://twitter.com/likeajumprope
-      - name: Benjamin De Leener
-        role: Treasurer
-        image: benjamin_de_leener
-        affiliation: Polytechnique Montréal, Department of Computer Engineering and Software Engineering, TransMedTech Institute, CHU Sainte-Justine
-        twitter: https://twitter.com/BenDeLeener
-
-      # hackathon
-      - name: Hao-Ting Wang
-        role: Hackathon Chair
-        image: haoting_wang
-        affiliation: Centre de recherche de l'institut Universitaire de gériatrie de Montréal
-        twitter: https://twitter.com/HaoTingW713
-      - name: Stefano Moia
-        role: Hackathon Deputy Chair
-        image: stefano_moia
-        affiliation: Ecole Polytechnique Federale de Lausanne
-        twitter: https://www.twitter.com/SteMoia
-
-      # OSR
-      - name: Roza G. Bayrak
-        role: Open Science Room Chair
-        image: roza_gbayrak
-        affiliation: Vanderbilt University, Department of Computer Science
-        twitter: https://twitter.com/redgreenblues
-      - name: Naomi L. Gaggi
-        role: Open Science Room Deputy Chair
-        image: naomi_lgaggi
-        affiliation: City University of New York (CUNY) Graduate Center & CUNY School of Medicine at City College
-        twitter: https://twitter.com/NaomiGaggi
-
-      # inclusivity officer
-      - name: Stephanie Noble
-        role: Inclusivity Officer
-        image: stephanie_noble
-        affiliation: Department of Radiology & Biomedical Imaging, Yale University
-        twitter: https://twitter.com/sNeuroble
-
-      # Community Liason Officers
-      - name: Subapriya Suppiah
-        role: Community Liason Officer & Open Science Room Chair Elect
-        image: subapriya_suppiah
-        affiliation: Universiti Putra Malaysia
-        twitter: https://twitter.com/SubapriyaSuppi1
-      - name: Valentina Borghesani
-        role: Community Liason Officer
-        image: valentina_borghesani
-        affiliation: Centre de recherche de l’Institut universitaire de Gériatrie de Montréal, Montréal, QC
-        twitter: https://twitter.com/vborghesani
-
-      # elect chair, secretary, treasurer
       - name: Koen Haak
-        role: Chair Elect
-        image: koen_haak
+        role: Chair
+        image: koen_haak1
         affiliation: Donders Institute for Brain Cognition and Behaviour, Radboud University Medical Center, Nijmegen, The Netherlands
         twitter: https://twitter.com/KVHaak
       - name: Andrea Gondova
-        role: Secretary Elect
-        image: gondova_andrea
-        affiliation: Université de Paris, NeuroDiderot INSERM; UNIACT Neurospin CEA; Paris, France
+        role: Secretary
+        image: gondova_andrea1
+        affiliation:  Université de Paris Cité, NeuroDiderot INSERM; UNIACT Neurospin CEA; Paris, France
         twitter: https://twitter.com/reaGondova
       - name: Linden Parkes
-        role: Treasurer Elect
-        image: linden_parkes
+        role: Treasurer
+        image: linden_parkes1
         affiliation: University of Pennsylvania
         twitter: https://twitter.com/LindenParkes
 
+      # hackathon
+      - name: Yu-Fang Yang
+        role: Hackathon Co-Chair
+        image: yufang_yang1
+        affiliation: Division of Experimental Psychology and Neuropsychology, Department of Education and Psychology, Freie Universität Berlin
+        twitter: https://twitter.com/ufangyang
+      - name: Anibal Sólon Heinsfeld
+        role: Hackathon Co-Chair
+        image: anibal_solon1
+        affiliation: 
+        twitter: 
+
+
+      # OSR
+      - name: Subapriya Suppiah
+        role: Open Science Room Co-Chair
+        image: subapriya_suppiah1
+        affiliation: Universiti Putra Malaysia
+        twitter: https://twitter.com/SubapriyaSuppi1
+      - name: Selma Lugtmeijer
+        role: Open Science Room Co-Chair
+        image: selma_lugtmeijer1
+        affiliation: Brock University, Department of Psychology, Canada
+        twitter: https://twitter.com/LugtmeijerSelma
+
+      # Hybridization
+      - name: Junhao Wen (Hao)
+        role: Hybridization Chair
+        image: junhao_wen1
+        affiliation: University of Pennsylvania
+        twitter: https://twitter.com/JunhaoWen
+
+      # inclusivity officer
+      - name: Fernando A. Barrios
+        role: Inclusivity Officer
+        image: fernando_barrios1
+        affiliation: Universidad Nacional Autónoma de México, Instituto de Neurobiología, Mexico
+        twitter: 
+      - name: Kangjoo Lee
+        role: Inclusivity Officer
+        image: kangjoo_lee1
+        affiliation: Yale University, Department of Psychiatry, USA
+        twitter: https://twitter.com/Kangjoo_Lee_ 
+
+      # Community Liason Officers
+      - name: Nur Shahidatul Nabila binti Ibrahim
+        role: Community Liason Officer
+        image: nur_nabila1
+        affiliation: Universiti Putra Malaysia
+        twitter: 
+      - name: Almudena Ramírez Haro
+        role: Community Liason Officer
+        image: almudena_ramirez_haro1
+        affiliation: 
+        twitter:
+
+      # elect chair, secretary, treasurer
+      - name: Cassandra Gould van Praag
+        role: Chair Elect
+        image: cass_gould_van_praag1
+        affiliation: Wellcome Centre for Integrative Neuroimaging, Univeristy of Oxford, UK
+        twitter: https://twitter.com/caassgvp
+      - name: Nils Muhlert
+        role: Secretary Elect
+        image: nils_muhlert1
+        affiliation: University of Manchester
+        twitter: https://twitter.com/nilsmuhlert
+      - name: Yi-Ju Lee (Jean)
+        role: Treasurer Elect
+        image: yiju_lee1
+        affiliation: Institute of Statistical Science, Academia Sinica, Taipei, Taiwan
+        twitter: https://twitter.com/jean890203
+
+      # elect brainhack/OSR
+      - name: Qing Wang (Vincent)
+        role: Hackathon Co-Chair Elect
+        image: qing_wang1
+        affiliation: Shanghai Mental Health Center, Shanghai Jiao Tong University Medical School, China
+        twitter: https://twitter.com/QingWan99752335
+      - name: Sina Mansour
+        role: Hackathon Co-Chair Elect
+        image: sina_mansour1
+        affiliation: Department of Psychiatry, The University of Melbourne
+        twitter: 
+      - name: Xiangzhen Kong
+        role: Open Science Room Co-Chair Elect
+        image: xiangzhen_kong1
+        affiliation: Department of Psychology and Behavioral Sciences, Zhejiang University
+        twitter: https://twitter.com/xiangzhenkong
+
   sponsors:
     title: Our sponsors
-    subtitle: We are grateful for the generous support of our 2021 sponsors
+    subtitle: We are grateful for the generous support of our 2022 sponsors.
     titleopp: Sponsorship opportunities
-    tiersimage: /images/illustrations/ossig_sponsorship_tiers.jpg
+    tiersimage: /images/illustrations/ossig_sponsorpship_tiers2023.jpg
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
       - name: Open Science Champion
@@ -159,34 +189,34 @@ params:
 
       - name: Open Science Supporters
         oursponsors:
-          - name: "Quebec Bio-Imaging Network"
-            image: /images/logos/QBIN_logo.png
-            url: https://www.rbiq-qbin.qc.ca/Accueil
-            height: 7em
+        #  - name: "Quebec Bio-Imaging Network"
+        #    image: /images/logos/QBIN_logo.png
+        #    url: https://www.rbiq-qbin.qc.ca/Accueil
+        #    height: 7em
           - name: "MathWorks"
             image: /images/logos/mathworks_logo.png
             url: https://www.mathworks.com/
             height: 7em
       - name: Hackathon Supporters
         oursponsors:
-          - name: "CONP"
-            image: /images/logos/conp_logo.png
-            url: https://conp.ca/
-            height: 8em
+       #   - name: "CONP"
+       #     image: /images/logos/conp_logo.png
+       #     url: https://conp.ca/
+       #     height: 8em
           - name: "Wellcome Centre for Integrative Neuroimaging"
             image: /images/logos/logo_WIN_clear.png
             url: https://www.win.ox.ac.uk/
             height: 8em
-      - name: Sponsors
-        oursponsors:
-          - name: "QMENTA"
-            image: /images/logos/qmenta_logo.png
-            url: https://www.qmenta.com/
-            height: 8em
-          - name: "Brainhack Marburg"
-            image: /images/logos/bhmarburg_logo.png
-            url: https://brainhack-marburg.github.io/
-            height: 8em
+      #- name: Sponsors
+      #  oursponsors:
+        #  - name: "QMENTA"
+        #    image: /images/logos/qmenta_logo.png
+        #    url: https://www.qmenta.com/
+        #    height: 8em
+        #  - name: "Brainhack Marburg"
+        #    image: /images/logos/bhmarburg_logo.png
+        #    url: https://brainhack-marburg.github.io/
+        #    height: 8em
 
   section2:
     title: Open science is an umbrella.
