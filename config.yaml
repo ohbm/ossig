@@ -134,16 +134,16 @@ params:
         twitter:
 
       # elect chair, secretary, treasurer
-      - name: Cassandra Gould van Praag
-        role: Chair Elect
-        image: cass_gould_van_praag1
-        affiliation: Wellcome Centre for Integrative Neuroimaging, Univeristy of Oxford, UK
-        twitter: https://twitter.com/caassgvp
       - name: Nils Muhlert
-        role: Secretary Elect
+        role: Chair Elect
         image: nils_muhlert1
         affiliation: University of Manchester
         twitter: https://twitter.com/nilsmuhlert
+      - name: Subapriya Suppiah
+        role: Secretary Elect
+        image: subapriya_suppiah1
+        affiliation: Universiti Putra Malaysia
+        twitter: https://twitter.com/SubapriyaSuppi1
       - name: Yi-Ju Lee (Jean)
         role: Treasurer Elect
         image: yiju_lee1
