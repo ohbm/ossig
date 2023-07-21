@@ -177,8 +177,8 @@ params:
 
       - name: OSSIG Supporter
         oursponsors:
-          - name: "OHBM "
-            image: ohbm.jpg
+          - name: "Organisation for Human Brain Mapping (OHBM)"
+            image: ohbm_logo.jpeg
             height: 8em
             url: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1
 
@@ -198,8 +198,8 @@ params:
     
       - name: Hackathon Supporters
         oursponsors:
-          - name: "Child Mind Institute"
-            image: childmindinstitute.svg
+          - name: "Child Mind Institute "
+            image: child-mind-institute_logo.png
             height: 8em
             url: https://childmind.org/
             
