@@ -10,7 +10,7 @@ include_footer: true
 
 # Make a difference: join the OS SIG Committee!
 
-Nominations for the OHBM Open Science Special Interest Group (OS SIG) committee for OHBM 2024 will open in June 2023. Stay tuned!
+**Nominations for the OHBM Open Science Special Interest Group (OS SIG) committee for OHBM 2024 are OPEN!!!**
 
 The open-science movement is one of the best things happening in neuroscience. Hackathons, open-science room, new tools and methods, reproducibility and reliability, open access and inclusivity: the OS SIG is the place where it’s all happening!
 
@@ -22,9 +22,12 @@ All OS SIG officers have reduced or no-cost registration for OHBM 2024!
 
 We have MANY opportunities to get involved with open-science and OHBM if you think nominating yourself for a position in the OS SIG is more time than you’d like to commit, please reach out to us about volunteering!
 
-We are looking for a group of interested volunteers to help coordinate the international effort of creating Hackathons and the open-science Room! Please join us!
+We are looking for a group of interested volunteers to help coordinate the international effort of creating Hackathons and the Ppen-science Room! 
 
-If you’re interested in taking your open-science skills to the next level, consider applying for our open-science Fellows program (more information coming in early fall).
+**Please join us by submitting you self-nomination through [this form](https://forms.office.com/r/ZRkiKYAxaz)**
+
+
+
 
 ## Available positions
 
