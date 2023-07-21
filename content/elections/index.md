@@ -22,10 +22,9 @@ All OS SIG officers have reduced or no-cost registration for OHBM 2024!
 
 We have MANY opportunities to get involved with open-science and OHBM if you think nominating yourself for a position in the OS SIG is more time than you’d like to commit, please reach out to us about volunteering!
 
-We are looking for a group of interested volunteers to help coordinate the international effort of creating Hackathons and the Ppen-science Room! 
+We are looking for a group of interested volunteers to help coordinate the international effort of creating Hackathons and the Open-science Room! 
 
 **Please join us by submitting you self-nomination through [this form](https://forms.office.com/r/ZRkiKYAxaz)**
-
 
 
 
