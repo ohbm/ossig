@@ -175,13 +175,6 @@ params:
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
 
-      - name: OSSIG Supporter
-        oursponsors:
-          - name: "Organisation for Human Brain Mapping (OHBM)"
-            image: ohbm_logo.jpeg
-            height: 8em
-            url: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1
-
       - name: Hackathon Supporters
         oursponsors:
           - name: "Openneuro"
