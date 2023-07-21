@@ -177,7 +177,7 @@ params:
 
       - name: OSSIG Supporter
         oursponsors:
-          - name: "OHBM"
+          - name: "OHBM "
             image: ohbm.jpg
             height: 8em
             url: https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1
@@ -219,7 +219,7 @@ params:
 
       - name: Hackathon Supporters
         oursponsors:
-          - name: "BIDS Connectivity group"
+          - name: "BIDS Connectivity group "
             image: /images/logos/bids.jpg
             height: 8em
             url: https://bids.neuroimaging.io/get_involved
