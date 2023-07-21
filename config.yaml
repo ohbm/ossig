@@ -217,6 +217,20 @@ params:
             height: 8em
             url: https://bids.neuroimaging.io/get_involved
 
+      - name: Hackathon Supporters
+        oursponsors:
+          - name: "NiPreps"
+            image: /images/logos/nipreps.jpg
+            height: 8em
+            url: https://www.nipreps.org/
+            
+      - name: Hackathon Supporters
+        oursponsors:
+          - name: "Psychoradiology"
+            image: /images/logos/psychoradiology.jpg
+            height: 8em
+            url: https://academic.oup.com/psyrad
+            
       - name: Open Science Room Supporters
         oursponsors:
           - name: "Wellcome Centre for Integrative Neuroimaging"
