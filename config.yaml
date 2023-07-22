@@ -184,8 +184,8 @@ params:
     
       - name: Hackathon Champion
         oursponsors:
-          - name: "Child Mind Institute "
-            image: child-mind-institute_logo.png
+          - name: " Child Mind Institute"
+            image: cmi.png
             height: 8em
             url: https://childmind.org/
             
