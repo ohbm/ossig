@@ -28,8 +28,8 @@ params:
   navbar:
     - title: Our Team 2024
       url: "/#OSSIG_team"
-    - title: Join the OSSIG Committee
-      url: "/elections"
+    #- title: Join the OSSIG Committee
+    #  url: "/elections"
     - title: Hackathon
       url: "https://ohbm.github.io/hackathon"
     #- title: Call for fellows
@@ -58,7 +58,7 @@ params:
     subtitle: The people behind the OSSIG
     id: OSSIG_team
     year: 2024
-    # images (from /images/illustrations/faces/2024/___.jpg)
+    # images (from /images/illustrations/faces/$year/___.jpg)
     members:
       # chair, secretary, treasurer
       - name: Nils Muhlert
