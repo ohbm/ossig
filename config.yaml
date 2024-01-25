@@ -81,7 +81,7 @@ params:
       - name: Sina Mansour
         role: Hackathon Chair
         image: sina_mansour1
-        affiliation: Department of Psychology, University of Birmingham
+        affiliation: Centre for Sleep and Cognition, National University of Singapore
         twitter: https://twitter.com/LugtmeijerSelma
       - name: Qing Wang (Vincent)
         role: Hackathon Co-Chair
@@ -94,7 +94,7 @@ params:
       - name: Selma Lugtmeijer
         role: Open Science Room Chair
         image: selma_lugtmeijer1
-        affiliation: Brock University, Department of Psychology, Canada
+        affiliation: Department of Psychology, University of Birmingham, UK
         twitter: https://twitter.com/LugtmeijerSelma
       - name: Xiangzhen Kong
         role: Open Science Room Co-Chair
@@ -149,7 +149,7 @@ params:
       - name: Roza Gunes Bayrak
         role: Hackathon Chair Elect
         image: roza_gbayrak1
-        affiliation: Department if Computer Science, Vanderbilt University
+        affiliation: Department of Computer Science, Vanderbilt University
         twitter: https://twitter.com/redgreenblues
       - name: Bruno Hebling Vieira
         role: Hackathon Co-Chair Elect
