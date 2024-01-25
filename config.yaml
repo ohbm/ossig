@@ -58,7 +58,7 @@ params:
     subtitle: The people behind the OSSIG
     id: OSSIG_team
     year: 2024
-    # images (from /images/faces/2024/___.jpg)
+    # images (from /images/illustrations/faces/2024/___.jpg)
     members:
       # chair, secretary, treasurer
       - name: Nils Muhlert
