@@ -1,0 +1,99 @@
+    title: Our team 2024
+    subtitle: The people behind the OSSIG
+    id: OSSIG_team
+    year: 2024
+    # images (from /images/faces/$year/___.jpg)
+    members:
+      # chair, secretary, treasurer
+      - name: Nils Muhlert
+        role: Chair
+        image: nils_muhlert
+        affiliation: University of Manchester, UK 
+        twitter: https://twitter.com/nilsmuhlert
+      - name: Subapriya Suppiah
+        role: Secretary
+        image: subapriya_suppiah1
+        affiliation: Universiti Putra Malaysia
+        twitter: https://twitter.com/SubapriyaSuppi1
+      - name: Yi-Ju Jean Lee
+        role: Treasurer
+        image: jean_lee
+        affiliation: Academia Sinica Taipei
+        twitter: https://twitter.com/LeeJuyi
+
+        # elect chair, secretary, treasurer
+      - name: Stefano Moia
+        role: Chair Elect
+        image: stefano_moia1
+        affiliation: Ecole Polytechnique Federale de Lausanne
+        twitter: https://www.twitter.com/SteMoia
+      - name: Selma Lugtmeijer
+        role: Secretary Elect
+        image: selma_lugtmeijer
+        affiliation: University of Birmingham, UK
+        twitter: https://twitter.com/reaGondova
+      - name: Nur Shahidatul Nabila binti Ibrahim  
+        role: Treasurer Elect
+        image: nabila_ibrahim
+        affiliation: Universiti Putra Malaysia
+        twitter: https://twitter.com/PuanSriBella
+
+
+        # hackathon
+      - name:  Qing Wang (Vincent)
+        role: Hackathon Co-Chair
+        image: qing_wang
+        affiliation: CShanghai Mental Health Center, Shanghai Jiao Tong University Medical School, China
+        twitter: https://twitter.com/QingWan99752335
+      - name:  Sina Mansour
+        role: Hackathon Co-Chair
+        image: sina_mansour
+        affiliation: Department of Psychiatry, The University of Melbourne
+        twitter: https://twitter.com/Sina_Mansour_L
+
+        # OSR
+      - name: Xiangzhen Kong
+        role: Open Science Room Chair
+        image: xiangzhen_kong
+        affiliation: Zhejiang University, China
+        twitter: https://twitter.com/xiangzhenkong
+        
+        # Inclusivity Officer
+      - name: Anibal Solon
+        role: Inclusivity Officer
+        image: anibal_solon
+        affiliation: University of Texas at Austin 
+        twitter: https://twitter.com/anibalsolon
+      
+        # Community Liaison
+      - name: Yu-Fang Yang
+        role: Community Liason Officer
+        image: yufang_yang
+        affiliation: Frei Universite Berlin
+        twitter: https://twitter.com/ufangyang
+
+
+        # past chair, secretary, treasurer
+      - name: Koen Haak
+        role: Chair Elect
+        image: koen_haak1
+        affiliation: Donders Institute for Brain Cognition and Behaviour, Radboud University Medical Center, Nijmegen, The Netherlands
+        twitter: https://twitter.com/KVHaak
+      - name: Andrea Gondova
+        role: Secretary Elect
+        image: gondova_andrea
+        affiliation: Université de Paris Cité, Neurospin CEA
+        twitter: https://twitter.com/reaGondova
+      - name: Linden Parkes
+        role: Treasurer Elect
+        image: linden_parkes
+        affiliation: University of Pennsylvania
+        twitter: https://twitter.com/LindenParkes
+
+
+        # liaison
+      - name: Alex Fornito
+        role: Council Liaison
+        image: alex_fornito
+        affiliation: 
+        twitter: 
