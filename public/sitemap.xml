@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/elections/</loc>
+    <loc>/elections/</loc>
     <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/sponsors/</loc>
+    <loc>/sponsors/</loc>
     <lastmod>2020-01-26T21:55:26+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pastmembers/team2016/</loc>
+    <loc>/pastmembers/team2016/</loc>
     <lastmod>2020-01-26T21:55:26+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pastmembers/team2017/</loc>
+    <loc>/pastmembers/team2017/</loc>
     <lastmod>2020-01-26T21:55:26+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pastmembers/team2018/</loc>
+    <loc>/pastmembers/team2018/</loc>
     <lastmod>2020-01-26T21:55:26+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pastmembers/team2019/</loc>
+    <loc>/pastmembers/team2019/</loc>
     <lastmod>2020-01-26T21:55:26+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pastmembers/team2020/</loc>
+    <loc>/pastmembers/team2020/</loc>
     <lastmod>2020-01-26T21:55:26+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pastmembers/team2021/</loc>
+    <loc>/pastmembers/team2021/</loc>
     <lastmod>2020-01-26T21:55:26+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pastmembers/team2022/</loc>
+    <loc>/pastmembers/team2022/</loc>
     <lastmod>2020-01-26T21:55:26+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pastmembers/team2023/</loc>
+    <loc>/pastmembers/team2023/</loc>
     <lastmod>2020-01-26T21:55:26+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pastmembers/</loc>
+    <loc>/pastmembers/</loc>
     <lastmod>2020-01-26T21:55:26+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/my-first-post/</loc>
+    <loc>/posts/my-first-post/</loc>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
   </url>
 </urlset>

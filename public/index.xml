@@ -2,87 +2,87 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OHBM Open Science SIG</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on OHBM Open Science SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OHBM OSSIG 2024 Committee</title>
-      <link>//localhost:1313/elections/</link>
+      <link>/elections/</link>
       <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/elections/</guid>
+      <guid>/elections/</guid>
       <description>Make a difference: join the OS SIG Committee! Nominations for the OHBM Open Science Special Interest Group (OS SIG) committee for OHBM 2024 are OPEN!!!&#xA;The open-science movement is one of the best things happening in neuroscience. Hackathons, open-science room, new tools and methods, reproducibility and reliability, open access and inclusivity: the OS SIG is the place where it’s all happening!&#xA;If open-science excites you and you want to help push its frontiers, please consider applying for a position in the OS SIG!</description>
     </item>
     <item>
       <title>Our sponsors</title>
-      <link>//localhost:1313/sponsors/</link>
+      <link>/sponsors/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>//localhost:1313/sponsors/</guid>
+      <guid>/sponsors/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>//localhost:1313/pastmembers/team2016/</link>
+      <link>/pastmembers/team2016/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>//localhost:1313/pastmembers/team2016/</guid>
+      <guid>/pastmembers/team2016/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>//localhost:1313/pastmembers/team2017/</link>
+      <link>/pastmembers/team2017/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>//localhost:1313/pastmembers/team2017/</guid>
+      <guid>/pastmembers/team2017/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>//localhost:1313/pastmembers/team2018/</link>
+      <link>/pastmembers/team2018/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>//localhost:1313/pastmembers/team2018/</guid>
+      <guid>/pastmembers/team2018/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>//localhost:1313/pastmembers/team2019/</link>
+      <link>/pastmembers/team2019/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>//localhost:1313/pastmembers/team2019/</guid>
+      <guid>/pastmembers/team2019/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>//localhost:1313/pastmembers/team2020/</link>
+      <link>/pastmembers/team2020/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>//localhost:1313/pastmembers/team2020/</guid>
+      <guid>/pastmembers/team2020/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>//localhost:1313/pastmembers/team2021/</link>
+      <link>/pastmembers/team2021/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>//localhost:1313/pastmembers/team2021/</guid>
+      <guid>/pastmembers/team2021/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>//localhost:1313/pastmembers/team2022/</link>
+      <link>/pastmembers/team2022/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>//localhost:1313/pastmembers/team2022/</guid>
+      <guid>/pastmembers/team2022/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>//localhost:1313/pastmembers/team2023/</link>
+      <link>/pastmembers/team2023/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>//localhost:1313/pastmembers/team2023/</guid>
+      <guid>/pastmembers/team2023/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/posts/my-first-post/</link>
+      <link>/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <guid>/posts/my-first-post/</guid>
       <description>Hello world !</description>
     </item>
   </channel>
