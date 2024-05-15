@@ -255,7 +255,7 @@ params:
     id: events
     features:
       - title: BrainHack
-        text: June 20th - 22nd at Dreamplus Gangnam
+        text: June 20th - 22nd @ Dreamplus Gangnam
         buttonText: Register
         buttonLink: https://ohbm.github.io/hackathon2024/
       - title: Open Science Room
