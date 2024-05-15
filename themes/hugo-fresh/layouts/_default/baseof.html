@@ -29,6 +29,10 @@
     {{ partial "section2.html" . }}
     {{ end }}
 
+    {{ if .Site.Params.events }}
+    {{ partial "events.html" . }}
+    {{ end }}
+
     {{ if .Site.Params.section3 }}
     {{ partial "section3.html" . }}
     {{ end }}
