@@ -261,11 +261,11 @@ params:
       - title: Open Science Room
         buttonText: Program
         buttonLink: https://ohbm.github.io/osr2024/schedule/
-      - title: Open Science Room - Emergent Session sign-up
-        text: We have two spots open for spontaneous discussion during the OHBM.
-        buttonText: Filled and available spots
-        buttonLink: https://ohbm.github.io/osr2024/emergent#emergent-sign
-      - title: Open Science Room - Open Mic
+      - title: Open Science Room - Emergent Session
+        text: We have filled up all spots for OHBM OSR 2024.
+        buttonText: Schedule and more
+        buttonLink: https://ohbm.github.io/osr2024/emergent/
+      - title: Open Science Room - Open Mics
         text: We feature an Open Mic session this year with 12 available spots for 5 minutes each.
         buttonText: Sign-up
         buttonLink: https://ohbm.github.io/osr2024/openmic/
