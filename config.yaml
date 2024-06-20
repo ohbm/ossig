@@ -191,7 +191,7 @@ params:
             height: 8em
             url: https://www.win.ox.ac.uk/
 
-     - name: Hackathon Supporter
+      - name: Hackathon Supporter
         oursponsors:
           - name: "NiPreps"
             image: /images/logos/openneuro_logo.png
