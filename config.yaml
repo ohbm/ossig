@@ -28,8 +28,8 @@ params:
   navbar:
     - title: Our Team 2024
       url: "/#OSSIG_team"
-    #- title: Join the OSSIG Committee
-    #  url: "/elections"
+    - title: Join the OSSIG Committee
+      url: "/elections"
     - title: Hackathon
       url: "https://ohbm.github.io/hackathon"
     #- title: Call for fellows
@@ -194,9 +194,9 @@ params:
       - name: Hackathon Supporter
         oursponsors:
           - name: "NiPreps"
-            image: /images/logos/openneuro_logo.png
+            image: /images/logos/nipreps.jpg
             height: 16em
-            url: https://openneuro.org/
+            url: https://www.nipreps.org/
       
       - name: Hackathon Champion
         oursponsors:
