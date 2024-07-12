@@ -33,6 +33,8 @@ The renewal process is composed of four rounds, starting June 27th, followed by 
 
 Following the interview process, new officers will be announced. Rounds open every four weeks. At the end of the last round, the OSSIG committee will organise continuous recruitment for the missing officer positions and general volunteers if necessary.
 
+**We will start with interviews for the available officer positions and will open the applications for the volunteering positions soon after.**
+
 ## Available officer positions for 2024/2025
 
 ### Treasurer (partial mandate)
@@ -110,7 +112,12 @@ Work together with the OS SIG and OHBM community to maximize inclusivity and eli
 
 ## Available volunteer positions
 
+**Nominations for volunteering will be open soon, consider joining the core planning team!**
+
+---
+
 **General Volunteering** <br>
+
 Dates: Throughout the year <br>
 
 <ins>Tasks</ins>
@@ -120,6 +127,7 @@ Dates: Throughout the year <br>
 ---
 
 **Social Media Engagement** <br>
+
 Core skills: Twitter <br>
 Dates: Throughout the year <br>
 
@@ -130,6 +138,7 @@ Dates: Throughout the year <br>
 ---
 
 **Website Design** <br>
+
 Core skills: JavaScript <br>
 Dates: Throughout the year <br>
 Time commitment: 1-3 hours <br>
@@ -141,6 +150,7 @@ Time commitment: 1-3 hours <br>
 ---
 
 **OSR & BrainHack Volunteering** <br>
+
 Dates: During OHBM 2025 <br>
 Format: in-person or virtually <br>
 
