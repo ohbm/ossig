@@ -96,16 +96,16 @@ Work with the hybridization chair on implementaing the hybrid format for our eve
 - first year is *in training*, 
 - second year you take the main role.
 
-### Community Liaison
+### Community Liaison Officer
 
 Work together with the OS SIG and OHBM community to maximize open-science outreach.
 
 - Number of positions: 1
 - Duration: 1 year
 
-### Inclusivity Officer
+### Local Liaison Officer
 
-Work together with the OS SIG and OHBM community to maximize inclusivity and eliminate exclusionary barriers in open-science and OHBM.
+The Local Liaison Officer is a person residing in/near or having a strong knowledge of the place of the current annual meeting (i.e., in this case, Brisbane). The Local Liaison Officer is expected to attend the Brainhack and the annual meeting in person.
 
 - Number of positions: 1
 - Duration: 1 year
