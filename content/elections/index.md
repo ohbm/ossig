@@ -33,11 +33,13 @@ The renewal process is composed of four rounds, starting June 27th, followed by 
 
 Following the interview process, new officers will be announced. Rounds open every four weeks. At the end of the last round, the OSSIG committee will organise continuous recruitment for the missing officer positions and general volunteers if necessary.
 
-**We will start with interviews for the available officer positions and will open the applications for the volunteering positions soon after.**
+> As of Auguest 29th, 2024, we have opened the 4th round of self-nomination to fill the available positions listed below.
 
-## Available officer positions for 2024/2025
+## Available officer positions for 2024/2025 
 
-### Treasurer (partial mandate)
+_**Updated August 29th, 2024**_
+
+<!-- ### Treasurer (partial mandate)
 
 Responsible for maintaining and updating an archive of SIG documentation both to the attention of SIG officers and of the OHBM community. Assists with coordination of the Open Science Room in collaboration with the Open Science Room Chair. Communicates regularly with other SIG officers
 
@@ -49,13 +51,13 @@ Responsible for maintaining and updating an archive of SIG documentation both to
 Work with the current Hackathon chair as a co-chair to orgnize Hackathon next year!
 
 - Number of positions: 1
-- Duration: 1 year
+- Duration: 1 year -->
 
-### Chair Elect, Secretary Elect, and Treasurer Elect 
+### Secretary Elect and Treasurer Elect 
 
-The General Chair Elect will be responsible for the general direction and mission of the SIG in the following term. 
+<!-- The General Chair Elect will be responsible for the general direction and mission of the SIG in the following term.  -->
 
-The secretary elect will be responsible for supporting the activities of the SIG by documenting its activities and facilitating inter-SIG communications in the following term. 
+The Secretary Elect will be responsible for supporting the activities of the SIG by documenting its activities and facilitating inter-SIG communications in the following term. 
 
 The Treasurer Elect will be responsible for all SIG finances and recruitment in the following
 term.
@@ -78,7 +80,7 @@ Work with the Hackathon chair to coordinate the Hackathon for next year and take
 - first year is *in training*, 
 - second year you take the main role.
 
-### Open-science Room Chair Elect
+<!-- ### Open-science Room Chair Elect
 
 Work with the open-science room chair to coordinate the open-science room for next year and take the lead for OHBM 2026. Work with the OS SIG to create an inclusive space for all OHBM members! 
 
@@ -108,7 +110,7 @@ Work together with the OS SIG and OHBM community to maximize open-science outrea
 The Local Liaison Officer is a person residing in/near or having a strong knowledge of the place of the current annual meeting (i.e., in this case, Brisbane). The Local Liaison Officer is expected to attend the Brainhack and the annual meeting in person.
 
 - Number of positions: 1
-- Duration: 1 year
+- Duration: 1 year -->
 
 ## Available volunteer positions
 
