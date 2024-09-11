@@ -37,7 +37,7 @@ Following the interview process, new officers will be announced. Rounds open eve
 
 ## Available officer positions for 2024/2025 
 
-_**Updated August 29th, 2024**_
+_**Updated September 11th, 2024**_
 
 <!-- ### Treasurer (partial mandate)
 
@@ -53,20 +53,20 @@ Work with the current Hackathon chair as a co-chair to orgnize Hackathon next ye
 - Number of positions: 1
 - Duration: 1 year -->
 
-### Secretary Elect and Treasurer Elect 
+### Secretary Elect
 
 <!-- The General Chair Elect will be responsible for the general direction and mission of the SIG in the following term.  -->
 
 The Secretary Elect will be responsible for supporting the activities of the SIG by documenting its activities and facilitating inter-SIG communications in the following term. 
 
-The Treasurer Elect will be responsible for all SIG finances and recruitment in the following
-term.
+<!-- The Treasurer Elect will be responsible for all SIG finances and recruitment in the following
+term. -->
 
 These Elect roles take the main roles at the end of their first year. In-person attendance of the term hackathon and annual meeting is strongly suggested.
 
-- Number of positions: 1 position for each
+- Number of positions: 1
 
-These are 3 year positions:
+This is a 3 year positions:
 - first year is *in training*, 
 - second year you take the main role, 
 - third year you step into an advisory role. 
@@ -75,7 +75,7 @@ These are 3 year positions:
 
 Work with the Hackathon chair to coordinate the Hackathon for next year and take the lead for OHBM 2026! Apply in pairs of two. Work with the rest of the OS SIG members to put on the best Hackathon happening anywhere.
 
-- Number of positions: 2
+- Number of positions: 1
 - Duration: 2 year
 - first year is *in training*, 
 - second year you take the main role.

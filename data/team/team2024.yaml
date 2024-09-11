@@ -1,0 +1,107 @@
+    title: Our team 2024
+    subtitle: The people behind the OSSIG
+    id: OSSIG_team
+    year: 2024
+    # images (from /images/illustrations/faces/$year/___.jpg)
+    members:
+      # chair, secretary, treasurer
+      - name: Nils Muhlert
+        role: Chair
+        image: nils_muhlert1
+        affiliation: University of Manchester
+        twitter: https://twitter.com/nilsmuhlert
+      - name: Subapriya Suppiah (Priya)
+        role: Secretary
+        image: subapriya_suppiah1
+        affiliation:  Faculty of Medicine and health Sciences, Universiti Putra Malaysia
+        twitter: https://twitter.com/SubapriyaSuppi1
+      - name: Yi-Ju Lee (Jean)
+        role: Treasurer
+        image: yiju_lee1
+        affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
+        twitter: https://twitter.com/jean890203
+
+      # hackathon
+      - name: Sina Mansour
+        role: Hackathon Chair
+        image: sina_mansour1
+        affiliation: Centre for Sleep and Cognition, National University of Singapore
+        twitter: https://twitter.com/LugtmeijerSelma
+      - name: Qing Wang (Vincent)
+        role: Hackathon Co-Chair
+        image: qing_wang1
+        affiliation: Shanghai Mental Health Center, School of Medicine, Shanghai Jiao Tong Universit
+        twitter: https://twitter.com/QingWan99752335
+
+
+      # OSR
+      - name: Selma Lugtmeijer
+        role: Open Science Room Chair
+        image: selma_lugtmeijer1
+        affiliation: Department of Psychology, University of Birmingham, UK
+        twitter: https://twitter.com/LugtmeijerSelma
+      - name: Xiangzhen Kong
+        role: Open Science Room Co-Chair
+        image: xiangzhen_kong1
+        affiliation: Department of Psychology and Behavioral Sciences, Zhejiang University
+        twitter: https://twitter.com/xiangzhenkong
+
+      # Hybridization
+      - name: Povilas Karvelis
+        role: Hybridization Chair
+        image: povilas_karvelis1
+        affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Canada
+        twitter: https://twitter.com/KarvelisPovilas
+
+      # inclusivity officer
+      - name: Anibal Sólon Heinsfeld
+        role: Inclusivity Officer
+        image: anibal_solon1
+        affiliation: Department of Psychology & Department of Computer Science, The University of Texas at Austin, USA
+        twitter: https://twitter.com/anibalsolon
+
+      # Community Liason Officers
+      - name: Yu-Fang Yang
+        role: Community Liason Officer
+        image: yufang_yang1
+        affiliation: Division of Experimental Psychology and Neuropsychology, Department of Education and Psychology, Freie Universität Berlin
+        twitter: https://twitter.com/ufangyang
+      - name: Hong Ji Kim
+        role: Community Liason Officer
+        image: hongji_kim1
+        affiliation: Department of biomedical engineering, SungKyunKwan University, South Korea
+        twitter: https://twitter.com/Hongjikim
+
+      # elect chair, secretary, treasurer
+      - name: Stefano Moia
+        role: Chair Elect
+        image: stefano_moia1
+        affiliation: Faculty of Psychology and Neuroscience, Maastricht University
+        twitter: https://twitter.com/SteMoia
+      - name: Wei Zhang
+        role: Secretary Elect
+        image: wei_zhang1
+        affiliation: Washington University in St. Louis
+        twitter: https://twitter.com/neurozzang
+      - name: Nur Shahidatul Nabila Ibrahim
+        role: Treasurer Elect
+        image: nur_nabila1
+        affiliation: Department of Medical Imaging, School of Health Sciences, KPJ Healthcare University, Nilai Malaysia
+        twitter: https://twitter.com/BellaEsabelle
+
+      # elect brainhack/OSR
+      - name: Roza Gunes Bayrak
+        role: Hackathon Chair Elect
+        image: roza_gbayrak1
+        affiliation: Department of Computer Science, Vanderbilt University
+        twitter: https://twitter.com/redgreenblues
+      - name: Bruno Hebling Vieira
+        role: Hackathon Co-Chair Elect
+        image: bruno_vieira1
+        affiliation: Department of Psychology, University of Zurich
+        twitter: https://twitter.com/HeblingVieira
+      - name: Ju-Chi Yu
+        role: Open Science Room Chair Elect
+        image: ju-chi_yu1
+        affiliation: Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Canada
+        twitter: https://twitter.com/xiangzhenkong
