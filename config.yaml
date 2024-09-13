@@ -116,6 +116,13 @@ params:
         affiliation: Department of Neuroscience, Vanderbilt University
         twitter: https://x.com/terradactylee
 
+      # Local Liason Officer
+      - name: Sarah Khalife
+        role: Local Liason Officer
+        image: sarah_khalife1
+        affiliation: University of Queensland
+        twitter: https://x.com/SarahKhalife3
+
       # elect chair, secretary, treasurer
       - name: Muriah Wheelock
         role: Chair Elect
@@ -124,7 +131,7 @@ params:
         twitter: #https://x.com/SteMoia
       - name: Veronica Diveica
         role: Treasurer Elect
-        image: #nur_nabila1
+        image: veronica_diveica1
         affiliation: Montreal Neurological Institute
         twitter: https://x.com/DiveicaV
 
@@ -144,6 +151,13 @@ params:
         image: #
         affiliation: Washington University in St. Louis
         twitter: #
+
+      # Volunteer
+      - name: Kayla Hannon
+        role: Volunteer
+        image: #roza_gbayrak1
+        affiliation: Washington University in St. Louis
+        twitter: https://x.com/kayla_hannon1
 
   sponsors:
     title: Our sponsors
