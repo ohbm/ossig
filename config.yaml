@@ -71,78 +71,78 @@ params:
         role: Chair
         image: stefano_moia1
         affiliation: Faculty of Psychology and Neuroscience, Maastricht University
-        twitter: https://twitter.com/SteMoia
+        twitter: https://x.com/SteMoia
       - name: Wei Zhang
         role: Secretary
         image: wei_zhang1
         affiliation: Washington University in St. Louis
-        twitter: https://twitter.com/neurozzang
+        twitter: https://x.com/neurozzang
       - name: Naomi Gaggi
         role: Treasurer
         image: naomi_lgaggi1
-        affiliation: City University of New York (CUNY) Graduate Center & CUNY School of Medicine at City College
-        twitter: https://twitter.com/NaomiGaggiS
+        affiliation: Washington University in St. Louis
+        twitter: https://x.com/NaomiGaggiS
 
       # hackathon
       - name: Bruno Hebling Vieira
         role: Hackathon Co-Chair
         image: bruno_vieira1
         affiliation: Department of Psychology, University of Zurich
-        twitter: https://twitter.com/HeblingVieira
-      - name: Niousha Dehestani Kolager
+        twitter: https://x.com/HeblingVieira
+      - name: Niousha Dehestanikolagar
         role: Hackathon Co-Chair
         image: #sina_mansour1
-        affiliation: #Centre for Sleep and Cognition, National University of Singapore
-        twitter: #https://twitter.com/LugtmeijerSelma
+        affiliation: National University of Singapore
+        twitter: #https://x.com/LugtmeijerSelma
       
       # OSR
       - name: Ju-Chi Yu
         role: Open Science Room Chair
         image: ju-chi_yu1
         affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Canada
-        twitter: https://twitter.com/juchiyu
+        twitter: https://x.com/juchiyu
 
       # Hybridization
       - name: Povilas Karvelis
         role: Hybridization Chair
         image: povilas_karvelis1
-        affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Canada
-        twitter: https://twitter.com/KarvelisPovilas
+        affiliation: Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health, Canada
+        twitter: https://x.com/KarvelisPovilas
 
       # Community Liason Officer
       - name: Terra Lee
         role: Community Liason Officer
         image: #yufang_yang1
-        affiliation: #Division of Experimental Psychology and Neuropsychology, Department of Education and Psychology, Freie Universität Berlin
-        twitter: #https://twitter.com/ufangyang
+        affiliation: Department of Neuroscience, Vanderbilt University
+        twitter: https://x.com/terradactylee
 
       # elect chair, secretary, treasurer
       - name: Muriah Wheelock
         role: Chair Elect
-        image: #stefano_moia1
-        affiliation: #Faculty of Psychology and Neuroscience, Maastricht University
-        twitter: #https://twitter.com/SteMoia
+        image: muriah_wheelock1
+        affiliation: Washington University in St. Louis
+        twitter: #https://x.com/SteMoia
       - name: Veronica Diveica
         role: Treasurer Elect
         image: #nur_nabila1
-        affiliation: #Department of Medical Imaging, School of Health Sciences, KPJ Healthcare University, Nilai Malaysia
-        twitter: #https://twitter.com/BellaEsabelle
+        affiliation: Montreal Neurological Institute
+        twitter: https://x.com/DiveicaV
 
       # elect brainhack/OSR/hybrid
       - name: Ashley York
         role: Hackathon Co-Chair Elect
         image: #roza_gbayrak1
-        affiliation: #Department of Computer Science, Vanderbilt University
-        twitter: #https://twitter.com/redgreenblues
+        affiliation: University of Queensland
+        twitter: #https://x.com/redgreenblues
       - name: James Kent
         role: Open Science Room Chair Elect
         image: #ju-chi_yu1
-        affiliation: #Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Canada
-        twitter: #https://twitter.com/xiangzhenkong
-      - name: Sung Min Ha
+        affiliation: University of Texas in Austin
+        twitter: https://x.com/SudoNeuroSci
+      - name: Sungmin Ha
         role: Hybridization Chair Elect
         image: #
-        affiliation: #
+        affiliation: Washington University in St. Louis
         twitter: #
 
   sponsors:
