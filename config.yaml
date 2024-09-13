@@ -99,14 +99,14 @@ params:
       - name: Ju-Chi Yu
         role: Open Science Room Chair
         image: ju-chi_yu1
-        affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Canada
+        affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health
         twitter: https://x.com/juchiyu
 
       # Hybridization
       - name: Povilas Karvelis
         role: Hybridization Chair
         image: povilas_karvelis1
-        affiliation: Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health, Canada
+        affiliation: Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health
         twitter: https://x.com/KarvelisPovilas
 
       # Community Liason Officer
