@@ -112,7 +112,7 @@ params:
       # Community Liason Officer
       - name: Terra Lee
         role: Community Liason Officer
-        image: #yufang_yang1
+        image: terra_lee1
         affiliation: Department of Neuroscience, Vanderbilt University
         twitter: https://x.com/terradactylee
 
@@ -148,14 +148,14 @@ params:
         twitter: https://x.com/SudoNeuroSci
       - name: Sungmin Ha
         role: Hybridization Chair Elect
-        image: #
+        image: sungmin_ha1
         affiliation: Washington University in St. Louis
-        twitter: #
+        twitter: https://x.com/SungMinHa1992
 
       # Volunteer
       - name: Kayla Hannon
         role: Volunteer
-        image: #roza_gbayrak1
+        image: kayla_hannon1
         affiliation: Washington University in St. Louis
         twitter: https://x.com/kayla_hannon1
 
