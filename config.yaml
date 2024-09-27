@@ -74,7 +74,7 @@ params:
         twitter: https://x.com/SteMoia
       - name: Wei Zhang
         role: Secretary
-        image: wei_zhang1
+        image: wei_zhang2
         affiliation: Washington University in St. Louis
         twitter: https://x.com/neurozzang
       - name: Naomi Gaggi
@@ -98,7 +98,7 @@ params:
       # OSR
       - name: Ju-Chi Yu
         role: Open Science Room Chair
-        image: ju-chi_yu1
+        image: ju-chi_yu2
         affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health
         twitter: https://x.com/juchiyu
 
@@ -158,6 +158,31 @@ params:
         image: kayla_hannon1
         affiliation: Washington University in St. Louis
         twitter: https://x.com/kayla_hannon1
+      - name: Andrea Gondova
+        role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
+        image: gondova_andrea1
+        affiliation: Boston Children’s Hospital, Harvard Medical School
+        twitter: https://x.com/reaGondova
+      - name: Selma Lugtmeijer
+        role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue; Lead of the proceeding submission for OSR 2024)
+        image: selma_lugtmeijer1
+        affiliation: School of Psychology, Centre for Human Brain Health, University of Birmingham
+        twitter: https://x.com/LugtmeijerSelma
+      - name: Sina Mansour
+        role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
+        image: sina_mansour1
+        affiliation: Centre for Sleep and Cognition, National University of Singapore
+        twitter:
+      - name: Yu-Fang Yang
+        role: Volunteer (Lead of the proceeding submission for OHBM BrainHack 2023)
+        image: yufang_yang1
+        affiliation: Division of Experimental Psychology and Neuropsychology, Department of Education and Psychology, Freie Universität Berlin
+        twitter: https://x.com/ufangyang
+      - name: Anibal Solon
+        role: Volunteer (Lead the proceeding submission for OHBM BrainHack 2023)
+        image: anibal_solon1
+        affiliation: Department of Psychology & Department of Computer Science, The University of Texas at Austin
+        twitter: https://x.com/anibalsolon
 
   sponsors:
     title: Our sponsors
