@@ -40,8 +40,8 @@ params:
       sublinks: 
       - title: Aperture Neuro Special Issue
         url: /ANspecial
-      - title: OHBM Reproducibility Challenge
-        url: /challenge
+      # - title: OHBM Reproducibility Challenge
+      #   url: /challenge
     - title: Sponsors
       url: "/sponsors"
     - title: Past members
@@ -80,7 +80,7 @@ params:
       - name: Naomi Gaggi
         role: Treasurer
         image: naomi_lgaggi1
-        affiliation: Washington University in St. Louis
+        affiliation: New York University
         twitter: https://x.com/NaomiGaggiS
 
       # hackathon
@@ -158,6 +158,11 @@ params:
         image: kayla_hannon1
         affiliation: Washington University in St. Louis
         twitter: https://x.com/kayla_hannon1
+      - name: Sung-Ho Lee
+        role: Volunteer
+        image: 
+        affiliation: Department of Neurology and Biomedical, the University of North Carolina at Chapel Hill
+        twitter: 
       - name: Andrea Gondova
         role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
         image: gondova_andrea1
@@ -183,12 +188,12 @@ params:
         image: anibal_solon1
         affiliation: Department of Psychology & Department of Computer Science, The University of Texas at Austin
         twitter: https://x.com/anibalsolon
-
+      
   sponsors:
     title: Our sponsors
     subtitle: We are grateful for the generous support of our 2024 sponsors.
     titleopp: Sponsorship opportunities
-    tiersimage: /images/illustrations/OSSIG_sponsorship_tiers_2024.png
+    tiersimage: /images/illustrations/OSSIG_sponsorship_tiers_2025.png
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
 

@@ -37,7 +37,7 @@ Following the interview process, new officers will be announced. Rounds open eve
 
 ## Available officer positions for 2024/2025 
 
-_**Updated September 11th, 2024**_
+_**Updated November 18th, 2024**_
 
 <!-- ### Treasurer (partial mandate)
 
@@ -53,23 +53,23 @@ Work with the current Hackathon chair as a co-chair to orgnize Hackathon next ye
 - Number of positions: 1
 - Duration: 1 year -->
 
-### Secretary Elect
+<!-- ### Secretary Elect -->
 
 <!-- The General Chair Elect will be responsible for the general direction and mission of the SIG in the following term.  -->
 
-The Secretary Elect will be responsible for supporting the activities of the SIG by documenting its activities and facilitating inter-SIG communications in the following term. 
+<!-- The Secretary Elect will be responsible for supporting the activities of the SIG by documenting its activities and facilitating inter-SIG communications in the following term.  -->
 
 <!-- The Treasurer Elect will be responsible for all SIG finances and recruitment in the following
 term. -->
 
-These Elect roles take the main roles at the end of their first year. In-person attendance of the term hackathon and annual meeting is strongly suggested.
+<!-- These Elect roles take the main roles at the end of their first year. In-person attendance of the term hackathon and annual meeting is strongly suggested.
 
 - Number of positions: 1
 
 This is a 3 year positions:
 - first year is *in training*, 
 - second year you take the main role, 
-- third year you step into an advisory role. 
+- third year you step into an advisory role.  -->
 
 ### Hackathon Co-Chair Elect
 
@@ -114,7 +114,9 @@ The Local Liaison Officer is a person residing in/near or having a strong knowle
 
 ## Available volunteer positions
 
-**Nominations for volunteering will be open soon, consider joining the core planning team!**
+**Nominations for volunteering is now open, consider joining the us!**
+
+If you are interested in volunteering for any position below, please contact us [via e-mail](mailto:OHBMOpenScience@gmail.com).
 
 ---
 
