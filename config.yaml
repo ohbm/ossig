@@ -40,8 +40,8 @@ params:
       sublinks: 
       - title: Aperture Neuro Special Issue
         url: /ANspecial
-      # - title: OHBM Reproducibility Challenge
-      #   url: /challenge
+      - title: OHBM Reproducibility Challenge
+        url: /challenge
     - title: Sponsors
       url: "/sponsors"
     - title: Past members
