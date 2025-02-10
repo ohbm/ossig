@@ -8,17 +8,18 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-# Make a difference: join the OS SIG Committee!
+# Make a difference: join the OS SIG!
 
-**Nominations for the OHBM Open Science Special Interest Group (OS SIG) committee for OHBM 2025 are OPEN!!!**
+**Application for the OHBM Open Science Special Interest Group (OS SIG) volunteers for OHBM 2025 are OPEN!!!**
 
 The open-science movement is one of the best things happening in neuroscience. Hackathons, open-science room, new tools and methods, reproducibility and reliability, open access and inclusivity: the OS SIG is the place where it’s all happening!
 
-If open-science excites you and you want to help push its frontiers, please consider applying for a position in the OS SIG! 
+If open-science excites you and you want to help push its frontiers, **we have filled all the position for 2025, but please consider joining us as volunteers!**
+<!-- applying for a position in the OS SIG!  -->
 
 [Early career researchers](https://www.ohbmtrainees.com/), BIPOC, LGBTQ+, and people from outside Europe and North America especially encouraged to apply! 
 
-All OS SIG officers have reduced registration for OHBM 2025!
+<!-- All OS SIG officers have reduced registration for OHBM 2025!
 
 We have MANY opportunities to get involved with open-science and OHBM if you think nominating yourself for a position in the OS SIG is more time than you’d like to commit, please reach out to us about volunteering!
 
@@ -37,7 +38,7 @@ Following the interview process, new officers will be announced. Rounds open eve
 
 ## Available officer positions for 2024/2025 
 
-_**Updated November 18th, 2024**_
+_**Updated November 18th, 2024**_ -->
 
 <!-- ### Treasurer (partial mandate)
 
@@ -71,14 +72,14 @@ This is a 3 year positions:
 - second year you take the main role, 
 - third year you step into an advisory role.  -->
 
-### Hackathon Co-Chair Elect
+<!-- ### Hackathon Co-Chair Elect
 
 Work with the Hackathon chair to coordinate the Hackathon for next year and take the lead for OHBM 2026! Apply in pairs of two. Work with the rest of the OS SIG members to put on the best Hackathon happening anywhere.
 
 - Number of positions: 1
 - Duration: 2 year
 - first year is *in training*, 
-- second year you take the main role.
+- second year you take the main role. -->
 
 <!-- ### Open-science Room Chair Elect
 

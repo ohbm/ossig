@@ -129,6 +129,11 @@ params:
         image: muriah_wheelock1
         affiliation: Washington University in St. Louis
         twitter: #https://x.com/SteMoia
+      - name: Eva Van Heese
+        role: Secretary Elect
+        image: 
+        affiliation: Amsterdam University Medical Centre
+        twitter: #https://x.com/SteMoia
       - name: Veronica Diveica
         role: Treasurer Elect
         image: veronica_diveica1
@@ -139,8 +144,13 @@ params:
       - name: Ashley York
         role: Hackathon Co-Chair Elect
         image: #roza_gbayrak1
-        affiliation: University of Queensland
+        affiliation: The University of Queensland
         twitter: #https://x.com/redgreenblues
+      - name: Yohan Wards
+        role: Hackathon Co-Chair Elect
+        image: #roza_gbayrak1
+        affiliation: The University of Queensland
+        twitter: https://x.com/YohanWards
       - name: James Kent
         role: Open Science Room Chair Elect
         image: #ju-chi_yu1
@@ -151,6 +161,13 @@ params:
         image: sungmin_ha1
         affiliation: Washington University in St. Louis
         twitter: https://x.com/SungMinHa1992
+      
+      # Liason
+      - name: Yi-Ju Lee (Jean)
+        role: Liaison from the Council
+        image: yiju_lee1
+        affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
+        twitter: https://twitter.com/jean890203
 
       # Volunteer
       - name: Kayla Hannon
