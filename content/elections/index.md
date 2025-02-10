@@ -14,7 +14,7 @@ include_footer: true
 
 The open-science movement is one of the best things happening in neuroscience. Hackathons, open-science room, new tools and methods, reproducibility and reliability, open access and inclusivity: the OS SIG is the place where it’s all happening!
 
-If open-science excites you and you want to help push its frontiers, **we have filled all the position for 2025, but please consider joining us as volunteers!**
+If open-science excites you and you want to help push its frontiers, **we have filled all positions for 2025, but please consider joining us as volunteers!**
 <!-- applying for a position in the OS SIG!  -->
 
 [Early career researchers](https://www.ohbmtrainees.com/), BIPOC, LGBTQ+, and people from outside Europe and North America especially encouraged to apply! 
