@@ -31,11 +31,11 @@ params:
     - title: Join the OSSIG Committee
       url: "/elections"
     - title: Hackathon
-      url: "https://ohbm.github.io/hackathon"
+      url: "https://ohbm.github.io/hackathon2025"
     #- title: Call for fellows
     #  url: "/awards"
     - title: Open Science Room
-      url: "https://ohbm.github.io/osr2024"
+      url: "https://ohbm.github.io/osr2025"
     - title: Events
       sublinks: 
       - title: Aperture Neuro Special Issue
