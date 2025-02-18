@@ -1,6 +1,6 @@
 ---
 title: "Call for Submissions"
-date: 2025-02-18T17:26:21-04:00
+date: 2024-09-11T17:28:48-04:00
 draft: false
 sidebar: false # true or false to display the sidebar
 sidebarlogo: fresh-white-alt # From (static/images/logo/)
