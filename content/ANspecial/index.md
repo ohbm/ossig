@@ -1,6 +1,6 @@
 ---
 title: "Call for Submissions"
-date: 2024-09-11T17:26:21-04:00
+date: 2025-02-18T17:26:21-04:00
 draft: false
 sidebar: false # true or false to display the sidebar
 sidebarlogo: fresh-white-alt # From (static/images/logo/)
@@ -24,10 +24,10 @@ We invite submissions on a range of topics including, but not limited to:
 
 We welcome original research, reviews, case studies, methodological papers, short communications, and code submissions.
 
-Submission Deadline: **28 February 2025**
+Submission Deadline: **30 April 2025**
 
 For more information, please email us at: <ohbm.ossig.si@gmail.com>
 
-Or visit the [Aperture Neuro website](https://apertureneuro.org/pages/731-special-issue)
+Or visit the [Aperture Neuro website](https://apertureneuro.org/pages/731-special-issue#open-datasets-impact-infrastructure-and-governance)
 
 
