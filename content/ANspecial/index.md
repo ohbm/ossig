@@ -24,7 +24,7 @@ We invite submissions on a range of topics including, but not limited to:
 
 We welcome original research, reviews, case studies, methodological papers, short communications, and code submissions.
 
-Submission Deadline: **30 April 2025**
+Submission Deadline: **31 May 2025**
 
 For more information, please email us at: <ohbm.ossig.si@gmail.com>
 

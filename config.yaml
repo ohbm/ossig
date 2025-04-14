@@ -271,24 +271,20 @@ params:
     id: events
     features:
       - title: Aperture Neuro Special Issue on Open Datasets
-        text: September 1st, 2024 - February 28th, 2025
+        text: September 1st, 2024 - *May 31st, 2025*
         buttonText: Learn more
         buttonLink: https://apertureneuro.org/pages/731-special-issue
-      - title: Reproducibility Challenge
-        text: New challenge at OHBM 2025
-        buttonText: Learn more
-        buttonLink: https://ohbm.github.io/challenge/
-      # - title: OHBM BrainHack 2025
-      #   text: June 20th - 22nd @ Dreamplus Gangnam
-      #   buttonText: Register
-      #   buttonLink: https://ohbm.github.io/hackathon2024/
-      # - title: Open Science Room
-      #   buttonText: Program
-      #   buttonLink: https://ohbm.github.io/osr2024/schedule/
-      # - title: Open Science Room - Emergent Session
-      #   text: We have filled up all spots for OHBM OSR 2024.
-      #   buttonText: Schedule and more
-      #   buttonLink: https://ohbm.github.io/osr2024/emergent/
+      - title: OHBM BrainHack 2025 ft. NeuroDesk Workshop & the Neuroimaging Statistics Workshop
+        text: June 21st - 23rd @ the Precinct
+        buttonText: Register
+        buttonLink: https://humanbrainmapping.org/i4a/ams/meetings/index.cfm?controller=meetings&action=startRegistration&conferenceID=152&reginit=1&pageID=4305
+      - title: Open Science Room
+        buttonText: Program
+        buttonLink: https://ohbm.github.io/osr2025/schedule/
+      - title: Open Science Room - Emergent Session
+        text: 7 avaialble sessions for OHBM OSR 2025
+        buttonText: Check out available time slots & Sign up
+        buttonLink: https://ohbm.github.io/osr2025/emergent/
       # - title: Open Science Room - Open Mics
       #   text: We feature an Open Mic session this year with 12 available spots for 5 minutes each.
       #   buttonText: Sign-up
