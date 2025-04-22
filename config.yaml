@@ -277,9 +277,15 @@ params:
         buttonText: Program
         buttonLink: https://ohbm.github.io/osr2025/schedule/
       - title: Open Science Room - Emergent Session
-        text: 7 avaialble sessions for OHBM OSR 2025
+        text: 9 avaialble spots for OHBM OSR 2025
         buttonText: Check out available time slots & Sign up
         buttonLink: https://ohbm.github.io/osr2025/emergent/
+      - title: Volunteer for OHBM BrainHack or Open Science Room
+        buttonText: Sign up
+        buttonLink: https://forms.office.com/r/HibdDbDGjj
+      - title: The Taiwan Open Brain Science Workshop
+        buttonText: Check out the program & Register
+        buttonLink: https://sites.google.com/tmu.edu.tw/openbrainscience/home
       # - title: Open Science Room - Open Mics
       #   text: We feature an Open Mic session this year with 12 available spots for 5 minutes each.
       #   buttonText: Sign-up
