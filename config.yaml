@@ -230,6 +230,13 @@ params:
             height: 8em
             url: https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi/
 
+      - name: Hackathon Champion
+        oursponsors:
+          - name: "Neurodesk"
+            image: /images/logos/NeuroDesk.png
+            height: 8em
+            url: https://www.neurodesk.org/
+
       - name: Hackathon Advocate
         oursponsors:
           - name: "Cortical Labs"
