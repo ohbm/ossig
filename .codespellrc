@@ -1,0 +1,6 @@
+[codespell]
+# Ref: https://github.com/codespell-project/codespell#using-a-config-file
+skip = .git*,*.pdf,*.svg,*.lock,*.css,*.min.*,.codespellrc,*.map,config.yaml
+check-hidden = true
+# ignore-regex = 
+# ignore-words-list =
