@@ -242,7 +242,14 @@ params:
           - name: "Cortical Labs"
             image: /images/logos/CorticalLab.jpg
             height: 8em
-            url: https://www.win.ox.ac.uk/              
+            url: https://www.win.ox.ac.uk/  
+
+      - name: Hackathon Supporter
+        oursponsors:
+          - name: "American Statistical Association"
+            image: /images/logos/asa.jpg
+            height: 8em
+            url: https://www.amstat.org/              
  
   section2:
     title: Open science is an umbrella.
