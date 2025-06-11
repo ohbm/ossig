@@ -34,6 +34,8 @@ params:
       url: "https://ohbm.github.io/hackathon2025"
     #- title: Call for fellows
     #  url: "/awards"
+    - title: Educational Courses
+      url: "/Education"
     - title: Open Science Room
       url: "https://ohbm.github.io/osr2025"
     - title: Events

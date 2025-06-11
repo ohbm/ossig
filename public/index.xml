@@ -6,8 +6,15 @@
     <description>Recent content on OHBM Open Science SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Sep 2024 18:25:55 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OHBM 2025 Educational Course</title>
+      <link>/education/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>/education/</guid>
+      <description>Maximizing scientific efficiency through sustainability, reproducibility, and FAIRness This OHBM 2025 Educational Course is organized as a joint effort between the OHBM Open Science and Sustainability and Environmental Action Special Interest Groups (OS-SIG/SEA-SIG)&#xA;Adopting sustainable, FAIR-aligned (Findable, Accessible, Interoperable, Reusable) approaches to data sharing and processing is still limited across the field and the environmental impact of high computational demands in neuroimaging research is a growing concern.&#xA;Presenters will introduce principles and best practices in FAIR data sharing, sustainable computing, and open science, alongside practical tutorials on tools and techniques for creating transparent, reproducible workflows.</description>
+    </item>
     <item>
       <title>Past members</title>
       <link>/pastmembers/team2024/</link>
