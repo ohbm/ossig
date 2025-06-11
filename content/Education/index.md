@@ -19,15 +19,16 @@ include_footer: true
 
 - By addressing these topics as an educational course, this program aims to lower current barriers for FAIR principles, foster a culture of reproducibility and sustainability, and promote resource efficiency in the neuroimaging community.
 
-**Organizers**: Muriah Wheelock, Nikhil Bhagwat, Niousha Dehestani, Naomi Gaggi
+#### **Organizers**: 
+Muriah Wheelock, Nikhil Bhagwat, Niousha Dehestani, Naomi Gaggi
 
-**Shedule**:
+## **Shedule**
 
 ![](/images/illustrations/edu2025_schedule.png)
 
 ** Interactive Notebooks
 
-**Interactive Materials**
+## **Interactive Materials**
 
 1. [Optimizing and parallelizing algorithms in interpreted languages](https://drive.google.com/file/d/1JEbUUfvdY89NH0Z6G0n3_TL_w7bosnBp/view?usp=sharing)
 
