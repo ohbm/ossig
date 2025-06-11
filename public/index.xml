@@ -2,115 +2,115 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OHBM Open Science SIG</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on OHBM Open Science SIG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OHBM 2025 Educational Course</title>
-      <link>/education/</link>
+      <link>//localhost:1313/education/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>/education/</guid>
-      <description>Maximizing scientific efficiency through sustainability, reproducibility, and FAIRness This OHBM 2025 Educational Course is organized as a joint effort between the OHBM Open Science and Sustainability and Environmental Action Special Interest Groups (OS-SIG/SEA-SIG)&#xA;Adopting sustainable, FAIR-aligned (Findable, Accessible, Interoperable, Reusable) approaches to data sharing and processing is still limited across the field and the environmental impact of high computational demands in neuroimaging research is a growing concern.&#xA;Presenters will introduce principles and best practices in FAIR data sharing, sustainable computing, and open science, alongside practical tutorials on tools and techniques for creating transparent, reproducible workflows.</description>
+      <guid>//localhost:1313/education/</guid>
+      <description>Maximizing scientific efficiency through sustainability, reproducibility, and FAIRness This OHBM 2025 Educational Course is organized as a joint effort between the OHBM Open Science and Sustainability and Environmental Action Special Interest Groups (OS-SIG/SEA-SIG).&#xA;Adopting sustainable, FAIR-aligned (Findable, Accessible, Interoperable, Reusable) approaches to data sharing and processing is still limited across the field and the environmental impact of high computational demands in neuroimaging research is a growing concern.&#xA;Presenters will introduce principles and best practices in FAIR data sharing, sustainable computing, and open science, alongside practical tutorials on tools and techniques for creating transparent, reproducible workflows.</description>
     </item>
     <item>
       <title>Past members</title>
-      <link>/pastmembers/team2024/</link>
+      <link>//localhost:1313/pastmembers/team2024/</link>
       <pubDate>Wed, 11 Sep 2024 18:25:55 -0400</pubDate>
-      <guid>/pastmembers/team2024/</guid>
+      <guid>//localhost:1313/pastmembers/team2024/</guid>
       <description></description>
     </item>
     <item>
       <title>Call for Submissions</title>
-      <link>/anspecial/</link>
+      <link>//localhost:1313/anspecial/</link>
       <pubDate>Wed, 11 Sep 2024 17:28:48 -0400</pubDate>
-      <guid>/anspecial/</guid>
+      <guid>//localhost:1313/anspecial/</guid>
       <description>Aperture Neuro Special Issue on &amp;ldquo;Open Datasets: Impact, Infrastructure, and Governance&amp;rdquo; Are you conducting neuroscience research using open datasets? Do you have insights into the opportunities and challenges that open data presents? If so, this is a unique opportunity to publish your work in a special issue.&#xA;Aperture Neuro, in collaboration with the OHBM Open Science Special Interest Group, is excited to announce a special issue focused on the critical role of open datasets in neuroscience.</description>
     </item>
     <item>
       <title>Challenge</title>
-      <link>/challenge/</link>
+      <link>//localhost:1313/challenge/</link>
       <pubDate>Wed, 11 Sep 2024 17:28:48 -0400</pubDate>
-      <guid>/challenge/</guid>
+      <guid>//localhost:1313/challenge/</guid>
       <description>The OHBM Reproducibility Challenge The OHBM-OSSIG Reproducibility Challenge is a networking experience facilitated by the OSSIG itself, aiming at improving both the reproduction and the reproducibility of scientific results. Participants join forces in teams of two parties, a “source party” and a “reproducing party”. The source party proffers a submitted OHBM abstract or related publication (“source work”) for replication, as well as access to procedures, codes, and, when possible, at least part of the data.</description>
     </item>
     <item>
       <title>OHBM OSSIG 2025 Committee</title>
-      <link>/elections/</link>
+      <link>//localhost:1313/elections/</link>
       <pubDate>Sat, 22 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/elections/</guid>
+      <guid>//localhost:1313/elections/</guid>
       <description>Make a difference: join the OS SIG! Application for the OHBM Open Science Special Interest Group (OS SIG) volunteers for OHBM 2025 are OPEN!!!&#xA;The open-science movement is one of the best things happening in neuroscience. Hackathons, open-science room, new tools and methods, reproducibility and reliability, open access and inclusivity: the OS SIG is the place where it’s all happening!&#xA;If open-science excites you and you want to help push its frontiers, we have filled all positions for 2025, but please consider joining us as volunteers!</description>
     </item>
     <item>
       <title>Past members</title>
-      <link>/pastmembers/team2023/</link>
+      <link>//localhost:1313/pastmembers/team2023/</link>
       <pubDate>Thu, 26 Jan 2023 21:55:26 +0100</pubDate>
-      <guid>/pastmembers/team2023/</guid>
+      <guid>//localhost:1313/pastmembers/team2023/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>/pastmembers/team2022/</link>
+      <link>//localhost:1313/pastmembers/team2022/</link>
       <pubDate>Wed, 26 Jan 2022 21:55:26 +0100</pubDate>
-      <guid>/pastmembers/team2022/</guid>
+      <guid>//localhost:1313/pastmembers/team2022/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>/pastmembers/team2021/</link>
+      <link>//localhost:1313/pastmembers/team2021/</link>
       <pubDate>Tue, 26 Jan 2021 21:55:26 +0100</pubDate>
-      <guid>/pastmembers/team2021/</guid>
+      <guid>//localhost:1313/pastmembers/team2021/</guid>
       <description></description>
     </item>
     <item>
       <title>Our sponsors</title>
-      <link>/sponsors/</link>
+      <link>//localhost:1313/sponsors/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>/sponsors/</guid>
+      <guid>//localhost:1313/sponsors/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>/pastmembers/team2020/</link>
+      <link>//localhost:1313/pastmembers/team2020/</link>
       <pubDate>Sun, 26 Jan 2020 21:55:26 +0100</pubDate>
-      <guid>/pastmembers/team2020/</guid>
+      <guid>//localhost:1313/pastmembers/team2020/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>/pastmembers/team2019/</link>
+      <link>//localhost:1313/pastmembers/team2019/</link>
       <pubDate>Sat, 26 Jan 2019 21:55:26 +0100</pubDate>
-      <guid>/pastmembers/team2019/</guid>
+      <guid>//localhost:1313/pastmembers/team2019/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>/pastmembers/team2018/</link>
+      <link>//localhost:1313/pastmembers/team2018/</link>
       <pubDate>Fri, 26 Jan 2018 21:55:26 +0100</pubDate>
-      <guid>/pastmembers/team2018/</guid>
+      <guid>//localhost:1313/pastmembers/team2018/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>/pastmembers/team2017/</link>
+      <link>//localhost:1313/pastmembers/team2017/</link>
       <pubDate>Thu, 26 Jan 2017 21:55:26 +0100</pubDate>
-      <guid>/pastmembers/team2017/</guid>
+      <guid>//localhost:1313/pastmembers/team2017/</guid>
       <description></description>
     </item>
     <item>
       <title>Past members</title>
-      <link>/pastmembers/team2016/</link>
+      <link>//localhost:1313/pastmembers/team2016/</link>
       <pubDate>Tue, 26 Jan 2016 21:55:26 +0100</pubDate>
-      <guid>/pastmembers/team2016/</guid>
+      <guid>//localhost:1313/pastmembers/team2016/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>/posts/my-first-post/</link>
+      <link>//localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/my-first-post/</guid>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
       <description>Hello world !</description>
     </item>
   </channel>

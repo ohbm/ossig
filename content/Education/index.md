@@ -7,11 +7,11 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-<img src="/themes/hugo-fresh/static/images/logos/edu2025.png">
+![logo edu](/logos/edu2025.png)
 
 # Maximizing scientific efficiency through sustainability, reproducibility, and FAIRness
 
-- This OHBM 2025 Educational Course is organized as a joint effort between the OHBM Open Science and Sustainability and Environmental Action Special Interest Groups (OS-SIG/SEA-SIG)
+- This OHBM 2025 Educational Course is organized as a joint effort between the OHBM Open Science and Sustainability and Environmental Action Special Interest Groups (OS-SIG/SEA-SIG).
 
 - Adopting sustainable, FAIR-aligned (Findable, Accessible, Interoperable, Reusable) approaches to data sharing and processing is still limited across the field and the environmental impact of high computational demands in neuroimaging research is a growing concern.
 
@@ -23,11 +23,11 @@ include_footer: true
 
 **Shedule**:
 
-<img src="/themes/hugo-fresh/static/images/illustrations/edu2025_schedule.png">
+![schedule](/illustrations/edu2025_schedule.png)
 
 ** Interactive Notebooks
 
-**Interactive Materials
+**Interactive Materials**
 
 1. [Optimizing and parallelizing algorithms in interpreted languages](https://drive.google.com/file/d/1JEbUUfvdY89NH0Z6G0n3_TL_w7bosnBp/view?usp=sharing)
 
