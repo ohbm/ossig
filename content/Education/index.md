@@ -7,7 +7,7 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-![logo edu](/logos/edu2025.png)
+![](/images/illustrations/edu2025_logo.png)
 
 # Maximizing scientific efficiency through sustainability, reproducibility, and FAIRness
 
@@ -23,7 +23,7 @@ include_footer: true
 
 **Shedule**:
 
-![schedule](/illustrations/edu2025_schedule.png)
+![](/images/illustrations/edu2025_schedule.png)
 
 ** Interactive Notebooks
 
