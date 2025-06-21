@@ -35,7 +35,7 @@ Please see below for brief description of each open officer positions. For more 
 
 <!-- We have MANY opportunities to get involved with open-science and OHBM. If you think nominating yourself for a position in the OS SIG is more time than you’d like to commit, please reach out to us about volunteering! We are looking for a group of interested volunteers to help coordinate the international effort of creating Hackathons and the Open-science Room!  -->
 
-We have many opportunities to get involved with open science and OHBM. If you do not have the time commitment for the officer positions, please see [below for volunteer positions avaiable](#available-volunteer-positions).
+We have many opportunities to get involved with open science and OHBM. If you do not have the time commitment for the officer positions, please see [below for volunteer positions available](#available-volunteer-positions).
 
 ## Renewal timeline and procedures: what to expect after self-nomination
 
@@ -43,7 +43,7 @@ The renewal process is composed of four rounds, starting June 28th, followed by 
 
 Following the interview process, new officers will be announced. Rounds open every four weeks. At the end of the last round, the OS SIG committee will organise continuous recruitment for the missing officer positions and general volunteers if necessary.
 
-<!-- > As of Auguest 29th, 2024, we have opened the 3rd round of self-nomination to fill the available positions listed below. -->
+<!-- > As of August 29th, 2024, we have opened the 3rd round of self-nomination to fill the available positions listed below. -->
 
 ## Available officer positions for 2025/2026
 
@@ -51,7 +51,7 @@ _**Updated June 18th, 2025**_
 
 ### General Chair Elect
 
-Cooridnate with and support OS SIG activities and the rest of the officers, organize and compose statement of gials and activites for the upcoming term.
+Coordinate with and support OS SIG activities and the rest of the officers, organize and compose statement of gials and activities for the upcoming term.
 
 <!-- The General Chair Elect will be responsible for the general direction and mission of the SIG in the following term.  -->
 <!-- The General Chair Elect will be responsible for the general direction and mission of the SIG in the following term. -->
@@ -64,7 +64,7 @@ Cooridnate with and support OS SIG activities and the rest of the officers, orga
 
 ### Secretary Elect
 
-Support the activites of the SIG by documenting its activites and facilitating inter-SIG communications in the following term, by facilitating communications between officers and maintain external communications channels.
+Support the activities of the SIG by documenting its activities and facilitating inter-SIG communications in the following term, by facilitating communications between officers and maintain external communications channels.
 
 <!-- The secretary elect will be responsible for supporting the activities of the SIG by documenting its activities and facilitating inter-SIG communications in the following term. -->
 

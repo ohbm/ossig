@@ -22,7 +22,7 @@ include_footer: true
 #### **Organizers**: 
 Muriah Wheelock, Nikhil Bhagwat, Niousha Dehestani, Naomi Gaggi
 
-## **Shedule**
+## **Schedule**
 
 ![](/images/illustrations/edu2025_schedule.png)
 
