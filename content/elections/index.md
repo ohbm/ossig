@@ -34,7 +34,7 @@ The renewal process is composed of four rounds, starting June 27th, followed by 
 
 Following the interview process, new officers will be announced. Rounds open every four weeks. At the end of the last round, the OSSIG committee will organise continuous recruitment for the missing officer positions and general volunteers if necessary.
 
-> As of Auguest 29th, 2024, we have opened the 3rd round of self-nomination to fill the available positions listed below.
+> As of August 29th, 2024, we have opened the 3rd round of self-nomination to fill the available positions listed below.
 
 ## Available officer positions for 2024/2025 
 
