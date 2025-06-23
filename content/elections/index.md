@@ -39,9 +39,19 @@ We have many opportunities to get involved with open science and OHBM. If you do
 
 ## Renewal timeline and procedures: what to expect after self-nomination
 
-The renewal process is composed of four rounds, starting June 28th, followed by continuous recruitment. Each round lasts for a maximum of 5 weeks, beginning with the self-nomination process, open for 2 weeks, and continuing with 2 weeks for the interview process conducted online by past and present OHBM Open Science SIG members, extendable for a third week if needed.
+The renewal process is composed of four rounds, starting June 22nd, followed by continuous recruitment. Each round lasts for a maximum of 5 weeks, beginning with the self-nomination process, open for 2 weeks, and continuing with 2 weeks for the interview process conducted online by past and present OHBM Open Science SIG members, extendable for a third week if needed.
 
 Following the interview process, new officers will be announced. Rounds open every four weeks. At the end of the last round, the OS SIG committee will organise continuous recruitment for the missing officer positions and general volunteers if necessary.
+
+### Detailed Renewal Timeline
+
+| Round | Open Date | Interview Dates | Notes |
+| :---: | :-------- | :-------------- | :---- |
+| Round 1 | June 22nd | July 6th to 20th | |
+| Round 2 | July 20th | August 3rd to 17th | |
+| Round 3 | August 17th | September 1st to 14th | Embargo does not apply starting this round. |
+| Round 4 | September 14th |  September 28th to October 12th | Embargo does not apply starting this round. |
+| Coutinuous recruitment | October 12th | | Coutinuous recruitment until all positions are filled. |
 
 <!-- > As of August 29th, 2024, we have opened the 3rd round of self-nomination to fill the available positions listed below. -->
 
