@@ -14,7 +14,11 @@ include_footer: true
 <!-- **Application for the OHBM Open Science Special Interest Group (OS SIG) volunteers for OHBM 2026 are OPEN!!!** -->
 **Nominations for the OHBM Open Science Special Interest Group (OS SIG) committee members for OHBM 2026 are OPEN!!!**
 
+The Open Science SIG is part of the Organization for Human Brain Mapping (OHBM). Its mission is to promote inclusivity, openness, and transparency in neuroimaging and neuroscience. The group is best known for organizing the OHBM Hackathon and the Open Science Room.
+
 The open-science movement is one of the best things happening in neuroscience. Hackathons, open-science room, new tools and methods, reproducibility and reliability, open access and inclusivity: the OS SIG is the place where it’s all happening!
+
+Joining the Open Science SIG is a great opportunity to meet new people, learn from leaders in the field, and most importantly make a meaningful impact on open-science practices within the OHBM community.
 
 If open-science excites you and you want to help push its frontiers, please consider applying for a position in the OS SIG! 
 <!-- If open-science excites you and you want to help push its frontiers, **we have filled all positions for 2026, but please consider joining us as volunteers!** -->
@@ -29,13 +33,15 @@ All OS SIG officers have reduced registration for OHBM 2026!
 
 <!-- **Please join us by submitting you self-nomination through [this form](https://forms.office.com/r/hf7N6RrYyE)** -->
 
-Please see below for brief description of each open officer positions. For more information and descriptions of positions in details, please find them in [the OHBM Open Science SIG 2025/2026 Renewal Bylaws](https://drive.google.com/file/d/1fw2qZJcM8g_QwtecmWxoAz2gyjpGLDjF/view).
+Please see below for a brief description of each open officer position. For more information and descriptions of positions in detail, please find them in [the OHBM Open Science SIG 2025/2026 Renewal Bylaws](https://drive.google.com/file/d/1fw2qZJcM8g_QwtecmWxoAz2gyjpGLDjF/view).
 
 <!-- For more information and descriptions of positions in details, please find them in [the OHBM Open Science SIG 2024/2025 Renewal Bylaws >>here<<](https://drive.google.com/file/d/17_JMObvZDamn83Uf5Hr206pVSqw0argT/view?usp=sharing). -->
 
 <!-- We have MANY opportunities to get involved with open-science and OHBM. If you think nominating yourself for a position in the OS SIG is more time than you’d like to commit, please reach out to us about volunteering! We are looking for a group of interested volunteers to help coordinate the international effort of creating Hackathons and the Open-science Room!  -->
 
 We have many opportunities to get involved with open science and OHBM. If you do not have the time commitment for the officer positions, please see [below for volunteer positions available](#available-volunteer-positions).
+
+Important links: Learn more about the [officer roles and responsibilities](https://drive.google.com/file/d/1fw2qZJcM8g_QwtecmWxoAz2gyjpGLDjF/view?usp=drive_link), check out the [OHBM Hackathon 2025](https://ohbm.github.io/hackathon2025/) and the [Open Science Room 2025](https://ohbm.github.io/osr2025/), and meet the [current and past OS SIG officers](https://ossig.netlify.app/#OSSIG_team).
 
 ## Renewal timeline and procedures: what to expect after self-nomination
 
@@ -51,7 +57,7 @@ Following the interview process, new officers will be announced. Rounds open eve
 | Round 2 | July 20th | August 3rd to 17th | |
 | Round 3 | August 17th | September 1st to 14th | Embargo does not apply starting this round. |
 | Round 4 | September 14th |  September 28th to October 12th | Embargo does not apply starting this round. |
-| Coutinuous recruitment | October 12th | | Coutinuous recruitment until all positions are filled. |
+| Continuous recruitment | October 12th | | Continuous recruitment until all positions are filled. |
 
 <!-- > As of August 29th, 2024, we have opened the 3rd round of self-nomination to fill the available positions listed below. -->
 
