@@ -47,6 +47,8 @@ Following the interview process, new officers will be announced. Rounds open eve
 
 ## Available officer positions for 2025/2026
 
+<img src="2025_2026_election_overview.png" width="800"/>
+
 _**Updated June 18th, 2025**_
 
 ### General Chair Elect
