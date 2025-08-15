@@ -65,7 +65,7 @@ Following the interview process, new officers will be announced. Rounds open eve
 
 _**Updated July 14th, 2025**_
 
-<img src="2025_2026_election_overview.png" width="800"/>
+<img src="/images/2025_2026_election_overview.png" width="800"/>
 
 ### Officer Positions Overview
 
