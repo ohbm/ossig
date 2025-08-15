@@ -63,12 +63,9 @@ Following the interview process, new officers will be announced. Rounds open eve
 
 ## Available officer positions for 2025/2026
 
-<<<<<<< HEAD
-<img src="2025_2026_election_overview.png" width="800"/>
-
-_**Updated June 18th, 2025**_
-=======
 _**Updated July 14th, 2025**_
+
+<img src="2025_2026_election_overview.png" width="800"/>
 
 ### Officer Positions Overview
 
@@ -77,7 +74,6 @@ Serving as an officer in the OS SIG means becoming an active member of the SIG t
 ### OHBM Attendance Expectations
 
 All officers are encouraged — and in certain roles required — to attend the Brainhack event preceding the OHBM annual meeting and/or the OHBM annual meeting in person for the full specified term of their role. Subject to budget availability, we aim to waive or reduce registration fees for all OS SIG officers attending Brainhack and the OHBM annual meeting.
->>>>>>> 2186816c172a397bef50e88dc069a260e7ab1b8e
 
 ### General Chair Elect
 
