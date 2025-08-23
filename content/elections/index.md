@@ -67,10 +67,6 @@ Following the interview process, new officers will be announced. Rounds open eve
 
 _**Updated August 23rd, 2025**_
 
-![](/images/2025_2026_election_overview.png)
-
-![](/images/elections/2-OSSIG_Officer_Roles.png)
-
 ### Officer Positions Overview
 
 Serving as an officer in the OS SIG means becoming an active member of the SIG team. Officers are expected to demonstrate commitment by attending monthly general meetings, contributing to the SIG’s initiatives, and collaborating with fellow officers throughout their term. Below, you will find detailed descriptions of each officer position, including the number of available roles and the duration of each term.
@@ -78,6 +74,11 @@ Serving as an officer in the OS SIG means becoming an active member of the SIG t
 ### OHBM Attendance Expectations
 
 All officers are encouraged — and in certain roles required — to attend the Brainhack event preceding the OHBM annual meeting and/or the OHBM annual meeting in person for the full specified term of their role. Subject to budget availability, we aim to waive or reduce registration fees for all OS SIG officers attending Brainhack and the OHBM annual meeting.
+
+![](/images/2025_2026_election_overview.png)
+
+![](/images/elections/2-OSSIG_Officer_Roles.png)
+
 
 <!-- 
 ### General Chair Elect
