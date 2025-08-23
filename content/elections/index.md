@@ -41,7 +41,6 @@ Please see below for a brief description of each open officer position. For more
 
 We have many opportunities to get involved with open science and OHBM. If you do not have the time commitment for the officer positions, please see [below for volunteer positions available](#available-volunteer-positions).
 
-![](/images/elections/1-OSSIG_Officer_vs_Volunteer.png)
 
 Important links: Learn more about the [officer roles and responsibilities](https://drive.google.com/file/d/1fw2qZJcM8g_QwtecmWxoAz2gyjpGLDjF/view?usp=drive_link), check out the [OHBM Hackathon 2025](https://ohbm.github.io/hackathon2025/) and the [Open Science Room 2025](https://ohbm.github.io/osr2025/), and meet the [current and past OS SIG officers](https://ossig.netlify.app/#OSSIG_team).
 
@@ -63,6 +62,13 @@ Following the interview process, new officers will be announced. Rounds open eve
 
 <!-- > As of August 29th, 2024, we have opened the 3rd round of self-nomination to fill the available positions listed below. -->
 
+![](/images/elections/1-OSSIG_Officer_vs_Volunteer.png)
+
+<div style="display:flex; justify-content: coneter; gap: 1rem;">
+    <img src="/images/elections/2-OSSIG_Officer_Roles.png" alt="Officer Roles" style="width:45%;">
+    <img src="/images/elections/3-OSSIG_Volunteer_Roles.png" alt="Volunteer Roles" style="width:45%;">
+</div>
+
 ## Available officer positions for 2025/2026
 
 _**Updated August 23rd, 2025**_
@@ -76,9 +82,6 @@ Serving as an officer in the OS SIG means becoming an active member of the SIG t
 All officers are encouraged — and in certain roles required — to attend the Brainhack event preceding the OHBM annual meeting and/or the OHBM annual meeting in person for the full specified term of their role. Subject to budget availability, we aim to waive or reduce registration fees for all OS SIG officers attending Brainhack and the OHBM annual meeting.
 
 ![](/images/2025_2026_election_overview.png)
-
-![](/images/elections/2-OSSIG_Officer_Roles.png)
-
 
 <!-- 
 ### General Chair Elect
@@ -169,8 +172,6 @@ The Local Liaison Officer is a person residing in or near, or having strong know
 ### Volunteer Roles Overview
 
 Volunteer roles within the OS SIG offer flexible ways to contribute according to your availability and interests. Volunteers can participate remotely, in person during the Hackathon and OHBM meeting, or through a combination of both. When you sign up as a volunteer, we will discuss together how you would like to contribute and what tasks fit your schedule. Please note that attending OHBM in person is not a requirement for volunteers, and registration fees are not covered by the OS SIG. Below are some examples of volunteer roles and tasks to give you an idea of how you can contribute to the OS SIG.
-
-![](/images/elections/3-OSSIG_Volunteer_Roles.png)
 
 <!-- 
 #### General Volunteering
