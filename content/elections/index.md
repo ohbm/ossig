@@ -64,7 +64,7 @@ Following the interview process, new officers will be announced. Rounds open eve
 
 ![](/images/elections/1-OSSIG_Officer_vs_Volunteer.png)
 
-<div style="display:flex; justify-content: coneter; gap: 1rem;">
+<div style="display: flex; justify-content: center; gap: 1rem;">
     <img src="/images/elections/2-OSSIG_Officer_Roles.png" alt="Officer Roles" style="width:45%;">
     <img src="/images/elections/3-OSSIG_Volunteer_Roles.png" alt="Volunteer Roles" style="width:45%;">
 </div>
