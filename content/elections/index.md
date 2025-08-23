@@ -41,7 +41,7 @@ Please see below for a brief description of each open officer position. For more
 
 We have many opportunities to get involved with open science and OHBM. If you do not have the time commitment for the officer positions, please see [below for volunteer positions available](#available-volunteer-positions).
 
-![](images/elections/1-OSSIG_Officer_vs_Volunteer.png)
+![](/images/elections/1-OSSIG_Officer_vs_Volunteer.png)
 
 Important links: Learn more about the [officer roles and responsibilities](https://drive.google.com/file/d/1fw2qZJcM8g_QwtecmWxoAz2gyjpGLDjF/view?usp=drive_link), check out the [OHBM Hackathon 2025](https://ohbm.github.io/hackathon2025/) and the [Open Science Room 2025](https://ohbm.github.io/osr2025/), and meet the [current and past OS SIG officers](https://ossig.netlify.app/#OSSIG_team).
 
@@ -78,7 +78,7 @@ Serving as an officer in the OS SIG means becoming an active member of the SIG t
 ### OHBM Attendance Expectations
 
 All officers are encouraged — and in certain roles required — to attend the Brainhack event preceding the OHBM annual meeting and/or the OHBM annual meeting in person for the full specified term of their role. Subject to budget availability, we aim to waive or reduce registration fees for all OS SIG officers attending Brainhack and the OHBM annual meeting.
-
+<!-- 
 ### General Chair Elect
 
 Lead the SIG and support fellow officers in their roles, represent the SIG in interactions with OHBM representatives, monitor progress on key initiatives and events, and oversee the implementation of the SIG’s goals throughout the term.
@@ -161,7 +161,7 @@ Manage and update the SIG’s social media accounts to share news, events, and a
 The Local Liaison Officer is a person residing in or near, or having strong knowledge of, the location of the upcoming annual meeting (i.e., in this case, Bordeaux, France). This role involves coordinating local arrangements such as scouting potential venues, liaising with local contacts, and assisting with activities like sampling catering options to ensure a successful event.
 
 - Number of positions: 1
-- Duration: 1 year
+- Duration: 1 year -->
 
 ## Available volunteer positions for 2025/2026
 
@@ -184,7 +184,7 @@ Dates: Throughout the year
 * Nominations will be open soon, consider joining the core planning team!  -->
 
 General volunteering offers a flexible way to support the OS SIG throughout the year by assisting the core planning team with various miscellaneous tasks. Volunteers can contribute either in person or remotely.
-
+<!-- 
 #### BrainHack Volunteering
 
 During OHBM 2026, BrainHack volunteers support the core planning team with event logistics and operations, assist with preparing materials, run sessions, and help manage social media engagement related to the BrainHack. This role is in person at the OHBM BrainHack 2026 (June 11-13, 2026 in Bordeaux, France).
@@ -207,7 +207,7 @@ Volunteers can contribute to improving and maintaining the design and functional
 
 #### Event Photography
 
-Volunteers with photography skills are invited to capture moments at OS SIG events, including BrainHack and the Open Science Room sessions. Photos will be used for social media, websites, and event documentation. This role is in person during the OHBM BrainHack and/or annual meeting 2026 (June 11-13/14-18, 2026 in Bordeaux, France). 
+Volunteers with photography skills are invited to capture moments at OS SIG events, including BrainHack and the Open Science Room sessions. Photos will be used for social media, websites, and event documentation. This role is in person during the OHBM BrainHack and/or annual meeting 2026 (June 11-13/14-18, 2026 in Bordeaux, France).  -->
 
 <!-- ***[Get involved now!](/volunteer.md)*** -->
 
