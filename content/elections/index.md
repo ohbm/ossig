@@ -33,13 +33,15 @@ All OS SIG officers have reduced registration for OHBM 2026!
 
 <!-- **Please join us by submitting you self-nomination through [this form](https://forms.office.com/r/hf7N6RrYyE)** -->
 
-Please see below for a brief description of each open officer position. For more information and descriptions of positions in detail, please find them in [the OHBM Open Science SIG 2025/2026 Renewal Bylaws](https://drive.google.com/file/d/1fw2qZJcM8g_QwtecmWxoAz2gyjpGLDjF/view).
+Please see below for a brief description of each open officer position. For more information and descriptions of positions in detail, please find them in [the OHBM Open Science SIG 2025/2026 Renewal Bylaws](https://drive.google.com/file/d/14nLwss4mqos_HuVEwJA_k5JVIK-b_FSWDwX6GbjUZkE/view).
 
-<!-- For more information and descriptions of positions in details, please find them in [the OHBM Open Science SIG 2024/2025 Renewal Bylaws >>here<<](https://drive.google.com/file/d/17_JMObvZDamn83Uf5Hr206pVSqw0argT/view?usp=sharing). -->
+<!--Updated with view link version of https://docs.google.com/document/d/14nLwss4mqos_HuVEwJA_k5JVIK-b_FSWDwX6GbjUZkE/edit?usp=sharing -->
 
 <!-- We have MANY opportunities to get involved with open-science and OHBM. If you think nominating yourself for a position in the OS SIG is more time than you’d like to commit, please reach out to us about volunteering! We are looking for a group of interested volunteers to help coordinate the international effort of creating Hackathons and the Open-science Room!  -->
 
 We have many opportunities to get involved with open science and OHBM. If you do not have the time commitment for the officer positions, please see [below for volunteer positions available](#available-volunteer-positions).
+
+![](images/elections/1-OSSIG_Officer_vs_Volunteer.png)
 
 Important links: Learn more about the [officer roles and responsibilities](https://drive.google.com/file/d/1fw2qZJcM8g_QwtecmWxoAz2gyjpGLDjF/view?usp=drive_link), check out the [OHBM Hackathon 2025](https://ohbm.github.io/hackathon2025/) and the [Open Science Room 2025](https://ohbm.github.io/osr2025/), and meet the [current and past OS SIG officers](https://ossig.netlify.app/#OSSIG_team).
 
@@ -63,9 +65,11 @@ Following the interview process, new officers will be announced. Rounds open eve
 
 ## Available officer positions for 2025/2026
 
-_**Updated July 14th, 2025**_
+_**Updated August 23rd, 2025**_
 
 ![](/images/2025_2026_election_overview.png)
+
+![](/images/elections/2-OSSIG_Officer_Roles.png)
 
 ### Officer Positions Overview
 
@@ -168,6 +172,8 @@ The Local Liaison Officer is a person residing in or near, or having strong know
 Volunteer roles within the OS SIG offer flexible ways to contribute according to your availability and interests. Volunteers can participate remotely, in person during the Hackathon and OHBM meeting, or through a combination of both. When you sign up as a volunteer, we will discuss together how you would like to contribute and what tasks fit your schedule. Please note that attending OHBM in person is not a requirement for volunteers, and registration fees are not covered by the OS SIG. Below are some examples of volunteer roles and tasks to give you an idea of how you can contribute to the OS SIG.
 <!-- 
 --- -->
+
+![](/images/elections/3-OSSIG_Volunteer_Roles.png)
 
 #### General Volunteering
 <!-- 
