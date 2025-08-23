@@ -78,49 +78,47 @@ Serving as an officer in the OS SIG means becoming an active member of the SIG t
 ### OHBM Attendance Expectations
 
 All officers are encouraged — and in certain roles required — to attend the Brainhack event preceding the OHBM annual meeting and/or the OHBM annual meeting in person for the full specified term of their role. Subject to budget availability, we aim to waive or reduce registration fees for all OS SIG officers attending Brainhack and the OHBM annual meeting.
+
 <!-- 
 ### General Chair Elect
 
 Lead the SIG and support fellow officers in their roles, represent the SIG in interactions with OHBM representatives, monitor progress on key initiatives and events, and oversee the implementation of the SIG’s goals throughout the term.
 
-<!-- The General Chair Elect will be responsible for the general direction and mission of the SIG in the following term.  -->
-<!-- The General Chair Elect will be responsible for the general direction and mission of the SIG in the following term. -->
+The General Chair Elect will be responsible for the general direction and mission of the SIG in the following term.
 
-<!-- - Number of position: 1
+- Number of position: 1
 - Duration: 3 years
     - first year is *in training*, 
     - second year you take the main role, 
-    - third year you step into an advisory role. -->
+    - third year you step into an advisory role.
 
 ### Secretary Elect
 
 Support OS SIG activities by scheduling and documenting meetings, its activities, facilitating communication between officers, and supporting inter-SIG communications.
 
-<!-- The secretary elect will be responsible for supporting the activities of the SIG by documenting its activities and facilitating inter-SIG communications in the following term. -->
+The Secretary Elect will be responsible for supporting the activities of the SIG by documenting its activities and facilitating inter-SIG communications in the following term. 
 
-<!-- The Secretary Elect will be responsible for supporting the activities of the SIG by documenting its activities and facilitating inter-SIG communications in the following term.  -->
+These Elect roles take the main roles at the end of their first year. In-person attendance of the term hackathon and annual meeting is strongly suggested.
 
-<!-- These Elect roles take the main roles at the end of their first year. In-person attendance of the term hackathon and annual meeting is strongly suggested. -->
-
-<!-- - Number of positions: 1
+- Number of positions: 1
 - Duration: 3 years
     - first year is *in training*, 
     - second year you take the main role, 
-    - third year you step into an advisory role. -->
+    - third year you step into an advisory role.
 
 ### Treasurer Elect
 
-<!-- The Treasurer Elect will be responsible for all SIG finances and recruitment in the following term.
+The Treasurer Elect will be responsible for all SIG finances and recruitment in the following term.
 
-Responsible for maintaining and updating an archive of SIG documentation both to the attention of SIG officers and of the OHBM community. Assists with coordination of the Open Science Room in collaboration with the Open Science Room Chair. Communicates regularly with other SIG officers -->
+Responsible for maintaining and updating an archive of SIG documentation both to the attention of SIG officers and of the OHBM community. Assists with coordination of the Open Science Room in collaboration with the Open Science Room Chair. Communicates regularly with other SIG officers
 
 Manage all financial aspects of the SIG, including budgeting, tracking expenses, identifying and pursuing sponsorship opportunities and ensuring continuity of funding to support and sustain the SIG’s activities.
 
-<!-- - Number of position: 1
+- Number of position: 1
 - Duration: 3 years
     - first year is *in training*, 
     - second year you take the main role, 
-    - third year you step into an advisory role. -->
+    - third year you step into an advisory role.
 
 ### Hackathon Co-Chair Elect
 
@@ -170,21 +168,19 @@ The Local Liaison Officer is a person residing in or near, or having strong know
 ### Volunteer Roles Overview
 
 Volunteer roles within the OS SIG offer flexible ways to contribute according to your availability and interests. Volunteers can participate remotely, in person during the Hackathon and OHBM meeting, or through a combination of both. When you sign up as a volunteer, we will discuss together how you would like to contribute and what tasks fit your schedule. Please note that attending OHBM in person is not a requirement for volunteers, and registration fees are not covered by the OS SIG. Below are some examples of volunteer roles and tasks to give you an idea of how you can contribute to the OS SIG.
-<!-- 
---- -->
 
 ![](/images/elections/3-OSSIG_Volunteer_Roles.png)
 
-#### General Volunteering
 <!-- 
+#### General Volunteering
+
 Dates: Throughout the year  
 
 <ins>Tasks</ins>
 * Helping the core planning team with miscellaneous tasks 
-* Nominations will be open soon, consider joining the core planning team!  -->
+* Nominations will be open soon, consider joining the core planning team!
 
 General volunteering offers a flexible way to support the OS SIG throughout the year by assisting the core planning team with various miscellaneous tasks. Volunteers can contribute either in person or remotely.
-<!-- 
 #### BrainHack Volunteering
 
 During OHBM 2026, BrainHack volunteers support the core planning team with event logistics and operations, assist with preparing materials, run sessions, and help manage social media engagement related to the BrainHack. This role is in person at the OHBM BrainHack 2026 (June 11-13, 2026 in Bordeaux, France).
