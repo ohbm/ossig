@@ -113,16 +113,16 @@ params:
         affiliation: Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health
         twitter: https://x.com/KarvelisPovilas
 
-      # Community Liason Officer
+      # Community Liaison Officer
       - name: Terra Lee
-        role: Community Liason Officer
+        role: Community Liaison Officer
         image: terra_lee1
         affiliation: Department of Neuroscience, Vanderbilt University
         twitter: https://x.com/terradactylee
 
-      # Local Liason Officer
+      # Local Liaison Officer
       - name: Sarah Khalife
-        role: Local Liason Officer
+        role: Local Liaison Officer
         image: sarah_khalife1
         affiliation: University of Queensland
         twitter: https://x.com/SarahKhalife3
@@ -166,7 +166,7 @@ params:
         affiliation: Washington University in St. Louis
         twitter: https://x.com/SungMinHa1992
       
-      # Liason
+      # Liaison
       - name: Yi-Ju Lee (Jean)
         role: Liaison from the Council
         image: yiju_lee1
