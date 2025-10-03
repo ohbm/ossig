@@ -26,7 +26,7 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-    - title: Our Team 2025
+    - title: Our Team 2026
       url: "/#OSSIG_team"
     - title: Join the OSSIG Committee
       url: "/elections"
@@ -64,152 +64,173 @@ params:
     buttonLink: https://github.com/ohbm/hackathon2020/blob/master/README.md
 
   team:
-    title: Our team 2025
+    title: Our team 2026
     subtitle: The people behind the OSSIG
     id: OSSIG_team
-    year: 2025
+    year: 2026
     # images (from /images/illustrations/faces/$year/___.jpg)
     members:
       # chair, secretary, treasurer
-      - name: Stefano Moia
+      - name: Muriah Wheelock
         role: Chair
+        image: muriah_wheelock1
+        affiliation: Washington University in St. Louis
+        twitter:
+      - name: Eva Van Heese
+        role: Secretary
+        image: eva_vanheese1
+        affiliation: Amsterdam University Medical Centre
+        twitter:
+      - name: Veronica Diveica
+        role: Treasurer
+        image: veronica_diveica1
+        affiliation: Montreal Neurological Institute
+        twitter:
+
+      # hackathon
+      - name: Ashley York
+        role: Hackathon Co-Chair
+        image: 
+        affiliation: The University of Queensland
+        twitter:
+      - name: Thuy Dao
+        role: Hackathon Co-Chair
+        image:
+        affiliation:
+        twitter:
+      
+      # OSR
+      - name: James Kent
+        role: Open Science Room Chair
+        image:
+        affiliation: University of Texas in Austin
+        twitter: https://x.com/SudoNeuroSci
+
+      # Hybridization
+      - name: Sung Min Ha
+        role: Hybridization Chair
+        image: sungmin_ha1
+        affiliation: Washington University in St. Louis
+        twitter: https://x.com/SungMinHa1992
+
+      # Community Liaison Officer
+      - name: Steven Meisler
+        role: Community Liaison Officer
+        image: steven_meisler1
+        affiliation: University of Pennsylvania
+        twitter:
+
+      # Local Liaison Officer
+      - name: Belen
+        role: Local Liaison Officer
+        image: 
+        affiliation: 
+        twitter: 
+
+      # elect chair, secretary, treasurer
+      # - name: Muriah Wheelock
+      #   role: Chair Elect
+      #   image: muriah_wheelock1
+      #   affiliation: Washington University in St. Louis
+      #   twitter: #https://x.com/SteMoia
+      # - name: Eva Van Heese
+      #   role: Secretary Elect
+      #   image: eva_vanheese1
+      #   affiliation: Amsterdam University Medical Centre
+      #   twitter: #https://x.com/SteMoia
+      # - name: Veronica Diveica
+      #   role: Treasurer Elect
+      #   image: veronica_diveica1
+      #   affiliation: Montreal Neurological Institute
+      #   twitter: https://x.com/DiveicaV
+
+      # elect brainhack/OSR/hybrid
+      - name: Felix Hoffstaedter
+        role: Hackathon Co-Chair Elect
+        image: felix_hoffstaedter1
+        affiliation: Institute of Neuroscience and Medicine (INM-7), Research Centre Jülich
+        twitter:
+      - name: Sung-Ho Lee
+        role: Hackathon Co-Chair Elect
+        image: SungHo_Lee1
+        affiliation: The University of Queensland
+        twitter:
+      - name: Chloe
+        role: Open Science Room Chair Elect
+        image: 
+        affiliation:
+        twitter: https://x.com/SudoNeuroSci
+      - name: Marshall
+        role: Hybridization Chair Elect
+        image: 
+        affiliation: 
+        twitter:
+      
+      # past chair, secretary, treasurer
+      - name: Stefano Moia
+        role: Past Chair
         image: stefano_moia1
         affiliation: Faculty of Psychology and Neuroscience, Maastricht University
         twitter: https://x.com/SteMoia
       - name: Wei Zhang
-        role: Secretary
+        role: Past Secretary
         image: wei_zhang2
         affiliation: Washington University in St. Louis
         twitter: https://x.com/neurozzang
       - name: Naomi Gaggi
-        role: Treasurer
+        role: Past Treasurer
         image: naomi_lgaggi1
         affiliation: New York University
         twitter: https://x.com/NaomiGaggiS
-
-      # hackathon
-      - name: Bruno Hebling Vieira
-        role: Hackathon Co-Chair
-        image: bruno_vieira1
-        affiliation: Department of Psychology, University of Zurich
-        twitter: https://x.com/HeblingVieira
-      - name: Niousha Dehestanikolagar
-        role: Hackathon Co-Chair
-        image: #sina_mansour1
-        affiliation: National University of Singapore
-        twitter: #https://x.com/LugtmeijerSelma
-      
-      # OSR
-      - name: Ju-Chi Yu
-        role: Open Science Room Chair
-        image: ju-chi_yu2
-        affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health
-        twitter: https://x.com/juchiyu
-
-      # Hybridization
-      - name: Povilas Karvelis
-        role: Hybridization Chair
-        image: povilas_karvelis1
-        affiliation: Krembil Centre for Neuroinformatics, Centre for Addiction and Mental Health
-        twitter: https://x.com/KarvelisPovilas
-
-      # Community Liaison Officer
-      - name: Terra Lee
-        role: Community Liaison Officer
-        image: terra_lee1
-        affiliation: Department of Neuroscience, Vanderbilt University
-        twitter: https://x.com/terradactylee
-
-      # Local Liaison Officer
-      - name: Sarah Khalife
-        role: Local Liaison Officer
-        image: sarah_khalife1
-        affiliation: University of Queensland
-        twitter: https://x.com/SarahKhalife3
-
-      # elect chair, secretary, treasurer
-      - name: Muriah Wheelock
-        role: Chair Elect
-        image: muriah_wheelock1
-        affiliation: Washington University in St. Louis
-        twitter: #https://x.com/SteMoia
-      - name: Eva Van Heese
-        role: Secretary Elect
-        image: 
-        affiliation: Amsterdam University Medical Centre
-        twitter: #https://x.com/SteMoia
-      - name: Veronica Diveica
-        role: Treasurer Elect
-        image: veronica_diveica1
-        affiliation: Montreal Neurological Institute
-        twitter: https://x.com/DiveicaV
-
-      # elect brainhack/OSR/hybrid
-      - name: Ashley York
-        role: Hackathon Co-Chair Elect
-        image: #roza_gbayrak1
-        affiliation: The University of Queensland
-        twitter: #https://x.com/redgreenblues
-      - name: Yohan Wards
-        role: Hackathon Co-Chair Elect
-        image: #roza_gbayrak1
-        affiliation: The University of Queensland
-        twitter: https://x.com/YohanWards
-      - name: James Kent
-        role: Open Science Room Chair Elect
-        image: #ju-chi_yu1
-        affiliation: University of Texas in Austin
-        twitter: https://x.com/SudoNeuroSci
-      - name: Sungmin Ha
-        role: Hybridization Chair Elect
-        image: sungmin_ha1
-        affiliation: Washington University in St. Louis
-        twitter: https://x.com/SungMinHa1992
-      
-      # Liaison
       - name: Yi-Ju Lee (Jean)
-        role: Liaison from the Council
+        role: Past Treasurer
         image: yiju_lee1
         affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
         twitter: https://twitter.com/jean890203
 
       # Volunteer
-      - name: Kayla Hannon
-        role: Volunteer
-        image: kayla_hannon1
-        affiliation: Washington University in St. Louis
-        twitter: https://x.com/kayla_hannon1
-      - name: Sung-Ho Lee
-        role: Volunteer
-        image: SungHo_Lee1
-        affiliation: Department of Neurology and Biomedical, the University of North Carolina at Chapel Hill
-        twitter: https://x.com/shleevet
+      - name: Ju-Chi Yu
+        role: Volunteer (Lead of the proceeding submission for OSR 2025; OS-SIG guest editor for the Aperture Neuro special issue; liaison to ...)
+        image: ju-chi_yu2
+        affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health
+        twitter: https://x.com/juchiyu
+
+      - name: Niousha Dehestani Kolagar
+        role: Volunteer (Co-lead of the proceeding submission for Brianhack 2025)
+        image:
+        affiliation: National University of Singapore
+        twitter:
+
+      - name: Bruno Hebling Vieira
+        role: Volunteer (Co-lead of the proceeding submission for Brianhack 2025)
+        image: bruno_vieira1
+        affiliation: Department of Psychology, University of Zurich
+        twitter: https://x.com/HeblingVieira
+
       - name: Andrea Gondova
         role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
         image: gondova_andrea1
         affiliation: Boston Children’s Hospital, Harvard Medical School
         twitter: https://x.com/reaGondova
+
       - name: Selma Lugtmeijer
-        role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue; Lead of the proceeding submission for OSR 2024)
+        role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
         image: selma_lugtmeijer1
         affiliation: School of Psychology, Centre for Human Brain Health, University of Birmingham
         twitter: https://x.com/LugtmeijerSelma
+
       - name: Sina Mansour
         role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
         image: sina_mansour1
         affiliation: Centre for Sleep and Cognition, National University of Singapore
         twitter:
-      - name: Yu-Fang Yang
-        role: Volunteer (Lead of the proceeding submission for OHBM BrainHack 2023)
-        image: yufang_yang1
-        affiliation: Division of Experimental Psychology and Neuropsychology, Department of Education and Psychology, Freie Universität Berlin
-        twitter: https://x.com/ufangyang
-      - name: Anibal Solon
-        role: Volunteer (Lead the proceeding submission for OHBM BrainHack 2023)
-        image: anibal_solon1
-        affiliation: Department of Psychology & Department of Computer Science, The University of Texas at Austin
-        twitter: https://x.com/anibalsolon
-      
+
+      - name: Yi-Ju Lee (Jean)
+        role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
+        image: yiju_lee1
+        affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
+        twitter: https://twitter.com/jean890203
+
   sponsors:
     title: Our sponsors
     subtitle: We are grateful for the generous support of our 2025 sponsors.
