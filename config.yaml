@@ -153,7 +153,7 @@ params:
       - name: Sung-Ho Lee
         role: Hackathon Co-Chair Elect
         image: SungHo_Lee1
-        affiliation: The University of Queensland
+        affiliation: The University of North Carolina at Chapel Hill
         twitter:
       - name: Chloe
         role: Open Science Room Chair Elect
@@ -190,7 +190,7 @@ params:
 
       # Volunteer
       - name: Ju-Chi Yu
-        role: Volunteer (Lead of the proceeding submission for OSR 2025; OS-SIG guest editor for the Aperture Neuro special issue; liaison to ...)
+        role: Volunteer (Lead of the proceeding submission for OSR 2025; OS-SIG guest editor for the Aperture Neuro special issue)
         image: ju-chi_yu2
         affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health
         twitter: https://x.com/juchiyu
