@@ -95,7 +95,7 @@ params:
         twitter:
       - name: Thuy Dao
         role: Hackathon Co-Chair
-        image:
+        image: thuy_dao1
         affiliation:
         twitter:
       
@@ -162,7 +162,7 @@ params:
         twitter: https://x.com/SudoNeuroSci
       - name: Marshall
         role: Hybridization Chair Elect
-        image: 
+        image: marshall_xu1
         affiliation: 
         twitter:
       
