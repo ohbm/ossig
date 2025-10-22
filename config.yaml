@@ -96,7 +96,7 @@ params:
       - name: Thuy Dao
         role: Hackathon Co-Chair
         image: thuy_dao1
-        affiliation:
+        affiliation: The University of Queensland
         twitter:
       
       # OSR
@@ -163,7 +163,7 @@ params:
       - name: Marshall
         role: Hybridization Chair Elect
         image: marshall_xu1
-        affiliation: 
+        affiliation: The University of Queensland
         twitter:
       
       # past chair, secretary, treasurer
