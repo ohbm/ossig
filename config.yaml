@@ -75,7 +75,7 @@ params:
         role: Chair
         image: muriah_wheelock1
         affiliation: Washington University in St. Louis
-        twitter:
+        bluesky: https://bsky.app/profile/muriahwheelock.bsky.social
       - name: Eva Van Heese
         role: Secretary
         image: eva_vanheese1
@@ -85,12 +85,12 @@ params:
         role: Treasurer
         image: veronica_diveica1
         affiliation: Montreal Neurological Institute
-        twitter:
+        twitter: https://x.com/DiveicaV
 
       # hackathon
       - name: Ashley York
         role: Hackathon Co-Chair
-        image: 
+        image: ashley_york1
         affiliation: The University of Queensland
         twitter:
       - name: Thuy Dao
@@ -128,21 +128,21 @@ params:
         twitter: 
 
       # elect chair, secretary, treasurer
-      # - name: Muriah Wheelock
-      #   role: Chair Elect
-      #   image: muriah_wheelock1
-      #   affiliation: Washington University in St. Louis
-      #   twitter: #https://x.com/SteMoia
+      - name: Johanna Bayer
+        role: Chair Elect
+        image: johanna_bayer1
+        affiliation: Donders Institute for Brain, Cogntion and Behaviour, Netherlands
+        twitter: https://x.com/likeajumprope
       # - name: Eva Van Heese
       #   role: Secretary Elect
       #   image: eva_vanheese1
       #   affiliation: Amsterdam University Medical Centre
       #   twitter: #https://x.com/SteMoia
-      # - name: Veronica Diveica
-      #   role: Treasurer Elect
-      #   image: veronica_diveica1
-      #   affiliation: Montreal Neurological Institute
-      #   twitter: https://x.com/DiveicaV
+      - name: Moses Sokunbi
+        role: Treasurer Elect
+        image: 
+        affiliation: De Montfort University
+        twitter:
 
       # elect brainhack/OSR/hybrid
       - name: Felix Hoffstaedter
@@ -154,13 +154,18 @@ params:
         role: Hackathon Co-Chair Elect
         image: SungHo_Lee1
         affiliation: The University of North Carolina at Chapel Hill
-        twitter:
-      - name: Chloe
+        twitter: 
+      - name: Gaëlle Leroux
         role: Open Science Room Chair Elect
         image: 
-        affiliation:
-        twitter: https://x.com/SudoNeuroSci
-      - name: Marshall
+        affiliation: CNRS, Lyon Neuroscience Research Centre, France
+        twitter:
+      - name: Chloe Page
+        role: Open Science Room Chair Elect
+        image: chloe_page1
+        affiliation: University of Colorado
+        twitter:
+      - name: Marshall Xu
         role: Hybridization Chair Elect
         image: marshall_xu1
         affiliation: The University of Queensland
