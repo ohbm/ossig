@@ -76,7 +76,7 @@ params:
         role: Chair
         image: muriah_wheelock1
         affiliation: Washington University in St. Louis
-        bluesky: https://bsky.app/profile/muriahwheelock.bsky.social
+        twitter: https://bsky.app/profile/muriahwheelock.bsky.social
       - name: Eva Van Heese
         role: Secretary
         image: eva_vanheese1
@@ -103,7 +103,7 @@ params:
       # OSR
       - name: James Kent
         role: Open Science Room Chair
-        image: james_kent1
+        image: 
         affiliation: University of Texas in Austin
         twitter: https://x.com/SudoNeuroSci
 
@@ -173,69 +173,69 @@ params:
         twitter:
       
       # past chair, secretary, treasurer
-      - name: Stefano Moia
-        role: Past Chair
-        image: stefano_moia1
-        affiliation: Faculty of Psychology and Neuroscience, Maastricht University
-        twitter: https://x.com/SteMoia
-      - name: Wei Zhang
-        role: Past Secretary
-        image: wei_zhang2
-        affiliation: Washington University in St. Louis
-        twitter: https://x.com/neurozzang
-      - name: Naomi Gaggi
-        role: Past Treasurer
-        image: naomi_lgaggi1
-        affiliation: New York University
-        twitter: https://x.com/NaomiGaggiS
-      - name: Yi-Ju Lee (Jean)
-        role: Past Treasurer
-        image: yiju_lee1
-        affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
-        twitter: https://twitter.com/jean890203
+      # - name: Stefano Moia
+      #   role: Past Chair
+      #   image: stefano_moia1
+      #   affiliation: Faculty of Psychology and Neuroscience, Maastricht University
+      #   twitter: https://x.com/SteMoia
+      # - name: Wei Zhang
+      #   role: Past Secretary
+      #   image: wei_zhang2
+      #   affiliation: Washington University in St. Louis
+      #   twitter: https://x.com/neurozzang
+      # - name: Naomi Gaggi
+      #   role: Past Treasurer
+      #   image: naomi_lgaggi1
+      #   affiliation: New York University
+      #   twitter: https://x.com/NaomiGaggiS
+      # - name: Yi-Ju Lee (Jean)
+      #   role: Past Treasurer
+      #   image: yiju_lee1
+      #   affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
+      #   twitter: https://twitter.com/jean890203
 
       # Volunteer
-      - name: Ju-Chi Yu
-        role: Volunteer (Lead of the proceeding submission for OSR 2025; OS-SIG guest editor for the Aperture Neuro special issue)
-        image: ju-chi_yu2
-        affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health
-        twitter: https://x.com/juchiyu
+      # - name: Ju-Chi Yu
+      #   role: Volunteer (Lead of the proceeding submission for OSR 2025; OS-SIG guest editor for the Aperture Neuro special issue)
+      #   image: ju-chi_yu2
+      #   affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health
+      #   twitter: https://x.com/juchiyu
 
-      - name: Niousha Dehestani Kolagar
-        role: Volunteer (Co-lead of the proceeding submission for Brianhack 2025)
-        image:
-        affiliation: National University of Singapore
-        twitter:
+      # - name: Niousha Dehestani Kolagar
+      #   role: Volunteer (Co-lead of the proceeding submission for Brianhack 2025)
+      #   image:
+      #   affiliation: National University of Singapore
+      #   twitter:
 
-      - name: Bruno Hebling Vieira
-        role: Volunteer (Co-lead of the proceeding submission for Brianhack 2025)
-        image: bruno_vieira1
-        affiliation: Department of Psychology, University of Zurich
-        twitter: https://x.com/HeblingVieira
+      # - name: Bruno Hebling Vieira
+      #   role: Volunteer (Co-lead of the proceeding submission for Brianhack 2025)
+      #   image: bruno_vieira1
+      #   affiliation: Department of Psychology, University of Zurich
+      #   twitter: https://x.com/HeblingVieira
 
-      - name: Andrea Gondova
-        role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
-        image: gondova_andrea1
-        affiliation: Boston Children’s Hospital, Harvard Medical School
-        twitter: https://x.com/reaGondova
+      # - name: Andrea Gondova
+      #   role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
+      #   image: gondova_andrea1
+      #   affiliation: Boston Children’s Hospital, Harvard Medical School
+      #   twitter: https://x.com/reaGondova
 
-      - name: Selma Lugtmeijer
-        role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
-        image: selma_lugtmeijer1
-        affiliation: School of Psychology, Centre for Human Brain Health, University of Birmingham
-        twitter: https://x.com/LugtmeijerSelma
+      # - name: Selma Lugtmeijer
+      #   role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
+      #   image: selma_lugtmeijer1
+      #   affiliation: School of Psychology, Centre for Human Brain Health, University of Birmingham
+      #   twitter: https://x.com/LugtmeijerSelma
 
-      - name: Sina Mansour
-        role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
-        image: sina_mansour1
-        affiliation: Centre for Sleep and Cognition, National University of Singapore
-        twitter:
+      # - name: Sina Mansour
+      #   role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
+      #   image: sina_mansour1
+      #   affiliation: Centre for Sleep and Cognition, National University of Singapore
+      #   twitter:
 
-      - name: Yi-Ju Lee (Jean)
-        role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
-        image: yiju_lee1
-        affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
-        twitter: https://twitter.com/jean890203
+      # - name: Yi-Ju Lee (Jean)
+      #   role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
+      #   image: yiju_lee1
+      #   affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
+      #   twitter: https://twitter.com/jean890203
 
   sponsors:
     title: Our sponsors
