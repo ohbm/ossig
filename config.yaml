@@ -68,7 +68,8 @@ params:
     subtitle: The people behind the OSSIG
     id: OSSIG_team
     year: 2026
-    # images (from /images/illustrations/faces/$year/___.jpg)
+    # images (from ./public/images/illustrations/faces/$year/___.jpg)
+    
     members:
       # chair, secretary, treasurer
       - name: Muriah Wheelock
@@ -102,7 +103,7 @@ params:
       # OSR
       - name: James Kent
         role: Open Science Room Chair
-        image:
+        image: james_kent1
         affiliation: University of Texas in Austin
         twitter: https://x.com/SudoNeuroSci
 
@@ -118,13 +119,13 @@ params:
         role: Community Liaison Officer
         image: steven_meisler1
         affiliation: University of Pennsylvania
-        twitter:
+        twitter: 
 
       # Local Liaison Officer
-      - name: Belen
+      - name: Belen Azofra
         role: Local Liaison Officer
-        image: 
-        affiliation: 
+        image: belen_azofra1
+        affiliation: University of Paris Cite
         twitter: 
 
       # elect chair, secretary, treasurer
@@ -158,7 +159,7 @@ params:
       - name: Gaëlle Leroux
         role: Open Science Room Chair Elect
         image: 
-        affiliation: CNRS, Lyon Neuroscience Research Centre, France
+        affiliation: Centre de Recherche en Neuroscience de Lyon, France
         twitter:
       - name: Chloe Page
         role: Open Science Room Chair Elect
