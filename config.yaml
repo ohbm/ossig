@@ -48,6 +48,8 @@ params:
         url: https://sites.google.com/tmu.edu.tw/openbrainscience/home
     - title: Sponsors
       url: "/sponsors"
+    - title: Transparency
+      url: "/transparency"
     - title: Past members
       url: "/pastmembers"
   # - title: Bylaws
