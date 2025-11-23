@@ -1,7 +1,7 @@
 ---
 title: "Transparency"
 date: 2025-11-23T00:38:26+01:00
-draft: true
+draft: false
 sidebar: false # true or false to display the sidebar
 sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
