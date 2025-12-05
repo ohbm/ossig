@@ -1,6 +1,6 @@
 name: "OHBM 2026 Reproducibility Challenge – Expression of Interest"
 description: "Submit your participation as a Source Party or Reproducing Party"
-title: "<Project Title or Participation EOI>"
+title: "EOI - OHBM 2026 Reproducibility Challenge - ${{ inputs.authors }} - ${{ inputs['participation-role'] }}"
 labels: ["OHBM Reproducibility Challenge 2026"]
 assignees:
   - KMarshallX
@@ -40,6 +40,7 @@ body:
   ###########################################################################
   # Source Party Section (Conditional)
   ###########################################################################
+  
   - type: markdown
     attributes:
       value: |
