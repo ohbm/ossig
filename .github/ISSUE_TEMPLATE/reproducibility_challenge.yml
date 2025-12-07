@@ -96,11 +96,22 @@ body:
     validations:
       required: false
 
+  - type: input
+    id: data-link
+    attributes:
+      label: "Link to Data Repository (if shareable)"
+      placeholder: "https://osf.io/... or other data repository link"
+    validations:
+      required: false
+
   - type: textarea
     id: sharing-details
     attributes:
       label: "Additional Notes on Data Access (optional)"
-      placeholder: "IRB requirements, data-use agreements, anonymization needs, etc."
+      placeholder: |
+        - IRB requirements:
+        - Data-use agreements:
+        - Anonymization needs, etc.:
     validations:
       required: false
 
