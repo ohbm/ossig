@@ -1,0 +1,176 @@
+name: "OHBM 2026 Reproducibility Challenge – Expression of Interest"
+description: "Submit your participation as a Source Party or Reproducing Party"
+title: "EOI - OHBM 2026 Reproducibility Challenge"
+labels: ["OHBM Reproducibility Challenge 2026"]
+assignees:
+  - KMarshallX
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in the **OHBM–OSSIG Reproducibility Challenge 2026**.
+
+        Participants may join as either:
+        - **Source Party**: You provide a submitted OHBM abstract or related publication (“source work”), along with procedures, code, and, when possible, data.
+        - **Reproducing Party**: You attempt to reproduce the source work using only the available procedures, code, and data — **without additional consultation** with the source party.
+
+        More details about the challenge can be found on the [OHBM OSSIG Reproducibility Challenge page](https://ossig.netlify.app/challenge/).
+        Please fill in the relevant sections below.
+
+  - type: input
+    id: authors
+    attributes:
+      label: "Author(s) & Contact Information"
+      description: "Names, institutional affiliations, and contact email(s)."
+      placeholder: "J. Doe (University X) – j.doe@university.edu"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: participation_role
+    attributes:
+      label: "I am submitting as:"
+      options:
+        - "Reproducing Party (to reproduce projects)"
+        - "Source Party (to provide projects to be reproduced)"
+    validations:
+      required: true
+
+  ###########################################################################
+  # Source Party Section (Conditional)
+  ###########################################################################
+  
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Source Party Submission  
+        *Please complete this section **only if** you selected “Source Party”.*
+
+  - type: input
+    id: sop-link
+    attributes:
+      label: "Link to SOP / Documentation"
+      placeholder: "https://github.com/... or OSF link"
+    validations:
+      required: false
+
+  - type: input
+    id: code-link
+    attributes:
+      label: "Link to Code Repository"
+      placeholder: "GitHub / GitLab / OSF / Zenodo"
+    validations:
+      required: false
+
+  - type: textarea
+    id: data-description
+    attributes:
+      label: "Data Description"
+      description: |
+        Describe the data used in the source work (e.g., structural MRI, functional MRI, behavioural, etc.).  
+        If possible, include links or metadata. Indicate what is and is not shareable.
+      placeholder: |
+        - Modality:  
+        - Acquisition parameters:  
+        - Sample size:  
+        - Preprocessing pipelines:  
+        - Data links (if public):  
+        - Notes on restrictions:
+    validations:
+      required: false
+
+  - type: dropdown
+    id: data-sharing
+    attributes:
+      label: "Data Sharing Possibilities"
+      description: "Please indicate what level of sharing is possible for your dataset."
+      options:
+        - "Fully public dataset (already available)"
+        - "Can share raw data"
+        - "Can share derivatives only (e.g., processed outputs)"
+        - "Can share under data-use agreement"
+        - "IRB/ethics restrictions – cannot share data"
+        - "Not applicable"
+    validations:
+      required: false
+
+  - type: input
+    id: data-link
+    attributes:
+      label: "Link to Data Repository (if shareable)"
+      placeholder: "https://osf.io/... or other data repository link"
+    validations:
+      required: false
+
+  - type: textarea
+    id: sharing-details
+    attributes:
+      label: "Additional Notes on Data Access (optional)"
+      placeholder: |
+        - IRB requirements:
+        - Data-use agreements:
+        - Anonymization needs, etc.:
+    validations:
+      required: false
+
+  - type: input
+    id: paper-link
+    attributes:
+      label: "Link to Abstract, Preprint, or Publication"
+      placeholder: "https://doi.org/... or OHBM abstract link"
+    validations:
+      required: false
+
+  ###########################################################################
+  # Reproducing Party Section (Optional)
+  ###########################################################################
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Reproducing Party Submission  
+        *Complete this section if you selected “Reproducing Party”.*
+
+  - type: textarea
+    id: reproduce-interest
+    attributes:
+      label: "What type of work are you interested in reproducing?"
+      placeholder: "Modalities, pipelines, analysis types, specific domains, etc."
+    validations:
+      required: false
+
+  - type: textarea
+    id: reproduce-skills
+    attributes:
+      label: "Relevant Skills or Tools You Can Bring"
+      placeholder: "Python, MATLAB, fMRIprep, diffusion, statistics, etc."
+    validations:
+      required: false
+
+  - type: textarea
+    id: target-works
+    attributes:
+      label: "Do you have specific abstracts or works you wish to reproduce? (optional)"
+      placeholder: "List titles, links, or OSF/GitHub IDs if known."
+    validations:
+      required: false
+
+  ###########################################################################
+  # Final
+  ###########################################################################
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Additional Notes
+        Add anything else you would like the OSSIG team or other participants to know.
+
+  - type: textarea
+    id: additional-notes
+    attributes:
+      label: "Additional Information (Optional)"
+      placeholder: "Logistical notes, time availability, questions, etc."
+    validations:
+      required: false
