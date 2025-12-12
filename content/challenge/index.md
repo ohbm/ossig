@@ -9,7 +9,7 @@ include_footer: true
 
 # The OHBM Reproducibility Challenge
 
-![OHBM Reproducibility Challenge OSSIG](/images/illustrations/logo_reproducibility_challenge OSSIG.png)
+![OHBM Reproducibility Challenge OSSIG](/images/illustrations/logo_reproducibility_challenge_OSSIG.png)
 
 ## Overview
 
@@ -19,13 +19,13 @@ The OHBM-OSSIG Reproducibility Challenge is a networking experience facilitated 
 
 In this challenge, we distinguish between two complementary types of reproduction:
 
-* Reproducibility: running the same analysis on the same data
-* Replicability: running the same analysis on independent data
+* __Reproducibility__: running the same analysis on the same data
+* __Replicability__: running the same analysis on independent data
 
 The specific type of reproduction will be determined by the availability of the original data. In all cases, a mandatory requirement is that teams make their code openly available to enable others to re-run the analysis.
 
-![Reprudicible Definition Turing Way OSSIG](/images/illustrations/reproducible-definition-turing-way_OSSIG.png)
-*Adapted from The Turing Way Community. Original illustration created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807*[^1]
+![Reproducible Definition Turing Way OSSIG](/images/illustrations/reproducible-definition-turing-way_OSSIG.png)
+*Adapted from The Turing Way Community. Original illustration created by Scriberia with The Turing Way community, used under a CC-BY 4.0 licence. DOI: 10.5281/zenodo.3332807[^1]*
 
 ## How to participate?
 
