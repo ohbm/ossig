@@ -129,6 +129,11 @@ params:
         image: belen_azofra1
         affiliation: University of Paris Cite
         twitter: 
+      - name: Achille Gillig
+        role: Local Liaison Officer
+        image: 
+        affiliation: 
+        twitter: 
 
       # elect chair, secretary, treasurer
       - name: Johanna Bayer
@@ -136,11 +141,11 @@ params:
         image: johanna_bayer1
         affiliation: Donders Institute for Brain, Cogntion and Behaviour, Netherlands
         twitter: https://x.com/likeajumprope
-      # - name: Eva Van Heese
-      #   role: Secretary Elect
-      #   image: eva_vanheese1
-      #   affiliation: Amsterdam University Medical Centre
-      #   twitter: #https://x.com/SteMoia
+      - name: Nikhil Bhagwat
+        role: Secretary Elect
+        image: 
+        affiliation: McGill University
+        twitter:
       - name: Moses Sokunbi
         role: Treasurer Elect
         image: 
@@ -161,8 +166,8 @@ params:
       - name: Gaëlle Leroux
         role: Open Science Room Co-Chair Elect
         image: 
-        affiliation: Centre de Recherche en Neuroscience de Lyon, France
-        twitter:
+        affiliation: CNRS, Lyon Neuroscience Research Centre, France
+        twitter: https://bsky.app/profile/gaellecnrs.bsky.social
       - name: Chloe Page
         role: Open Science Room Co-Chair Elect
         image: chloe_page1
