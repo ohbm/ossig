@@ -35,7 +35,7 @@ To join the OHBM Reproducibility Challenge, both source and reproducing parties 
 
 Submitted abstracts will be listed on the dedicated GitHub page, and presenters will be invited to include a Reproducibility Challenge logo with a QR code linking to the challenge website when printing their posters for OHBM 2026. Abstracts that were not initially submitted for the challenge can still participate if their authors give permission and submit a GitHub issue with the required information. These entries follow the same procedure as regular submissions, and the OSSIG will attempt to match them with reproducing parties shortly after the OHBM 2026 meeting.
 
-## Timelilne and expected outcomes
+## Timeline and expected outcomes
 
 ![Expected Timeline](/images/illustrations/reproducible_challenge_OSSIG_Timeline.png)
 
