@@ -165,7 +165,7 @@ params:
         twitter: 
       - name: Gaëlle Leroux
         role: Open Science Room Co-Chair Elect
-        image: 
+        image: gaelle_leroux
         affiliation: CNRS, Lyon Neuroscience Research Centre, France
         twitter: https://bsky.app/profile/gaellecnrs.bsky.social
       - name: Chloe Page
@@ -180,21 +180,22 @@ params:
         twitter:
       
       # past chair, secretary, treasurer
-      # - name: Stefano Moia
-      #   role: Past Chair
-      #   image: stefano_moia1
-      #   affiliation: Faculty of Psychology and Neuroscience, Maastricht University
-      #   twitter: https://x.com/SteMoia
-      # - name: Wei Zhang
-      #   role: Past Secretary
-      #   image: wei_zhang2
-      #   affiliation: Washington University in St. Louis
-      #   twitter: https://x.com/neurozzang
-      # - name: Naomi Gaggi
-      #   role: Past Treasurer
-      #   image: naomi_lgaggi1
-      #   affiliation: New York University
-      #   twitter: https://x.com/NaomiGaggiS
+      - name: Stefano Moia
+        role: Past Chair
+        image: stefano_moia1
+        affiliation: Faculty of Psychology and Neuroscience, Maastricht University
+        twitter: https://x.com/SteMoia
+      - name: Wei Zhang
+        role: Past Secretary
+        image: wei_zhang2
+        affiliation: Washington University in St. Louis
+        twitter: https://x.com/neurozzang
+      - name: Naomi Gaggi
+        role: Past Treasurer
+        image: naomi_lgaggi1
+        affiliation: New York University
+        twitter: https://x.com/NaomiGaggiS
+
       # - name: Yi-Ju Lee (Jean)
       #   role: Past Treasurer
       #   image: yiju_lee1
@@ -243,6 +244,42 @@ params:
       #   image: yiju_lee1
       #   affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
       #   twitter: https://twitter.com/jean890203
+
+      - name: Hanyi Li
+        role: Volunteer
+        image:
+        affiliation: 
+        twitter:
+
+      - name: Daisy Hu
+        role: Volunteer
+        image: daisy_hu
+        affiliation: 
+        twitter:
+
+      - name: Dhivya Srinivasan
+        role: Volunteer
+        image:
+        affiliation: University of Pennsylvania
+        twitter:
+
+      - name: Beatriz Arantes
+        role: Volunteer
+        image: beatriz_rantes
+        affiliation:
+        twitter:
+
+      - name: Achille Gillig
+        role: Volunteer
+        image:
+        affiliation:
+        twitter:
+
+      - name: Valentine Chirokoff
+        role: Volunteer
+        image:
+        affiliation:
+        twitter:
 
   sponsors:
     title: Our sponsors
