@@ -248,13 +248,13 @@ params:
       - name: Hanyi Li
         role: Volunteer
         image:
-        affiliation: 
+        affiliation: The University of Manchester
         twitter:
 
       - name: Daisy Hu
         role: Volunteer
         image: daisy_hu
-        affiliation: 
+        affiliation: University of Toroto
         twitter:
 
       - name: Dhivya Srinivasan
@@ -266,19 +266,19 @@ params:
       - name: Beatriz Arantes
         role: Volunteer
         image: beatriz_rantes
-        affiliation:
+        affiliation: 
         twitter:
 
       - name: Achille Gillig
         role: Volunteer
         image:
-        affiliation:
+        affiliation: University of Bordeaux
         twitter:
 
       - name: Valentine Chirokoff
         role: Volunteer
         image:
-        affiliation:
+        affiliation: Deakin University
         twitter:
 
   sponsors:
