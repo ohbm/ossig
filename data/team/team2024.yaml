@@ -105,3 +105,20 @@
         image: ju-chi_yu1
         affiliation: Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health, Canada
         twitter: https://twitter.com/xiangzhenkong
+
+        # Past chair, secretary, treasurer
+      - name: Koen Haak
+        role: Past Chair
+        image: koen_haak1
+        affiliation: Donders Institute for Brain Cognition and Behaviour, Radboud University Medical Center, Nijmegen, The Netherlands
+        twitter: https://twitter.com/KVHaak
+      - name: Andrea Gondova
+        role: Past Secretary
+        image: gondova_andrea1
+        affiliation:  Université de Paris Cité, NeuroDiderot INSERM; UNIACT Neurospin CEA; Paris, France
+        twitter: https://twitter.com/reaGondova
+      - name: Linden Parkes
+        role: Past Treasurer
+        image: linden_parkes1
+        affiliation: University of Pennsylvania
+        twitter: https://twitter.com/LindenParkes

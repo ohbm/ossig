@@ -110,3 +110,20 @@
         image: xiangzhen_kong1
         affiliation: Department of Psychology and Behavioral Sciences, Zhejiang University
         twitter: https://twitter.com/xiangzhenkong
+
+      # Past chair, secretary, treasurer
+      - name: Janine Bijsterbosch
+        role: Past Chair
+        image: janine_bijsterbosch
+        affiliation: Department of Radiology, Washington University Medical School, Washington University in St Louis, USA
+        twitter: https://twitter.com/PersonomicsLab
+      - name: Johanna Bayer
+        role: Past Secretary
+        image: johanna_bayer
+        affiliation: The University of Melbourne; Orygen, Melbourne
+        twitter: https://twitter.com/likeajumprope
+      - name: Benjamin De Leener
+        role: Past Treasurer
+        image: benjamin_de_leener
+        affiliation: Polytechnique Montréal, Department of Computer Engineering and Software Engineering, TransMedTech Institute, CHU Sainte-Justine
+        twitter: https://twitter.com/BenDeLeener
