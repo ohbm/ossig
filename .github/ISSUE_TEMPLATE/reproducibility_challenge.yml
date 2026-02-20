@@ -1,7 +1,7 @@
 name: "OHBM 2026 Reproducibility Challenge – Expression of Interest"
 description: "Submit your participation as a Source Party or Reproducing Party"
 title: "EOI - OHBM 2026 Reproducibility Challenge"
-labels: ["OHBM Reproducibility Challenge 2026"]
+labels: ["Repro Challenge 2026"] #TODO: create this label in the repo
 assignees:
   - KMarshallX
 
@@ -32,8 +32,8 @@ body:
     attributes:
       label: "I am submitting as:"
       options:
-        - "Reproducing Party (to reproduce projects)"
         - "Source Party (to provide projects to be reproduced)"
+        - "Reproducing Party (to reproduce projects)"
     validations:
       required: true
 
