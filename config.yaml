@@ -349,10 +349,10 @@ params:
         text: September 1st, 2024 - *May 31st, 2025*
         buttonText: Learn more
         buttonLink: https://apertureneuro.org/pages/731-special-issue
-      - title: OHBM BrainHack 2025 ft. NeuroDesk Workshop & the Neuroimaging Statistics Workshop
-        text: June 21st - 23rd @ the Precinct
+      - title: OHBM BrainHack 2026
+        text: June 11th - 13th @ Bordeaux, France
         buttonText: Register
-        buttonLink: https://humanbrainmapping.org/i4a/ams/meetings/index.cfm?controller=meetings&action=startRegistration&conferenceID=152&reginit=1&pageID=4305
+        buttonLink: https://ohbm.github.io/hackathon2026
       - title: Open Science Room
         buttonText: Program
         buttonLink: https://ohbm.github.io/osr2025/schedule/
