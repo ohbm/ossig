@@ -54,7 +54,7 @@ body:
       label: "Title of Your Source Work / Project"
       placeholder: "Title of the OHBM abstract or related publication etc."
     validations:
-      required: true
+      required: false
 
   - type: input
     id: sop-link
