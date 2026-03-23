@@ -49,6 +49,14 @@ body:
         *Please complete this section **only if** you selected “Source Party”.*
 
   - type: input
+    id: title-link
+    attributes:
+      label: "Title of Your Source Work /Project"
+      placeholder: "Title of the OHBM abstract or related publication etc."
+    validations:
+      required: true
+
+  - type: input
     id: sop-link
     attributes:
       label: "Link to SOP / Documentation"
