@@ -105,7 +105,7 @@ params:
       # OSR
       - name: James Kent
         role: Open Science Room Chair
-        image: 
+        image: james_kent1
         affiliation: University of Texas in Austin
         twitter: https://x.com/SudoNeuroSci
 
