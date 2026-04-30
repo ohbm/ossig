@@ -300,7 +300,7 @@ params:
         oursponsors:
           - name: "Brain Products"
             image: /images/logos/BrainProducts_OSR.jpg
-            height: 8em
+            height: 6em
             url: https://www.brainproducts.com/
           # - name: "Cortical Labs"
           #   image: /images/logos/CorticalLabs_OSR_BrainHack.png
@@ -365,7 +365,7 @@ params:
         oursponsors:
           - name: "Brain Innovation"
             image: /images/logos/Brain_Innovation_BrainHack.png
-            height: 8em
+            height: 9em
             url: https://brainvoyager.com/
 
           # - name: "Cortical Labs"
@@ -388,7 +388,7 @@ params:
         oursponsors:
           - name: "Openneuro"
             image: /images/logos/openneuro_logo.png
-            height: 8em
+            height: 10em
             url: https://openneuro.org/
           # - name: "American Statistical Association"
           #   image: /images/logos/asa.jpg
