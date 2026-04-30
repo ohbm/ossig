@@ -289,45 +289,62 @@ params:
     subtitleopp: Interested in supporting us? Please see our sponsorship opportunities below!
     sponsors:
 
+      - name: OS-SIG Champion
+        oursponsors:
+          - name: "Cortical Labs"
+            image: /images/logos/CorticalLabs_OSR_BrainHack.png
+            height: 8em
+            url: https://corticallabs.com/
+
       - name: Open Science Room Advocate
         oursponsors:
-          - name: "Cortical Labs"
-            image: /images/logos/CorticalLabs_OSR_BrainHack.png
-            height: 7em
-            url: https://corticallabs.com/
           - name: "Brain Products"
             image: /images/logos/BrainProducts_OSR.jpg
-            height: 5em
-            url: https://www.brainproducts.com/
-          - name: "Openneuro"
-            image: /images/logos/openneuro_logo.png
             height: 8em
-            url: https://openneuro.org/
+            url: https://www.brainproducts.com/
+          # - name: "Cortical Labs"
+          #   image: /images/logos/CorticalLabs_OSR_BrainHack.png
+          #   height: 7em
+          #   url: https://corticallabs.com/
+          # - name: "Openneuro"
+          #   image: /images/logos/openneuro_logo.png
+          #   height: 8em
+          #   url: https://openneuro.org/
 
-
-      - name: OS-SIG Sponsors
+      - name: OS-SIG Supporter
         oursponsors:
-          - name: "OHBM"
-            image: /images/logos/ohbm.jpg
-            height: 7em
-            url: https://www.humanbrainmapping.org/
+          # - name: "OHBM"
+          #   image: /images/logos/ohbm.jpg
+          #   height: 7em
+          #   url: https://www.humanbrainmapping.org/
           - name: "Cortical Labs"
             image: /images/logos/CorticalLabs_OSR_BrainHack.png
             height: 5em
             url: https://corticallabs.com/
+          # - name: "Brain Products"
+          #   image: /images/logos/BrainProducts_OSR.jpg
+          #   height: 3em
+          #   url: https://www.brainproducts.com/
+          # - name: "Brain Innovation"
+          #   image: /images/logos/Brain_Innovation_BrainHack.png
+          #   height: 5em
+          #   url: https://brainvoyager.com/
+          # - name: "Openneuro"
+          #   image: /images/logos/openneuro_logo.png
+          #   height: 7em
+          #   url: https://openneuro.org/
+
+
+      - name: Open Science Room Advocate
+        oursponsors:
           - name: "Brain Products"
             image: /images/logos/BrainProducts_OSR.jpg
             height: 3em
             url: https://www.brainproducts.com/
-          - name: "Brain Innovation"
-            image: /images/logos/Brain_Innovation_BrainHack.png
-            height: 5em
-            url: https://brainvoyager.com/
-          - name: "Openneuro"
-            image: /images/logos/openneuro_logo.png
-            height: 7em
-            url: https://openneuro.org/
-
+          # - name: "Brain Innovation"
+          #   image: /images/logos/Brain_Innovation_BrainHack.png
+          #   height: 5em
+          #   url: https://brainvoyager.com/
 
       # - name: Open Science Room Supporter
       #   oursponsors:
@@ -336,27 +353,48 @@ params:
       #       height: 8em
       #       url: https://www.mcgill.ca/neuro/open-science/tanenbaum-open-science-institute-tosi/
 
-      - name: Hackathon Champion
-        oursponsors:
-          - name: "Neurodesk"
-            image: /images/logos/NeuroDesk.png
-            height: 8em
-            url: https://www.neurodesk.org/
+      # - name: Hackathon Champion
+      #   oursponsors:
+      #     - name: "Neurodesk"
+      #       image: /images/logos/NeuroDesk.png
+      #       height: 8em
+      #       url: https://www.neurodesk.org/
 
-      - name: Hackathon Advocate
+      # - name: Hackathon Advocate
+      - name: BrainHack Advocate
         oursponsors:
-          - name: "Cortical Labs"
-            image: /images/logos/CorticalLab.jpg
-            height: 8em
-            url: https://www.win.ox.ac.uk/  
+          - name: "Brain Innovation"
+            image: /images/logos/Brain_Innovation_BrainHack.png
+            height: 5em
+            url: https://brainvoyager.com/
 
-      - name: Hackathon Supporter
+          # - name: "Cortical Labs"
+          #   image: /images/logos/CorticalLabs_OSR_BrainHack.png
+          #   height: 8em
+          #   url: https://corticallabs.com/
+          # - name: "Cortical Labs"
+          #   image: /images/logos/CorticalLab.jpg
+          #   height: 8em
+          #   url: https://www.win.ox.ac.uk/  
+
+      # - name: Hackathon Supporter
+      #   oursponsors:
+      #     - name: "American Statistical Association"
+      #       image: /images/logos/asa.jpg
+      #       height: 8em
+      #       url: https://www.amstat.org/              
+
+      - name: OS-SIG Supporter
         oursponsors:
-          - name: "American Statistical Association"
-            image: /images/logos/asa.jpg
-            height: 8em
-            url: https://www.amstat.org/              
- 
+          - name: "Openneuro"
+            image: /images/logos/openneuro_logo.png
+            height: 7em
+            url: https://openneuro.org/
+          # - name: "American Statistical Association"
+          #   image: /images/logos/asa.jpg
+          #   height: 8em
+          #   url: https://www.amstat.org/              
+
   section2:
     title: Open science is an umbrella.
     subtitle: We're here to help grow the community supporting it.
