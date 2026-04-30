@@ -293,11 +293,11 @@ params:
         oursponsors:
           - name: "Cortical Labs"
             image: /images/logos/CorticalLabs_OSR_BrainHack.png
-            height: 8em
+            height: 7em
             url: https://corticallabs.com/
           - name: "Brain Products"
             image: /images/logos/BrainProducts_OSR.jpg
-            height: 8em
+            height: 5em
             url: https://www.brainproducts.com/
           - name: "Openneuro"
             image: /images/logos/openneuro_logo.png
