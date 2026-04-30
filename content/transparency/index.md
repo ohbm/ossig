@@ -16,6 +16,6 @@ Here, we provide open access to our inclusivity and diversity recruitment report
 
 On this page, you will find our reports on diversity and inclusivity in recruitment, detailed budget expenditures, and our annual organizational summaries. -->
 
-| Year | Officer Recruitment / Diversity Report | Budget Report | Anual Report |
+| Year | Officer Recruitment / Diversity Report | Budget Report | Annual Report |
 | :--: | :------------------------------------- | :------------ | :----------- |
 | 2025 | [Diversity Report](https://docs.google.com/document/d/1CQITeHrBttOWCI0vHgmfjVSUdaxZJAVy/edit) | In Preparation | In Preparation |
