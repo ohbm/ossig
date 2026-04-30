@@ -37,7 +37,7 @@ params:
     - title: Educational Courses
       url: "/Education"
     - title: Open Science Room
-      url: "https://ohbm.github.io/osr2025"
+      url: "https://ohbm.github.io/osr2026"
     - title: Events
       sublinks: 
       - title: Aperture Neuro Special Issue
@@ -105,7 +105,7 @@ params:
       # OSR
       - name: James Kent
         role: Open Science Room Chair
-        image: 
+        image: james_kent1
         affiliation: University of Texas in Austin
         twitter: https://x.com/SudoNeuroSci
 
@@ -355,11 +355,11 @@ params:
         buttonLink: https://ohbm.github.io/hackathon2026
       - title: Open Science Room
         buttonText: Program
-        buttonLink: https://ohbm.github.io/osr2025/schedule/
+        buttonLink: https://ohbm.github.io/osr2026/schedule/
       - title: Open Science Room - Emergent Session
-        text: 9 avaialble spots for OHBM OSR 2025
+        text: 6 avaialble spots for OHBM OSR 2026
         buttonText: Check out available time slots & Sign up
-        buttonLink: https://ohbm.github.io/osr2025/emergent/
+        buttonLink: https://ohbm.github.io/osr2026/emergent/
       - title: Volunteer for OHBM BrainHack or Open Science Room
         buttonText: Sign up
         buttonLink: https://forms.office.com/r/HibdDbDGjj
