@@ -292,13 +292,13 @@ params:
       - name: Open Science Room Advocate
         oursponsors:
           - name: "Cortical Labs"
-            image: /images/logos/openneuro_logo.png
+            image: /images/logos/CorticalLabs_OSR_BrainHack.png
             height: 8em
-            url: https://openneuro.org/
+            url: https://corticallabs.com/
           - name: "Brain Products"
-            image: /images/logos/openneuro_logo.png
+            image: /images/logos/BrainProducts_OSR.jpg
             height: 8em
-            url: https://openneuro.org/
+            url: https://www.brainproducts.com/
           - name: "Openneuro"
             image: /images/logos/openneuro_logo.png
             height: 8em
