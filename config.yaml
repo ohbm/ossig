@@ -304,6 +304,31 @@ params:
             height: 8em
             url: https://openneuro.org/
 
+
+      - name: OS-SIG Sponsors
+        oursponsors:
+          - name: "OHBM"
+            image: /images/logos/ohbm.jpg
+            height: 8em
+            url: https://www.humanbrainmapping.org/
+          - name: "Cortical Labs"
+            image: /images/logos/CorticalLabs_OSR_BrainHack.png
+            height: 7em
+            url: https://corticallabs.com/
+          - name: "Brain Products"
+            image: /images/logos/BrainProducts_OSR.jpg
+            height: 5em
+            url: https://www.brainproducts.com/
+          - name: "Brain Innovation"
+            image: /images/logos/Brain_Innovation_BrainHack.png
+            height: 7em
+            url: https://brainvoyager.com/
+          - name: "Openneuro"
+            image: /images/logos/openneuro_logo.png
+            height: 8em
+            url: https://openneuro.org/
+
+
       # - name: Open Science Room Supporter
       #   oursponsors:
       #     - name: "Tanenbaum Open Science Institute (TOSI)"
