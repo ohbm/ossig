@@ -367,6 +367,11 @@ params:
             image: /images/logos/Brain_Innovation_BrainHack.png
             height: 9em
             url: https://brainvoyager.com/
+        oursponsors:
+          - name: "CON"
+            image: /images/logos/_CON.png
+            height: 9em
+            url: https://centerforopenneuroscience.org/
 
           # - name: "Cortical Labs"
           #   image: /images/logos/CorticalLabs_OSR_BrainHack.png
