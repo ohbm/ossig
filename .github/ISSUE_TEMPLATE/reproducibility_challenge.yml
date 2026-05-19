@@ -21,7 +21,7 @@ body:
   - type: input
     id: authors
     attributes:
-      label: "Author(s) & Contact Information"
+      label: "Corresponding Author & Contact Information"
       description: "Names, institutional affiliations, and contact email(s)."
       placeholder: "J. Doe (University X) – j.doe@university.edu"
     validations:
