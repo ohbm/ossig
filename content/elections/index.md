@@ -1,7 +1,7 @@
 ---
-title: "OHBM OSSIG 2025 Committee"
+title: "OHBM OSSIG 2026 Committee"
 subtitle: "Make a difference: join the OS SIG Committee!"
-date: 2025-06-18
+date: 2026-6-8
 draft: false
 sidebar: false # true or false to display the sidebar
 sidebarlogo: fresh-white-alt # From (static/images/logo/)
@@ -29,7 +29,7 @@ If open-science excites you and you want to help push its frontiers, please cons
 
 All OS SIG officers have reduced registration for OHBM 2026!
 
-**Please join us by submitting your self-nomination through [this self-nomination form](https://forms.office.com/r/ExiLa0W8iw)**
+**Please join us by submitting your self-nomination through [this self-nomination form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=z3fjtrOdy0aRovrZYFuxXO8Jlo5GhZhJsZxpach489FUMDg2RjhSR044NDExVkM3MkdIUUhMUlgzVy4u)**
 
 <!-- **Please join us by submitting you self-nomination through [this form](https://forms.office.com/r/hf7N6RrYyE)** -->
 
@@ -42,7 +42,7 @@ Please see below for a brief description of each open officer position. For more
 We have many opportunities to get involved with open science and OHBM. If you do not have the time commitment for the officer positions, please see [below for volunteer positions available](#available-volunteer-positions).
 
 
-Important links: Learn more about the [officer roles and responsibilities](https://drive.google.com/file/d/1fw2qZJcM8g_QwtecmWxoAz2gyjpGLDjF/view?usp=drive_link), check out the [OHBM Hackathon 2025](https://ohbm.github.io/hackathon2025/) and the [Open Science Room 2025](https://ohbm.github.io/osr2025/), and meet the [current and past OS SIG officers](https://ossig.netlify.app/#OSSIG_team).
+Important links: Learn more about the [officer roles and responsibilities](https://drive.google.com/file/d/1fw2qZJcM8g_QwtecmWxoAz2gyjpGLDjF/view?usp=drive_link), check out the [OHBM Hackathon 2026](https://ohbm.github.io/hackathon2026/) and the [Open Science Room 2026](https://ohbm.github.io/osr2026/), and meet the [current and past OS SIG officers](https://ossig.netlify.app/#OSSIG_team).
 
 ## Renewal timeline and procedures: what to expect after self-nomination
 
@@ -59,6 +59,8 @@ Following the interview process, new officers will be announced. Rounds open eve
 | Round 3 | August 17th | September 1st to 14th | Embargo does not apply starting this round. |
 | Round 4 | September 14th |  September 28th to October 12th | Embargo does not apply starting this round. |
 | Continuous recruitment | October 12th | | Continuous recruitment until all positions are filled. |
+
+<!-- 2026-06-18 Need to update the exact dates here>
 
 <!-- > As of August 29th, 2024, we have opened the 3rd round of self-nomination to fill the available positions listed below. -->
 
@@ -165,13 +167,13 @@ The Local Liaison Officer is a person residing in or near, or having strong know
 - Number of positions: 1
 - Duration: 1 year -->
 
-## Available volunteer positions for 2025/2026
+<!-- ## Available volunteer positions for 2025/2026 -->
 
 <!-- **Applications for volunteering is now open, consider joining the us!** -->
-
+<!-- 
 ### Volunteer Roles Overview
 
-Volunteer roles within the OS SIG offer flexible ways to contribute according to your availability and interests. Volunteers can participate remotely, in person during the Hackathon and OHBM meeting, or through a combination of both. When you sign up as a volunteer, we will discuss together how you would like to contribute and what tasks fit your schedule. Please note that attending OHBM in person is not a requirement for volunteers, and registration fees are not covered by the OS SIG. Below are some examples of volunteer roles and tasks to give you an idea of how you can contribute to the OS SIG.
+Volunteer roles within the OS SIG offer flexible ways to contribute according to your availability and interests. Volunteers can participate remotely, in person during the Hackathon and OHBM meeting, or through a combination of both. When you sign up as a volunteer, we will discuss together how you would like to contribute and what tasks fit your schedule. Please note that attending OHBM in person is not a requirement for volunteers, and registration fees are not covered by the OS SIG. Below are some examples of volunteer roles and tasks to give you an idea of how you can contribute to the OS SIG. -->
 
 <!-- 
 #### General Volunteering
