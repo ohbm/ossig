@@ -71,9 +71,9 @@ Following the interview process, new officers will be announced. Rounds open eve
     <img src="/images/elections/3-OSSIG_Volunteer_Roles.png" alt="Volunteer Roles" style="width:45%;">
 </div>
 
-## Available officer positions for 2025/2026
+## Available officer positions for 2026
 
-_**Updated August 23rd, 2025**_
+_**Updated June 1st, 2026**_
 
 ### Officer Positions Overview
 
