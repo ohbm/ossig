@@ -10,9 +10,12 @@ include_footer: true
 <!-- ![](/images/illustrations/edu2025_logo.png) -->
 <!-- Put in 2026 logo -->
 
+![](/images/logos/ossig_2026.png)
+![](/images/logos/seasig_logo.png)
+
 # The Research Lifecycle: A Primer on Open and Sustainable Science Practices
 
-* This OHBM 2026 Educational Course is organized as a joint effort between the OHBM Open Science and Sustainability and Environmental Action Special Interest Groups (OS-SIG/SEA-SIG).
+* This OHBM 2026 Educational Course is organized as a joint effort between the OHBM Open Science and Sustainability and Environmental Action Special Interest Groups ([OS-SIG](https://ossig.netlify.app/)/[SEA-SIG](https://ohbm-environment.org/)).
 * Open and sustainable research practices go together throughout the entirety of the scientific process from data management and sharing, to preprocessing and analysis, and beyond.
 * This educational course will address the topic of open and sustainable science throughout each step of the process, with each talk speaking to a different part of the research “lifecycle.” 
 * This format makes open and sustainable science practices approachable for trainees and early career researchers, as well as established investigators looking to refine their scientific processes.
@@ -93,6 +96,8 @@ _About the talk_: All aspects of the neuroimaging research process, spanning dat
 
 Examples will be run on a public Neurodesk Play cloud instance at [https://play-europe.neurodesk.org/](https://play-europe.neurodesk.org/). This instance is enabled through services and resources provided by the EGI Federation, with dedicated support from CESNET-MCC. Computational resources were provided by the e-INFRA CZ project (ID:90254), supported by the Ministry of Education, Youth and Sports of the Czech Republic. Course materials will remain available on the Neurodesk Play instance for 2 months after the conference. 
 
-Neurodesk’s documentation at neurodesk.org includes a short getting-started guide for new users. Neurodesk Play is a browser-based Neurodesk instance that gives you access to a full suite of neuroimaging tools, with no local installation required.
+Neurodesk’s documentation at [neurodesk.org](http://neurodesk.org) includes a short getting-started guide for new users. [Neurodesk Play](https://neurodesk.org/getting-started/hosted/play/) is a browser-based Neurodesk instance that gives you access to a full suite of neuroimaging tools, with no local installation required.
+
+![](/images/logos/neurodesk_2026.png)
 
 For any questions, you can reach us at [ohbmopenscience@gmail.com](mailto:ohbmopenscience@gmail.com) or find us in the Open Science Room at OHBM 2026 (Room H).
