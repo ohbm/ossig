@@ -104,4 +104,4 @@ For any questions, you can reach us at [ohbmopenscience@gmail.com](mailto:ohbmop
 
 # Previous Courses
 
-- [OHBM 2025 Educational Course](/Education/2025.md)
+- [OHBM 2025 Educational Course](./2025.md)
