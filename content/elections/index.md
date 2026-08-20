@@ -33,7 +33,7 @@ All OS SIG officers have reduced registration for OHBM 2026!
 
 <!-- **Please join us by submitting you self-nomination through [this form](https://forms.office.com/r/hf7N6RrYyE)** -->
 
-Please see below for a brief description of each open officer position. For more information and descriptions of positions in detail, please find them in [the OHBM Open Science SIG 2025/2026 Renewal Bylaws](https://drive.google.com/file/d/14nLwss4mqos_HuVEwJA_k5JVIK-b_FSWDwX6GbjUZkE/view).
+Please see below for a brief description of each open officer position. For more information and descriptions of positions in detail, please find them in [the OHBM Open Science SIG 2026/2027 Renewal Bylaws](https://acrobat.adobe.com/id/urn:aaid:sc:AP:53fca5db-1462-403f-aee5-440268b1fd72).
 
 <!--Updated with view link version of https://docs.google.com/document/d/14nLwss4mqos_HuVEwJA_k5JVIK-b_FSWDwX6GbjUZkE/edit?usp=sharing -->
 
@@ -42,7 +42,7 @@ Please see below for a brief description of each open officer position. For more
 We have many opportunities to get involved with open science and OHBM. If you do not have the time commitment for the officer positions, please see [below for volunteer positions available](#available-volunteer-positions).
 
 
-Important links: Learn more about the [officer roles and responsibilities](https://drive.google.com/file/d/1fw2qZJcM8g_QwtecmWxoAz2gyjpGLDjF/view?usp=drive_link), check out the [OHBM Hackathon 2026](https://ohbm.github.io/hackathon2026/) and the [Open Science Room 2026](https://ohbm.github.io/osr2026/), and meet the [current and past OS SIG officers](https://ossig.netlify.app/#OSSIG_team).
+Important links: Learn more about the [officer roles and responsibilities](https://acrobat.adobe.com/id/urn:aaid:sc:AP:53fca5db-1462-403f-aee5-440268b1fd72), check out the [OHBM Hackathon 2026](https://ohbm.github.io/hackathon2026/) and the [Open Science Room 2026](https://ohbm.github.io/osr2026/), and meet the [current and past OS SIG officers](https://ossig.netlify.app/#OSSIG_team).
 
 ## Renewal timeline and procedures: what to expect after self-nomination
 
