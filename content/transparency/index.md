@@ -7,15 +7,18 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true
 ---
 
-# At OSSIG, we are committed to maintaining transparency in all of our operations.
+# Our Commitment to Transparency
 
-Here, we provide open access to our inclusivity and diversity recruitment reports, budget summaries, and annual reports to ensure full accountability.
+We are committed to making the work we do within OSSIG as open as possible. As part of that commitment, we publish our annual reports, recruitment diversity reports, and financial reports for each term.
 
 <!-- more formal? -->
 <!-- # OSSIG is committed to upholding the highest standards of transparency in its operations.
 
 On this page, you will find our reports on diversity and inclusivity in recruitment, detailed budget expenditures, and our annual organizational summaries. -->
 
-| Year | Officer Recruitment / Diversity Report | Budget Report | Annual Report |
+| Year | Annual Report | Financial Report | Officer Recruitment / Diversity Report |
 | :--: | :------------------------------------- | :------------ | :----------- |
-| 2025 | [Diversity Report](https://docs.google.com/document/d/1CQITeHrBttOWCI0vHgmfjVSUdaxZJAVy/edit) | In Preparation | In Preparation |
+| 2024-2025 | [Annual Report](https://drive.google.com/file/d/1JJ1W6hd7Tv9ICumaeXCANp2gMxHQRUDS/view?usp=sharing) | [Financial Report](https://drive.google.com/file/d/1ZeSuHpdOHm0kovcc9sY3kYr00CwjdeqO/view?usp=sharing) | [Recruitment Diversity Report](https://drive.google.com/file/d/1JKSDua39YfM8Q_U0gSU-hHkBbkqWiD2b/view?usp=sharing) |
+| 2025-2026 | [Annual Report*](https://drive.google.com/file/d/1AhUfiMd6iFS3CUF3FPthWExojlomwKQh/view?usp=sharing) | In Preparation | [Recruitment Diversity Report](https://drive.google.com/file/d/1A3Iv_mNFheQoW4SqyTUPEKy4bWzY5v5N/view?usp=sharing) |
+
+**Note: This report includes both the standard yearly report for the 2025-2026 term and an extended report for our 5-year SIG renewal. We have removed the section requesting a list of OHBM members in good standing who support the SIG renewal.*

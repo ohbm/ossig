@@ -1,7 +1,7 @@
 ---
 title: "OHBM OSSIG 2026 Committee"
 subtitle: "Make a difference: join the OS SIG Committee!"
-date: 2026-6-8
+date: 2026-06-08
 draft: false
 sidebar: false # true or false to display the sidebar
 sidebarlogo: fresh-white-alt # From (static/images/logo/)
