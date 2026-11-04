@@ -20,3 +20,83 @@ img.pushed-image-mt {
 }
 
 //Icon box
+
+// Current team profiles
+#OSSIG_team {
+    scroll-margin-top: 5rem;
+}
+
+.team-card {
+    .team-portrait {
+        width: 175px;
+        min-width: 175px;
+        flex-shrink: 0;
+    }
+
+    .team-headshot {
+        display: block;
+        width: 175px;
+        height: 175px;
+        border-radius: 50%;
+        object-fit: cover;
+        object-position: center 30%;
+    }
+
+    .team-initials {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background: #eef2f7;
+        color: #46566c;
+        font-size: 3rem;
+        font-weight: 600;
+    }
+
+    .team-socials {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 4px;
+        margin: 12px 0 0;
+        padding: 0;
+        list-style: none;
+
+        a {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+
+            &:hover {
+                background: #eef2f7;
+            }
+
+            &:focus-visible {
+                outline: 3px solid #3273dc;
+                outline-offset: 2px;
+            }
+        }
+    }
+
+    .media-content {
+        overflow-wrap: break-word;
+    }
+
+    @media screen and (max-width: 600px) {
+        .media {
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .team-portrait {
+            margin-right: 0;
+        }
+
+        .media-content {
+            width: 100%;
+            text-align: center;
+        }
+    }
+}

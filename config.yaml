@@ -26,7 +26,7 @@ params:
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
-    - title: Our Team 2026
+    - title: Our Team 2027
       url: "/#OSSIG_team"
     - title: Join the OSSIG Committee
       url: "/elections"
@@ -66,220 +66,268 @@ params:
     buttonLink: https://github.com/ohbm/hackathon2020/blob/master/README.md
 
   team:
-    title: Our team 2026
+    title: Our Team 2027
     subtitle: The people behind the OSSIG
     id: OSSIG_team
-    year: 2026
-    # images (from ./public/images/illustrations/faces/$year/___.jpg)
-    
+    year: 2027
     members:
-      # chair, secretary, treasurer
-      - name: Muriah Wheelock
-        role: Chair
-        image: muriah_wheelock1
-        affiliation: Washington University in St. Louis
-        twitter: https://bsky.app/profile/muriahwheelock.bsky.social
-      - name: Eva Van Heese
-        role: Secretary
-        image: eva_vanheese1
-        affiliation: Amsterdam University Medical Centre
-        twitter:
-      - name: Veronica Diveica
-        role: Treasurer
-        image: veronica_diveica1
-        affiliation: Montreal Neurological Institute
-        twitter: https://x.com/DiveicaV
-
-      # hackathon
-      - name: Ashley York
-        role: Hackathon Co-Chair
-        image: ashley_york1
-        affiliation: The University of Queensland
-        twitter:
-      - name: Thuy Dao
-        role: Hackathon Co-Chair
-        image: thuy_dao1
-        affiliation: The University of Queensland
-        twitter:
-      
-      # OSR
-      - name: James Kent
-        role: Open Science Room Chair
-        image: james_kent1
-        affiliation: University of Texas in Austin
-        twitter: https://x.com/SudoNeuroSci
-
-      # Hybridization
-      - name: Sung Min Ha
-        role: Hybridization Chair
-        image: sungmin_ha1
-        affiliation: Washington University in St. Louis
-        twitter: https://x.com/SungMinHa1992
-
-      # Community Liaison Officer
-      - name: Steven Meisler
-        role: Community Liaison Officer
-        image: steven_meisler1
-        affiliation: University of Pennsylvania
-        twitter: 
-
-      # Local Liaison Officer
-      - name: Belen Azofra
-        role: Local Liaison Officer
-        image: belen_azofra1
-        affiliation: University of Paris Cite
-        twitter: 
-      - name: Achille Gillig
-        role: Local Liaison Officer
-        image: 
-        affiliation: Université de Bordeaux
-        twitter: 
-
-      # elect chair, secretary, treasurer
-      - name: Johanna Bayer
-        role: Chair Elect
-        image: johanna_bayer1
-        affiliation: Donders Institute for Brain, Cogntion and Behaviour, Netherlands
-        twitter: https://x.com/likeajumprope
-      - name: Nikhil Bhagwat
-        role: Secretary Elect
-        image: 
-        affiliation: McGill University
-        twitter:
-      - name: Moses Sokunbi
-        role: Treasurer Elect
-        image: 
-        affiliation: De Montfort University
-        twitter:
-
-      # elect brainhack/OSR/hybrid
-      - name: Felix Hoffstaedter
-        role: Hackathon Co-Chair Elect
-        image: felix_hoffstaedter1
-        affiliation: Institute of Neuroscience and Medicine (INM-7), Research Centre Jülich
-        twitter:
-      - name: Sung-Ho Lee
-        role: Hackathon Co-Chair Elect
-        image: SungHo_Lee1
-        affiliation: The University of North Carolina at Chapel Hill
-        twitter: 
-      - name: Gaëlle Leroux
-        role: Open Science Room Co-Chair Elect
-        image: gaelle_leroux
-        affiliation: CNRS, Lyon Neuroscience Research Centre, France
-        twitter: https://bsky.app/profile/gaellecnrs.bsky.social
-      - name: Chloe Page
-        role: Open Science Room Co-Chair Elect
-        image: chloe_page1
-        affiliation: University of Colorado
-        twitter:
-      - name: Marshall Xu
-        role: Hybridization Chair Elect
-        image: marshall_xu1
-        affiliation: The University of Queensland
-        twitter:
-      
-      # past chair, secretary, treasurer
-      - name: Stefano Moia
-        role: Past Chair
-        image: stefano_moia1
-        affiliation: Faculty of Psychology and Neuroscience, Maastricht University
-        twitter: https://x.com/SteMoia
-      - name: Wei Zhang
-        role: Past Secretary
-        image: wei_zhang2
-        affiliation: Washington University in St. Louis
-        twitter: https://x.com/neurozzang
-      - name: Naomi Gaggi
-        role: Past Treasurer
-        image: naomi_lgaggi1
-        affiliation: New York University
-        twitter: https://x.com/NaomiGaggiS
-
-      # - name: Yi-Ju Lee (Jean)
-      #   role: Past Treasurer
-      #   image: yiju_lee1
-      #   affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
-      #   twitter: https://twitter.com/jean890203
-
-      # Volunteer
-      # - name: Ju-Chi Yu
-      #   role: Volunteer (Lead of the proceeding submission for OSR 2025; OS-SIG guest editor for the Aperture Neuro special issue)
-      #   image: ju-chi_yu2
-      #   affiliation: Krembil Centre for Neuroinformatics, Campbell Family Mental Health Research Institute, Centre for Addiction and Mental Health
-      #   twitter: https://x.com/juchiyu
-
-      # - name: Niousha Dehestani Kolagar
-      #   role: Volunteer (Co-lead of the proceeding submission for Brianhack 2025)
-      #   image:
-      #   affiliation: National University of Singapore
-      #   twitter:
-
-      # - name: Bruno Hebling Vieira
-      #   role: Volunteer (Co-lead of the proceeding submission for Brianhack 2025)
-      #   image: bruno_vieira1
-      #   affiliation: Department of Psychology, University of Zurich
-      #   twitter: https://x.com/HeblingVieira
-
-      # - name: Andrea Gondova
-      #   role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
-      #   image: gondova_andrea1
-      #   affiliation: Boston Children’s Hospital, Harvard Medical School
-      #   twitter: https://x.com/reaGondova
-
-      # - name: Selma Lugtmeijer
-      #   role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
-      #   image: selma_lugtmeijer1
-      #   affiliation: School of Psychology, Centre for Human Brain Health, University of Birmingham
-      #   twitter: https://x.com/LugtmeijerSelma
-
-      # - name: Sina Mansour
-      #   role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
-      #   image: sina_mansour1
-      #   affiliation: Centre for Sleep and Cognition, National University of Singapore
-      #   twitter:
-
-      # - name: Yi-Ju Lee (Jean)
-      #   role: Volunteer (OS-SIG guest editor for the Aperture Neuro special issue)
-      #   image: yiju_lee1
-      #   affiliation: Institute of Statistical Science and Smart Healthcare Project, Academia Sinica
-      #   twitter: https://twitter.com/jean890203
-
-      - name: Hanyi Li
-        role: Volunteer
-        image:
-        affiliation: The University of Manchester
-        twitter:
-
-      - name: Daisy Hu
-        role: Volunteer
-        image: daisy_hu
-        affiliation: University of Toroto
-        twitter:
-
-      - name: Dhivya Srinivasan
-        role: Volunteer
-        image:
-        affiliation: University of Pennsylvania
-        twitter:
-
-      - name: Beatriz Arantes
-        role: Volunteer
-        image: beatriz_rantes
-        affiliation: 
-        twitter:
-
-      - name: Achille Gillig
-        role: Volunteer
-        image:
-        affiliation: University of Bordeaux
-        twitter:
-
-      - name: Valentine Chirokoff
-        role: Volunteer
-        image:
-        affiliation: Deakin University
-        twitter:
+    - name: Johanna Bayer
+      role: Chair
+      image_path: /images/illustrations/faces/2027/johanna_bayer.jpg
+      affiliation: 'Donders Institute for Brain, Cognition and Behaviour, Netherlands; soon: McGill, and MNI, Canada'
+      additional_role: Liaison to the Council
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/likeajumprope
+      - platform: X (Twitter)
+        icon: x
+        url: https://x.com/likeajumprope
+    - name: Nikhil Bhagwat
+      role: Secretary
+      image_path: ''
+      affiliation: Montreal Neurological Institute
+    - name: Moses Sokunbi
+      role: Treasurer
+      image_path: ''
+      affiliation: Faculty of Health and Life Sciences, De Montfort University, UK.
+    - name: SungHo Lee
+      role: Hackathon Co-Chair
+      image_path: /images/illustrations/faces/2027/sungho_lee.jpg
+      affiliation: Department of Neurology, University of North Carolina at Chapel Hill
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/dvm-shlee
+      - platform: X (Twitter)
+        icon: x
+        url: https://x.com/shleevet
+    - name: Felix Hoffstaedter
+      role: Hackathon Co-Chair
+      image_path: /images/illustrations/faces/2027/felix_hoffstaedter.jpg
+      affiliation: Institut for Neuroscience and Medicine 7, Research Centre Jülich
+      additional_role: Diversity & Inclusivity Liaison
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/fehoff
+    - name: Gaëlle Leroux
+      role: Open Science Room Co-Chair
+      image_path: /images/illustrations/faces/2027/gaelle_leroux.jpg
+      affiliation: CNRS, Lyon Neuroscience Research Centre, France
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/gaelleroux
+      - platform: Bluesky
+        icon: bluesky
+        url: https://bsky.app/profile/gaellecnrs.bsky.social
+    - name: Chloe Page
+      role: Open Science Room Co-Chair
+      image_path: /images/illustrations/faces/2027/chloe_page.jpg
+      affiliation: University of Colorado
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/chloeliza
+    - name: Marshall Xu
+      role: Hybridization Officer
+      image_path: /images/illustrations/faces/2027/marshall_xu.jpg
+      affiliation: The University of Queensland
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/KMarshallX
+      - platform: X (Twitter)
+        icon: x
+        url: https://x.com/kmarshallxu
+    - name: Beatriz Arantes
+      role: Reproducibility Challenge Officer
+      image_path: /images/illustrations/faces/2027/beatriz_arantes.jpg
+      affiliation: ''
+    - name: Sarah Cutts
+      role: Reproducibility Challenge Officer
+      image_path: ''
+      affiliation: ''
+    - name: Alisha Loiseau
+      role: Community Liaison Officer
+      image_path: ''
+      affiliation: Florida International University
+    - name: Daisy Hu
+      role: Local Liaison Officer
+      image_path: /images/illustrations/faces/2027/daisy_hu.jpg
+      affiliation: University of Toronto
+    - name: Damien Kemka Douanla
+      role: Local Liaison Officer
+      image_path: ''
+      affiliation: ''
+    - name: Selma Lugtmeijer
+      role: Chair Elect
+      image_path: /images/illustrations/faces/2027/selma_lugtmeijer.jpg
+      affiliation: Centre for Human Brain Health, University of Birmingham
+      additional_role: Awards Committee
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/slugtmeijer
+    - name: Micaela Lembo
+      role: Secretary Elect
+      image_path: /images/illustrations/faces/2027/micaela_lembo.jpg
+      affiliation: Florida International University
+      additional_role: ComCom
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/MicaLembo
+    - name: Patrick Sadil
+      role: Treasurer Elect
+      image_path: /images/illustrations/faces/2027/patrick_sadil.jpg
+      affiliation: Johns Hopkins University
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/psadil
+      - platform: X (Twitter)
+        icon: x
+        url: https://x.com/psadil
+    - name: Clara El Khantour
+      role: Hackathon Co-Chair Elect
+      image_path: ''
+      affiliation: University of Montreal, CHU Sainte-Justine
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/claraElk
+    - name: Sarah Khalife
+      role: Hackathon Co-Chair Elect
+      image_path: /images/illustrations/faces/2027/sarah_khalife.jpg
+      affiliation: ''
+    - name: Marietjie Botes
+      role: Open Science Room Co-Chair Elect
+      image_path: ''
+      affiliation: ''
+    - name: Nazife Ayyildiz
+      role: Open Science Room Co-Chair Elect
+      image_path: ''
+      affiliation: ''
+    - name: Muriah Wheelock
+      role: Past Chair
+      image_path: /images/illustrations/faces/2027/muriah_wheelock.jpg
+      affiliation: Washington University in St. Louis
+      additional_role: Liaison to Program Committee
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/WheelockLab
+      - platform: Bluesky
+        icon: bluesky
+        url: https://bsky.app/profile/muriahwheelock.bsky.social
+    - name: Eva van Heese
+      role: Past Secretary
+      image_path: /images/illustrations/faces/2027/eva_vanheese.jpg
+      affiliation: Amsterdam University Medical Centre
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/evavanheese
+    - name: Veronica Diveica
+      role: Past Treasurer
+      image_path: /images/illustrations/faces/2027/veronica_diveica.jpg
+      affiliation: Montreal Neurological Institute
+      additional_role: ComCom
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/DiveicaV
+      - platform: X (Twitter)
+        icon: x
+        url: https://x.com/DiveicaV
+    - name: James Kent
+      role: Past Open Science Room Chair
+      image_path: /images/illustrations/faces/2027/james_kent.jpg
+      affiliation: University of Texas in Austin
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/jdkent
+      - platform: X (Twitter)
+        icon: x
+        url: https://x.com/SudoNeuroSci
+    - name: Ashley York
+      role: Past Hackathon Co-Chair
+      image_path: /images/illustrations/faces/2027/ashley_york.jpg
+      affiliation: University of Queensland
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/ashYork
+      - platform: X (Twitter)
+        icon: x
+        url: https://x.com/AshYork1
+      - platform: Mastodon
+        icon: mastodon
+        url: https://mastodon.online/@redgreenblue
+    - name: Thuy Dao
+      role: Past Hackathon Co-Chair
+      image_path: /images/illustrations/faces/2027/thuy_dao.jpg
+      affiliation: The University of Queensland
+    - name: Steven Meisler
+      role: Past Community Liaison Officer
+      image_path: /images/illustrations/faces/2027/steven_meisler.jpg
+      affiliation: University of Pennsylvania
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/smeisler
+      - platform: X (Twitter)
+        icon: x
+        url: https://x.com/StevenMeisler
+    - name: Achille Gillig
+      role: Past Local Liaison Officer
+      image_path: ''
+      affiliation: ''
+    - name: Sungmin Ha
+      role: Past Hybridization Officer
+      image_path: /images/illustrations/faces/2027/sungmin_ha.jpg
+      affiliation: Washington University in St. Louis
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/sungminha
+      - platform: X (Twitter)
+        icon: x
+        url: https://x.com/SungMinHa1992
+    - name: Nicolas Nieto
+      role: Volunteer
+      image_path: /images/illustrations/faces/2027/nicolas_nieto.jpg
+      affiliation: Institut for Neuroscience and Medicine 7, Research Centre Jülich
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/N-Nieto
+    - name: David Linhardt
+      role: Volunteer
+      image_path: ''
+      affiliation: Medical University of Vienna
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/dlinhardt
+    - name: Konstantinos Tsilimparis
+      role: Volunteer
+      image_path: /images/illustrations/faces/2027/konstantinos_tsilimparis.jpg
+      affiliation: Donders Institute for Brain, Cognition and Behaviour, Netherlands
+      socials:
+      - platform: GitHub
+        icon: github
+        url: https://github.com/contsili
+      - platform: X (Twitter)
+        icon: x
+        url: https://x.com/KonTsilimparis
+    - name: Valentine Chirokoff
+      role: Volunteer
+      image_path: ''
+      affiliation: Deakin University
 
   sponsors:
     title: Our sponsors
