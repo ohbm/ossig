@@ -85,7 +85,7 @@ params:
         url: https://x.com/likeajumprope
     - name: Nikhil Bhagwat
       role: Secretary
-      image_path: ''
+      image_path: /images/illustrations/faces/2027/nikhil_bhagwat.jpg
       affiliation: Montreal Neurological Institute
     - name: Moses Sokunbi
       role: Treasurer
@@ -208,7 +208,7 @@ params:
       affiliation: ''
     - name: Nazife Ayyildiz
       role: Open Science Room Co-Chair Elect
-      image_path: ''
+      image_path: /images/illustrations/faces/2027/nazife_ayyildiz.jpg
       affiliation: ''
     - name: Muriah Wheelock
       role: Past Chair
