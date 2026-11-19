@@ -1,7 +1,7 @@
 ---
 title: "Legal Dimensions of Open Science: From Publishing, to Software, and Data"
 subtitle: "*The OSSIG symposium at OHBM 2026, Bordeaux, France*"
-date: 2026-06-15
+date: 2026-06-16
 draft: false
 sidebar: false
 include_footer: true
