@@ -30,33 +30,32 @@ params:
       url: "/#OSSIG_team"
     - title: Join the OSSIG Committee
       url: "/elections"
-    - title: Hackathon
+    - title: Brainhack
       url: "https://ohbm.github.io/hackathon2026"
-    #- title: Call for fellows
-    #  url: "/awards"
-    - title: Educational Courses
-      url: "/Education"
     - title: Open Science Room
       url: "https://ohbm.github.io/osr2026"
-    - title: Events
-      sublinks: 
+    - title: Reproducibility Challenge
+      url: "/challenge"
+    - title: Spotlight Initiatives
+      sublinks:
+      - title: "Blog Series: Neuroimaging in the LLM Era"
+        url: /blog
       - title: Aperture Neuro Special Issue
         url: /anspecial
-      - title: OHBM Reproducibility Challenge
-        url: /challenge
+    - title: OSSIG Archive
+      sublinks:
+      - title: OHBM Educational Courses
+        url: /Education
+      - title: OHBM Symposium
+        url: /symposium
       - title: The Taiwan Open Brain Science Workshop
         url: https://sites.google.com/tmu.edu.tw/openbrainscience/home
+      - title: Past Members
+        url: /pastmembers
     - title: Sponsors
       url: "/sponsors"
-    - title: Transparency
+    - title: OSSIG Reports & Budget
       url: "/transparency"
-    - title: Past members
-      url: "/pastmembers"
-  # - title: Bylaws
-  #   url: https://docs.google.com/document/d/1_tfGJMtcwebVM06Z2AzNZ70JT1ID2S48fGCIqJwDyg0/edit?usp=sharing
-  # - title: Join the OSSIG
-  #   url: https://bit.ly/OHBMOSSIG2021Nominations
-
   hackathon:
     title: Save the date
     subtitle: It is coming... Finally.
