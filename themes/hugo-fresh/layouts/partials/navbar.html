@@ -50,34 +50,13 @@
         </div>
         {{- end }}
 
-        <div class="navbar-end">
-          {{- range $navbar }}
-          {{- if .sublinks }}
-          <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-              {{ .title }}
-            </a>
-
-            <div class="navbar-dropdown">
-              {{- range .sublinks }}
-              <a href="{{ .url }}" class="navbar-item">
-                {{ .title }}
-              </a>
-              {{- end }}
-            </div>
+        <div class="navbar-end navbar-rows">
+          <div class="navbar-row">
+            {{- range $navbar }}{{ if ne (.row | default 1) 2 }}{{ partial "navbar-item.html" . }}{{ end }}{{ end }}
           </div>
-          {{- else if .button }}
-          <a href="{{ .url }}" class="navbar-item">
-            <span class="button signup-button rounded secondary-btn raised">
-              {{ .title }}
-            </span>
-          </a>
-          {{- else }}
-          <a href="{{ .url }}" class="navbar-item is-secondary" >
-            {{ .title }}
-          </a>
-          {{- end }}
-          {{- end }}
+          <div class="navbar-row">
+            {{- range $navbar }}{{ if eq (.row | default 1) 2 }}{{ partial "navbar-item.html" . }}{{ end }}{{ end }}
+          </div>
         </div>
       </div>
   </div>

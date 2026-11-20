@@ -1,0 +1,26 @@
+{{- /* Renders one navbar entry from .Site.Params.navbar (link, button or dropdown). */ -}}
+{{- if .sublinks }}
+<div class="navbar-item has-dropdown is-hoverable">
+  <a class="navbar-link">
+    {{ .title }}
+  </a>
+
+  <div class="navbar-dropdown">
+    {{- range .sublinks }}
+    <a href="{{ .url }}" class="navbar-item">
+      {{ .title }}
+    </a>
+    {{- end }}
+  </div>
+</div>
+{{- else if .button }}
+<a href="{{ .url }}" class="navbar-item">
+  <span class="button signup-button rounded secondary-btn raised">
+    {{ .title }}
+  </span>
+</a>
+{{- else }}
+<a href="{{ .url }}" class="navbar-item is-secondary">
+  {{ .title }}
+</a>
+{{- end }}
