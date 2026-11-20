@@ -2,6 +2,7 @@
 title: "Hallucinating responsibly: A perspective series on the future of neuroimaging research in the LLM era"
 subtitle: "*An OSSIG initiative on the future of sustainable science*"
 date: 2026-11-19
+widetitle: true # wider title box, for long titles
 draft: false
 sidebar: false
 include_footer: true
@@ -12,6 +13,8 @@ include_footer: true
 Large language models (LLMs) and other AI systems are already changing how science is done. This raises urgent questions about training, research integrity, open science, institutional responsibility and environmental sustainability. Many researchers are unsure whether these tools are overall beneficial or detrimental for science and scientists, or how to adapt to tools that are already part of their daily work. The neuroimaging community lacks a space to examine its own transformation critically and explicitly. This OSSIG initiative aims to provide it.
 
 We don't aim to advocate a particular position or prescribe best practices. Instead, we want to understand the ongoing changes, question the assumptions behind the uptake of LLMs in our day-to-day scientific activities, weigh opportunities and risks, and consider how researchers and institutions can actively shape what comes next. To do so, we will bring together people with different scientific, professional, institutional and philosophical perspectives, and make their reasoning and their potential disagreements visible.
+
+## How this started
 
 ## Themes
 
@@ -37,6 +40,6 @@ These are prompts, not a template. We especially welcome disagreement with mains
 
 The publications are a starting point for a continuing conversation. Building on the series, we plan an annual facilitated discussion in the Open Science Room at OHBM. It will bring selected topics and contributors together in person and, importantly, invite the audience to respond, challenge arguments and share their own experiences. Our longer-term aim is a lasting space within the OHBM community to examine how AI is changing science, and what kind of scientific community we want to become.
 
-<!-- ## Published pieces
-- **Title of the piece**, Author names (2026). [Read it on the OHBM blog](https://...)
--->
+## Further reading
+
+Curious to dig deeper? We've put together a short [list of further reading](/blog/further-reading/) on LLMs in science and research. It's entirely optional: not homework, just a starting point if you're interested.
