@@ -24,7 +24,7 @@ params:
     # Hero image (from /images/___)
     image: illustrations/undraw_scrum_board.svg
 
-  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  # Customizable navbar. For a dropdown, add a "sublinks" list. Add "row: 2" to put an item on the second line.
   navbar:
     - title: Our Team 2027
       url: "/#OSSIG_team"
@@ -37,12 +37,20 @@ params:
     - title: Reproducibility Challenge
       url: "/challenge"
     - title: Spotlight Initiatives
+      row: 2
       sublinks:
       - title: "Blog Series: Neuroimaging in the LLM Era"
         url: /blog
       - title: Aperture Neuro Special Issue
         url: /anspecial
+    - title: Sponsors
+      row: 2
+      url: "/sponsors"
+    - title: OSSIG Reports & Budget
+      row: 2
+      url: "/transparency"
     - title: OSSIG Archive
+      row: 2
       sublinks:
       - title: OHBM Educational Courses
         url: /Education
@@ -52,10 +60,6 @@ params:
         url: https://sites.google.com/tmu.edu.tw/openbrainscience/home
       - title: Past Members
         url: /pastmembers
-    - title: Sponsors
-      url: "/sponsors"
-    - title: OSSIG Reports & Budget
-      url: "/transparency"
   hackathon:
     title: Save the date
     subtitle: It is coming... Finally.
