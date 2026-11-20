@@ -10,7 +10,7 @@
     {{ else }}
     <div class="title-wrapper has-text-centered mb-60">
       <h1 class="title section-title">{{ .Params.title }}</h1>
-      <h3 class="subtitle is-5 is-muted">{{ .Params.subtitle }}</h3>
+      <h3 class="subtitle is-5 is-muted">{{ .Params.subtitle | markdownify }}</h3>
     </div>
     {{ end }}
 
