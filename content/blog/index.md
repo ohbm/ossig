@@ -16,6 +16,10 @@ We don't aim to advocate a particular position or prescribe best practices. Inst
 
 ## How this started
 
+This series grew out of an emergent session in the Open Science Room at OHBM 2026 in Bordeaux, [AI in Academia: panacea or a Trojan horse?](https://github.com/ohbm/osr2026/issues/25), proposed by Andrea Gondova (Boston Children's Hospital) and Nikhil Bhagwat (McGill University). Lots of people showed up and the discussion went everywhere, from training students to open science, the environmental cost of AI, and whether universities are about to repeat their mistakes with publishers.
+
+An hour turned out to be nowhere near enough. There was a lot more to talk about, and because things are changing so quickly, we wanted a way to keep the conversation going and hear from more people in our field. This perspective series is the result.
+
 ## Themes
 
 * **Training and research practice:** How are LLMs changing how researchers learn, build expertise, analyse data and produce knowledge? Which skills should trainees still develop themselves? How do LLMs change how you see your role as a researcher?
@@ -40,6 +44,10 @@ These are prompts, not a template. We especially welcome disagreement with mains
 
 The publications are a starting point for a continuing conversation. Building on the series, we plan an annual facilitated discussion in the Open Science Room at OHBM. It will bring selected topics and contributors together in person and, importantly, invite the audience to respond, challenge arguments and share their own experiences. Our longer-term aim is a lasting space within the OHBM community to examine how AI is changing science, and what kind of scientific community we want to become.
 
+## About us
+
+This series is organised by Andrea Gondova, Nikhil Bhagwat, Svea Königsmann, and Eva van Heese, on behalf of the OHBM Open Science SIG. Questions, ideas, or interested in contributing? Please reach out to [ohbmopenscience@gmail.com](mailto:ohbmopenscience@gmail.com).
+
 ## Further reading
 
-Curious to dig deeper? We've put together a short [list of further reading](/blog/further-reading/) on LLMs in science and research. It's entirely optional: not homework, just a starting point if you're interested.
+Curious to dig deeper? We've put together a short [list of further reading](/blog/further-reading/) on LLMs in science and research. Read as much or as little as you like!
