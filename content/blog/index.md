@@ -16,7 +16,7 @@ We don't aim to advocate a particular position or prescribe best practices. Inst
 
 ## How this started
 
-This series grew out of an emergent session in the Open Science Room at OHBM 2026 in Bordeaux, [AI in Academia: panacea or a Trojan horse?](https://github.com/ohbm/osr2026/issues/25), proposed by Andrea Gondova (Boston Children's Hospital) and Nikhil Bhagwat (McGill University). Lots of people showed up and the discussion went everywhere, from training students to open science, the environmental cost of AI, and whether universities are about to repeat their mistakes with publishers.
+This series grew out of an emergent session in the Open Science Room at OHBM 2026 in Bordeaux, [AI in Academia: panacea or a Trojan horse?](https://www.crowdcast.io/c/osr-2026-emergent-4), proposed by Andrea Gondova (Boston Children's Hospital) and Nikhil Bhagwat (McGill University). Lots of people showed up and the discussion went everywhere, from training students to open science, the environmental cost of AI, and whether universities are about to repeat their mistakes with publishers.
 
 An hour turned out to be nowhere near enough. There was a lot more to talk about, and because things are changing so quickly, we wanted a way to keep the conversation going and hear from more people in our field. This perspective series is the result.
 
