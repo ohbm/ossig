@@ -2,6 +2,7 @@
 title: "Hallucinating responsibly: A perspective series on the future of neuroimaging research in the LLM era"
 subtitle: "*An OSSIG initiative on the future of sustainable science*"
 date: 2026-11-19
+widetitle: true # wider title box, for long titles
 draft: false
 sidebar: false
 include_footer: true
@@ -12,6 +13,12 @@ include_footer: true
 Large language models (LLMs) and other AI systems are already changing how science is done. This raises urgent questions about training, research integrity, open science, institutional responsibility and environmental sustainability. Many researchers are unsure whether these tools are overall beneficial or detrimental for science and scientists, or how to adapt to tools that are already part of their daily work. The neuroimaging community lacks a space to examine its own transformation critically and explicitly. This OSSIG initiative aims to provide it.
 
 We don't aim to advocate a particular position or prescribe best practices. Instead, we want to understand the ongoing changes, question the assumptions behind the uptake of LLMs in our day-to-day scientific activities, weigh opportunities and risks, and consider how researchers and institutions can actively shape what comes next. To do so, we will bring together people with different scientific, professional, institutional and philosophical perspectives, and make their reasoning and their potential disagreements visible.
+
+## How this started
+
+This series grew out of an emergent session in the Open Science Room at OHBM 2026 in Bordeaux, [AI in Academia: panacea or a Trojan horse?](https://www.crowdcast.io/c/osr-2026-emergent-4), proposed by Andrea Gondova (Boston Children's Hospital) and Nikhil Bhagwat (McGill University). Lots of people showed up and the discussion went everywhere, from training students to open science, the environmental cost of AI, and whether universities are about to repeat their mistakes with publishers.
+
+An hour turned out to be nowhere near enough. There was a lot more to talk about, and because things are changing so quickly, we wanted a way to keep the conversation going and hear from more people in our field. This perspective series is the result.
 
 ## Themes
 
@@ -37,6 +44,10 @@ These are prompts, not a template. We especially welcome disagreement with mains
 
 The publications are a starting point for a continuing conversation. Building on the series, we plan an annual facilitated discussion in the Open Science Room at OHBM. It will bring selected topics and contributors together in person and, importantly, invite the audience to respond, challenge arguments and share their own experiences. Our longer-term aim is a lasting space within the OHBM community to examine how AI is changing science, and what kind of scientific community we want to become.
 
-<!-- ## Published pieces
-- **Title of the piece**, Author names (2026). [Read it on the OHBM blog](https://...)
--->
+## About us
+
+This series is organised by Andrea Gondova, Nikhil Bhagwat, Svea Königsmann, and Eva van Heese, on behalf of the OHBM Open Science SIG. Questions, ideas, or interested in contributing? Please reach out to [ohbmopenscience@gmail.com](mailto:ohbmopenscience@gmail.com).
+
+## Further reading
+
+Curious to dig deeper? We've put together a short [list of further reading](/blog/further-reading/) on LLMs in science and research. Read as much or as little as you like!

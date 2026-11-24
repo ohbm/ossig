@@ -8,7 +8,7 @@
       {{ .Scratch.Set "team" (index .Site.Data.team $.Params.team_year) }}
       {{ partial "team.html" . }}
     {{ else }}
-    <div class="title-wrapper has-text-centered mb-60">
+    <div class="title-wrapper has-text-centered mb-60"{{ if .Params.widetitle }} style="max-width: 900px;"{{ end }}>
       <h1 class="title section-title">{{ .Params.title }}</h1>
       <h3 class="subtitle is-5 is-muted">{{ .Params.subtitle | markdownify }}</h3>
     </div>
